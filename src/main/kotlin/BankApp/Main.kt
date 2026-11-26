@@ -1,7 +1,7 @@
 package BankApp
 
 /********************
- * Last names: Avila
+ * Last names: Eborde, Avila
  * Language: Kotlin
  * Paradigm(s): Object-Oriented
  ********************/

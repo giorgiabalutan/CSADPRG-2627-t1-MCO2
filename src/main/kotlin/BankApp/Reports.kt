@@ -6,12 +6,15 @@ import de.m3y.kformat.Table
 import de.m3y.kformat.table
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.JsonObject
-import java.math.BigDecimal
 import kotlinx.serialization.json.buildJsonObject
 import kotlinx.serialization.json.put
+import kotlinx.serialization.ExperimentalSerializationApi
+import kotlinx.serialization.json.JsonPrimitive
+import kotlinx.serialization.json.JsonUnquotedLiteral
 import java.io.File
 import java.io.FileOutputStream
 import java.math.RoundingMode
+import java.math.BigDecimal
 import java.time.LocalDate
 import java.time.LocalDateTime
 import java.time.temporal.ChronoUnit
@@ -51,6 +54,10 @@ data class SuspiciousClientClass (
     val turnoverVelocity: Double,
     val riskFlagLevel: RiskFlagLevel,
 )
+
+@OptIn(ExperimentalSerializationApi::class)
+private fun BigDecimal.toJsonNumber(): JsonPrimitive =
+    JsonUnquotedLiteral(this.setScale(2, RoundingMode.HALF_UP).toPlainString())
 
 class Reports {
     companion object {
@@ -210,7 +217,7 @@ class Reports {
                         .sumOf { it.amount }
 
                     val turnoverVelocity = if (totalWithdrawalAmounts.signum() == 0) {
-                        0.0 // no withdrawals, nothing to measure
+                        0.0
                     } else {
                         totalDepositAmounts
                             .divide(totalWithdrawalAmounts, 4, RoundingMode.HALF_UP)
@@ -317,8 +324,8 @@ class Reports {
                 put("total_accounts", totalAccounts)
                 put("total_deposits", totalDeposits)
                 put("total_withdrawals", totalWithdrawals)
-                put("total_balance", totalBalance)
-                put("total_interest_expense", totalInterestExpense)
+                put("total_balance", totalBalance.toJsonNumber())
+                put("total_interest_expense", totalInterestExpense.toJsonNumber())
                 put("total_suspicious", totalSuspicious)
             }
 
