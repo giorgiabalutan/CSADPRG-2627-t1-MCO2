@@ -50,7 +50,11 @@ enum class Screen{
     /**
         The user can check interest here.
      */
-    INTEREST
+    INTEREST,
+    /**
+    The user can generate reports here.
+     */
+    REPORTS
 }
 
 const val ACCOUNT_FILEPATH = "accounts.dat"
@@ -73,7 +77,7 @@ enum class Currency(val currencyName: String){
 
 enum class Transactions(val transactionName: String) {
     Deposit("deposit"),
-    Withdraw("withdraw"),
+    Withdrawal("withdrawal"),
 }
 
 /**
@@ -172,9 +176,9 @@ class Account(val account_name: String, val account_number: String){
         @param[amount] the amount to deposit.
         @param[currency] the currency type of the target wallet.
      */
-    fun depositToWallet(amount: BigDecimal, currency: Currency){
+    fun depositToWallet(amount: BigDecimal, currency: Currency, write: Boolean = true){
         wallets[currency]?.deposit(amount)
-        CSV.writeTransaction(this, currency,amount, Transactions.Deposit)
+        if (write) CSV.writeTransaction(this, currency,amount, Transactions.Deposit)
     }
 
     /**
@@ -184,9 +188,9 @@ class Account(val account_name: String, val account_number: String){
         @param[amount] the amount to withdraw.
         @param[currency] the currency type of the target wallet.
      */
-    fun withdrawFromWallet(amount: BigDecimal, currency: Currency){
+    fun withdrawFromWallet(amount: BigDecimal, currency: Currency, write: Boolean = true){
         wallets[currency]?.withdraw(amount)
-        CSV.writeTransaction(this, currency,amount, Transactions.Withdraw)
+        if (write) CSV.writeTransaction(this, currency,amount, Transactions.Withdrawal)
     }
 
 }
@@ -414,8 +418,8 @@ class Model(){
                                 account.createWallet(currency, balance)
                             } else {
                                 val difference: BigDecimal = BigDecimal(row["current_balance"]) - (account.checkWallet(rowCurrency) ?: BigDecimal.ZERO)
-                                if (difference > BigDecimal.ZERO) account.depositToWallet(difference, rowCurrency)
-                                else account.withdrawFromWallet(difference, rowCurrency)
+                                if (difference > BigDecimal.ZERO) account.depositToWallet(difference, rowCurrency, false)
+                                else account.withdrawFromWallet(difference, rowCurrency, false)
                             }
                         }
                     }
@@ -445,7 +449,7 @@ class Model(){
 
     companion object {
 
-        fun isValidDate(input: String, pattern: String = "dd/MM/yyyy"): Boolean {
+        fun isValidDate(input: String, pattern: String = "dd/MM/uuuu"): Boolean {
             return try {
                 val formatter = DateTimeFormatter.ofPattern(pattern)
                     .withResolverStyle(ResolverStyle.STRICT)
@@ -458,8 +462,11 @@ class Model(){
 
         fun readTransactions(): Pair<MutableMap<String, MutableList<Transaction>>, Int> {
             val account_number_regex: Regex = Regex("""1092[0-9]{6}""")
-            val time_regex: Regex = Regex("""^(?:[0-9]|1[0-9]|2[0-3]):(?:[0-5][0-9]):(?:[0-5][0-9])$""")
-            val amount_regex: Regex = Regex("""[0-9]+.[0-9]{2}""")
+            val time_regex = Regex("""^(?:[01]?[0-9]|2[0-3]):[0-5][0-9]:[0-5][0-9]$""")
+            val amount_regex: Regex = Regex("""[0-9]+.[0-9]{1,2}""")
+            val dateTimeFormatter: DateTimeFormatter =
+                DateTimeFormatter.ofPattern("dd/MM/uuuu H:mm:ss")
+                    .withResolverStyle(ResolverStyle.STRICT)
 
             val allTransactions: MutableMap<String, MutableList<Transaction>> = mutableMapOf()
             var invalidTransactions: Int = 0
@@ -480,7 +487,7 @@ class Model(){
                                 (row["current_balance"] ?: "").isNotEmpty()
                             ) {
                                 if (
-                                // Valid account number
+                                    // Valid account number
                                     account_number_regex.matches(row["account_number"] ?: "") &&
 
                                     // Valid date
@@ -493,7 +500,7 @@ class Model(){
                                     Currency.entries.any({ it.name == (row["currency"] ?: "") }) &&
 
                                     // Valid transaction type
-                                    Transactions.entries.any({ it.transactionName == (row["transaction"] ?: "") }) &&
+                                    Transactions.entries.any({ it.transactionName == (row["type"] ?: "") }) &&
 
                                     // Valid amounts
                                     amount_regex.matches(row["amount"] ?: "") &&
@@ -504,29 +511,38 @@ class Model(){
                                     if (allTransactions[row["account_number"]] == null)
                                         allTransactions[row["account_number"] ?: ""] = mutableListOf()
 
-                                    allTransactions[row["account_number"]]?.add(Transaction(
-                                        account_name = row["account_name"] ?: "",
-                                        account_number = row["account_number"] ?: "",
-                                        dateTime = LocalDateTime.parse("${row["date"] ?: ""} ${row["time"] ?: ""}"),
-                                        currency = Currency.valueOf(row["currency"] ?: "PHP"),
-                                        amount = BigDecimal(row["amount"] ?: ""),
-                                        type = Transactions.valueOf(row["type"] ?: ""),
-                                        current_balance = BigDecimal(row["current_balance"] ?: "0.0"),
-                                    ))
+                                    val accountNumber = row["account_number"] ?: ""
 
-                                    allTransactions[(row["account_number"] ?: "")] = allTransactions[row["account_number"]]?.sortedBy { it.dateTime } as MutableList<Transaction>
+                                    allTransactions.getOrPut(accountNumber) { mutableListOf() }.add(
+                                        Transaction(
+                                            account_name = row["account_name"] ?: "",
+                                            account_number = accountNumber,
+                                            dateTime = LocalDateTime.parse(
+                                                "${row["date"] ?: ""} ${row["time"] ?: ""}",
+                                                dateTimeFormatter
+                                            ),
+                                            currency = Currency.valueOf(row["currency"] ?: "PHP"),
+                                            amount = BigDecimal(row["amount"] ?: ""),
+                                            type = Transactions.valueOf((row["type"] ?: "").replaceFirstChar { it.titlecase() }),
+                                            current_balance = BigDecimal(row["current_balance"] ?: "0.0"),
+                                        )
+                                    )
                                 }
 
-                                else invalidTransactions += 1
+                                else invalidTransactions++
                             }
 
-                            else invalidTransactions += 1
+                            else invalidTransactions++
                         }
+
+                        allTransactions.values.forEach { list -> list.sortBy { it.dateTime } }
                     }
                 } catch (e: IOException) {
                     println("IOException: File is damaged.")
+                    println("${e.message}")
                 } catch (e: IllegalArgumentException) {
                     println("IllegalArgumentException: File is corrupted.")
+                    println("${e.message}")
                 }
             }
 

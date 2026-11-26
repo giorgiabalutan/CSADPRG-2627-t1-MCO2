@@ -68,6 +68,7 @@ fun processInput(model: Model){
         Screen.RECORDRATE -> processRecordRate(model)
         Screen.CURRENCYEXCHANGE -> processCurrencyExchange(model)
         Screen.INTEREST -> processInterest(model)
+        Screen.REPORTS -> processReports(model)
     }
 }
 
@@ -101,6 +102,9 @@ fun processMenu(model: Model){
             model.screen = Screen.INTEREST
         }
         "7" -> {
+            model.screen = Screen.REPORTS
+        }
+        "8" -> {
             model.exit()
         }
         else -> {
@@ -600,6 +604,32 @@ fun processInterest(model: Model){
         }
 
         promptReturnToMenu(model)
+    }
+}
+
+fun processReports(model: Model){
+    while (true) {
+        val input: String = readTrim().removeSurrounding("[","]")
+        if (isExit(input)){
+            model.exit()
+        }
+        when(input){
+            "1" -> {
+                Reports.loadDataset()
+            }
+            "2" -> {
+                Reports.generateReports()
+            }
+            "3" -> {
+                model.screen = Screen.MENU
+                break
+            }
+            else -> {
+                printError("ERROR: Invalid input, not one of the given options.","")
+            }
+        }
+        println()
+        printReports()
     }
 }
 

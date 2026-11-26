@@ -15,7 +15,7 @@ fun main(){
     var input: String = ""
     var model: Model = Model()
 
-    //Load 
+    //Load
     model.load()
 
     while (model.running){

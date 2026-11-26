@@ -13,6 +13,7 @@ repositories {
 dependencies {
     implementation("com.jsoizo:kotlin-csv:2.1.0")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.13.0")
+    implementation("de.m3y.kformat:kformat:0.14")
 }
 
 test {

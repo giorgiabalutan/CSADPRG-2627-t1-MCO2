@@ -29,6 +29,7 @@ fun printScreen(screen: Screen){
         Screen.RECORDRATE -> printRecordRate()
         Screen.CURRENCYEXCHANGE -> printCurrencyExchange()
         Screen.INTEREST -> printInterest()
+        Screen.REPORTS -> printReports()
     }
 }
 
@@ -44,7 +45,8 @@ fun printMenu(){
     println("[4] Currency Exchange")
     println("[5] Record Exchange Rates")
     println("[6] Show Interest Amount")
-    println("[7] Quit")
+    println("[7] Generate Reports")
+    println("[8] Quit")
     println()
     print("Choice: ")
 }
@@ -201,3 +203,11 @@ fun printCurrencyExchangeResults(model: Model, amount: BigDecimal){
     // println("[6] ${Currency.CNY.currencyName} (${Currency.CNY.name}) = ${amount * model.exchangeRates.getValue(Currency.CNY).setScale(2, RoundingMode.HALF_UP)}")
 }
 
+fun printReports(){
+    println("Generate Reports")
+    println()
+    println("[1] Load the file")
+    println("[2] Generate Reports")
+    println("[3] Exit Menu")
+    print("Enter choice: ")
+}
