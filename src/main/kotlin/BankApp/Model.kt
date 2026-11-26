@@ -443,84 +443,95 @@ class Model(){
         }
     }
 
-    fun isValidDate(input: String, pattern: String = "uuuu-MM-dd"): Boolean {
-        return try {
-            val formatter = DateTimeFormatter.ofPattern(pattern)
-                .withResolverStyle(ResolverStyle.STRICT)
-            LocalDate.parse(input, formatter)
-            true
-        } catch (e: DateTimeParseException) {
-            false
-        }
-    }
+    companion object {
 
-    fun readTransactions(): Pair<MutableList<Transaction>, Int> {
-        val account_number_regex: Regex = Regex("""1092[0-9]{6}""")
-        val time_regex: Regex = Regex("""^(?:[0-9]|1[0-9]|2[0-3]):(?:[0-5][0-9]):(?:[0-5][0-9])$""")
-        val amount_regex: Regex = Regex("""[0-9]+.[0-9]{2}""")
-
-        val allTransactions: MutableList<Transaction> = mutableListOf()
-        var invalidTransactions: Int = 0
-
-        if (File(CSV_FILEPATH).exists()) {
-            try {
-                CSV.reader.readFromFile(File(CSV_FILEPATH)) { rows ->
-                    val records = rows.withHeader().toList()
-                    records.take(10000).forEach { row ->
-                        if (
-                            (row["account_name"] ?: "").isNotEmpty() &&
-                            (row["account_number"] ?: "").isNotEmpty() &&
-                            (row["date"] ?: "").isNotEmpty() &&
-                            (row["time"] ?: "").isNotEmpty() &&
-                            (row["currency"] ?: "").isNotEmpty() &&
-                            (row["amount"] ?: "").isNotEmpty() &&
-                            (row["type"] ?: "").isNotEmpty() &&
-                            (row["current_balance"] ?: "").isNotEmpty()
-                        ) {
-                            if (
-                                // Valid account number
-                                account_number_regex.matches(row["account_number"] ?: "") &&
-
-                                // Valid date
-                                isValidDate((row["date"] ?: "")) &&
-
-                                // Valid time
-                                time_regex.matches(row["time"] ?: "") &&
-
-                                // Valid currency
-                                Currency.entries.any({ it.name == (row["currency"] ?: "") }) &&
-
-                                // Valid transaction type
-                                Transactions.entries.any({ it.transactionName == (row["transaction"] ?: "") }) &&
-
-                                // Valid amounts
-                                amount_regex.matches(row["amount"] ?: "") &&
-                                amount_regex.matches(row["current_balance"] ?: "") &&
-                                BigDecimal(row["amount"] ?: "") > BigDecimal.ZERO &&
-                                BigDecimal(row["current_balance"] ?: "") > BigDecimal.ZERO
-                            ) {
-                                allTransactions.add(Transaction(
-                                    account_name = row["account_name"] ?: "",
-                                    account_number = row["account_number"] ?: "",
-                                    dateTime = LocalDateTime.parse("${row["date"] ?: ""} ${row["time"] ?: ""}"),
-                                    currency = Currency.valueOf(row["currency"] ?: "PHP"),
-                                    amount = BigDecimal(row["amount"] ?: ""),
-                                    type = Transactions.valueOf(row["type"] ?: ""),
-                                    current_balance = BigDecimal(row["current_balance"] ?: "0.0"),
-                                ))
-                            }
-
-                            else { invalidTransactions += 1 }
-                        }
-                    }
-                }
-            } catch (e: IOException) {
-                println("IOException: File is damaged.")
-            } catch (e: IllegalArgumentException) {
-                println("IllegalArgumentException: File is corrupted.")
+        fun isValidDate(input: String, pattern: String = "dd/MM/yyyy"): Boolean {
+            return try {
+                val formatter = DateTimeFormatter.ofPattern(pattern)
+                    .withResolverStyle(ResolverStyle.STRICT)
+                LocalDate.parse(input, formatter)
+                true
+            } catch (e: DateTimeParseException) {
+                false
             }
         }
 
-        return Pair(allTransactions, invalidTransactions)
+        fun readTransactions(): Pair<MutableMap<String, MutableList<Transaction>>, Int> {
+            val account_number_regex: Regex = Regex("""1092[0-9]{6}""")
+            val time_regex: Regex = Regex("""^(?:[0-9]|1[0-9]|2[0-3]):(?:[0-5][0-9]):(?:[0-5][0-9])$""")
+            val amount_regex: Regex = Regex("""[0-9]+.[0-9]{2}""")
+
+            val allTransactions: MutableMap<String, MutableList<Transaction>> = mutableMapOf()
+            var invalidTransactions: Int = 0
+
+            if (File(CSV_FILEPATH).exists()) {
+                try {
+                    CSV.reader.readFromFile(File(CSV_FILEPATH)) { rows ->
+                        val records = rows.withHeader().toList()
+                        records.take(10000).forEach { row ->
+                            if (
+                                (row["account_name"] ?: "").isNotEmpty() &&
+                                (row["account_number"] ?: "").isNotEmpty() &&
+                                (row["date"] ?: "").isNotEmpty() &&
+                                (row["time"] ?: "").isNotEmpty() &&
+                                (row["currency"] ?: "").isNotEmpty() &&
+                                (row["amount"] ?: "").isNotEmpty() &&
+                                (row["type"] ?: "").isNotEmpty() &&
+                                (row["current_balance"] ?: "").isNotEmpty()
+                            ) {
+                                if (
+                                // Valid account number
+                                    account_number_regex.matches(row["account_number"] ?: "") &&
+
+                                    // Valid date
+                                    isValidDate((row["date"] ?: "")) &&
+
+                                    // Valid time
+                                    time_regex.matches(row["time"] ?: "") &&
+
+                                    // Valid currency
+                                    Currency.entries.any({ it.name == (row["currency"] ?: "") }) &&
+
+                                    // Valid transaction type
+                                    Transactions.entries.any({ it.transactionName == (row["transaction"] ?: "") }) &&
+
+                                    // Valid amounts
+                                    amount_regex.matches(row["amount"] ?: "") &&
+                                    amount_regex.matches(row["current_balance"] ?: "") &&
+                                    BigDecimal(row["amount"] ?: "") > BigDecimal.ZERO &&
+                                    BigDecimal(row["current_balance"] ?: "") > BigDecimal.ZERO
+                                ) {
+                                    if (allTransactions[row["account_number"]] == null)
+                                        allTransactions[row["account_number"] ?: ""] = mutableListOf()
+
+                                    allTransactions[row["account_number"]]?.add(Transaction(
+                                        account_name = row["account_name"] ?: "",
+                                        account_number = row["account_number"] ?: "",
+                                        dateTime = LocalDateTime.parse("${row["date"] ?: ""} ${row["time"] ?: ""}"),
+                                        currency = Currency.valueOf(row["currency"] ?: "PHP"),
+                                        amount = BigDecimal(row["amount"] ?: ""),
+                                        type = Transactions.valueOf(row["type"] ?: ""),
+                                        current_balance = BigDecimal(row["current_balance"] ?: "0.0"),
+                                    ))
+
+                                    allTransactions[(row["account_number"] ?: "")] = allTransactions[row["account_number"]]?.sortedBy { it.dateTime } as MutableList<Transaction>
+                                }
+
+                                else invalidTransactions += 1
+                            }
+
+                            else invalidTransactions += 1
+                        }
+                    }
+                } catch (e: IOException) {
+                    println("IOException: File is damaged.")
+                } catch (e: IllegalArgumentException) {
+                    println("IllegalArgumentException: File is corrupted.")
+                }
+            }
+
+            return Pair(allTransactions, invalidTransactions)
+        }
     }
+
 }

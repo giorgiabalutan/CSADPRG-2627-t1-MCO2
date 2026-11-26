@@ -41,6 +41,13 @@ TurnoverVelocity - `total_withdrawal / total_deposit * 100`
 RiskFlagLevel - `RiskFlagLevel.Suspicious if (total_withdrawal >= 500000.00 || TurnoverVelocity >= 90.0) else RiskFlagLevel.Normal`
 
 
+# Report 4 (Transaction Activity)
+
+- Sort by transaction activity
+
+AccountName
+TotalTransactionActivity
+
 # Summary
 
 total_accounts -
