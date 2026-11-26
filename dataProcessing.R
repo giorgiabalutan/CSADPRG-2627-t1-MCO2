@@ -282,6 +282,7 @@ generateReport2 <- function(currentDf) {
     group_by(account_number) %>%
     arrange(desc(date), desc(time)) %>%
     slice(1) %>%
+    filter(current_balance >= 10000) %>%
     ungroup() %>%
     select(AccountName = account_name, CurrentBalance = current_balance) %>%
     mutate(CurrentBalance = round_half_up(CurrentBalance, 2),
@@ -372,16 +373,16 @@ generateReport4 <- function(currentDf) {
 generateJSON <- function(currentDf, report1Df, report2Df, report3Df, report4Df) {
   JSONDf <- tibble(
     TotalAccounts = n_distinct(currentDf$account_number, na.rm = TRUE),
-    TotalDepositAmount = sum(currentDf$amount[currentDf$type == "deposit"], na.rm = TRUE),
-    TotalWithdrawAmount = sum(currentDf$amount[currentDf$type == "withdrawal"], na.rm = TRUE),
-    TotalInterestExpense = sum(report2Df$ExpectedInterest, na.rm = TRUE),
+    TotalDepositAmount = round_half_up(sum(currentDf$amount[currentDf$type == "deposit"], na.rm = TRUE), 2),
+    TotalWithdrawAmount = round_half_up(sum(currentDf$amount[currentDf$type == "withdrawal"], na.rm = TRUE), 2),
+    TotalInterestExpense = round_half_up(sum(report2Df$ExpectedInterest, na.rm = TRUE), 2),
     
     TotalSilverMembers = sum(report1Df$PrivilegeTier == "Silver", na.rm = TRUE),
     TotalGoldMembers = sum(report1Df$PrivilegeTier == "Gold", na.rm = TRUE),
     TotalPlatinumMembers = sum(report1Df$PrivilegeTier == "Platinum", na.rm = TRUE),
     TotalNormalActivity = sum(report3Df$RiskFlagLevel == "Normal", na.rm = TRUE),
     TotalSuspiciousActivity = sum(report3Df$RiskFlagLevel == "Suspicious", na.rm = TRUE),
-    AvgYearBalanceGrowth = mean(report4Df$YearTotalBalanceGrowth, na.rm = TRUE)
+    AvgYearBalanceGrowth = round_half_up(mean(report4Df$YearTotalBalanceGrowth, na.rm = TRUE), 2)
   )
   
   write_json(JSONDf, "summary.json", pretty = TRUE, auto_unbox = TRUE, na = NULL)

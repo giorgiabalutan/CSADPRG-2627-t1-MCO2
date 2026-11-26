@@ -338,13 +338,19 @@ exchangeInterface <- function(){
 }
 
 # Allows the user to view a formatted table of daily interest and corresponding balance given n days 
-interestInterface <- function(account){
+interestInterface <- function(currentDf){
   cat("\n")
   cat("Show Interest Amount\n")
   # Accesses the account details from the account(dataframe) parameter 
-  cat("Account Name:", account[1, 1], "\n")
-  cat("Current Balance:", account[1, 2], "\n")
-  cat("Currency:", account[1, 3], "\n")
+  targetAccount <- get_stringInput("Account Name: ")
+  
+  currentBalance <- getCurrentBalance(currentDf, targetAccount)
+  while (length(currentBalance) == 0) {
+    cat("Account not found.\n")
+    currentBalance <- getCurrentBalance(currentDf, targetAccount)
+  }
+  cat("Current Balance:", currentBalance, "\n")
+  cat("Currency: PHP\n")
   cat("Interest Rate: 5% \n")
   cat("\n")
   
@@ -354,7 +360,7 @@ interestInterface <- function(account){
     return(invisible(NULL))
   }
   
-  interestDf <- processInterest(account[1,2], num_days)
+  interestDf <- processInterest(currentBalance, num_days)
   # Library knitr formatted table
   print(kable(interestDf))
 }
