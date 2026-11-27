@@ -40,14 +40,15 @@ initCSVs <- function(){
     
 }
 
+# Load the bank transaction csv by reading the columns 
 loadCSV <- function() {
   read_csv(
     "bank_transactions.csv",
     col_types = cols (
       account_name = col_character(),
       account_number = col_double(),
-      date = col_date(format = "%d/%m/%Y"),
-      time = col_time(format = "%H:%M:%S"),
+      date = col_date(format = "%d/%m/%Y"), # Reads the date in the given format
+      time = col_time(format = "%H:%M:%S"), # Reads the time in the given format
       currency = col_character(),
       amount = col_double(),
       type = col_character(),
@@ -57,6 +58,7 @@ loadCSV <- function() {
   )
 }
 
+# Processes the csv by filtering out PHP and complete records only
 processCSV <- function() {
   currentDf <- loadCSV()
   PHPDf = currentDf %>%
@@ -67,9 +69,8 @@ processCSV <- function() {
   return (PHPDf)
 }
 
-# Registers an account (provided the accountName) to the account.csv file
-# Does not append a new account
-# If an account is already registered, the newly registered account will replace the previous one
+# Registers an account (provided the accountName) to the bank_transactions.csv file
+# Appends a new account with deposit as initial type
 processRegistration <- function(accountName, initDeposit){
   currentDf <- loadCSV()
   
@@ -77,6 +78,7 @@ processRegistration <- function(accountName, initDeposit){
   if (nrow(currentDf) > 0)
     newAccountNumber <- max(currentDf$account_number, na.rm = TRUE) + 1
   
+    # Included values for the columns
     newAccRow <- tibble(
       account_name = accountName,
       account_number = newAccountNumber,
@@ -94,6 +96,7 @@ processRegistration <- function(accountName, initDeposit){
     write_csv("bank_transactions.csv")
 }
 
+#Gets the current balance of the target account 
 getCurrentBalance <- function(currentDf, targetAccount) {
   read_currbal <- currentDf %>%
     filter(account_name == targetAccount) %>%
@@ -189,6 +192,7 @@ processExchange <- function(currenciesDf, remainingDf, sourceCurrency, exchangeC
   return(round_half_up(exchangeAmount, 2))
 }
 
+# Generates report 1 which is about the average daily balances and privilege tiers
 generateReport1 <- function(currentDf) {
   month_start <- floor_date(today(), "month") %m-% months(1) #"month" round down the today() date and %m-% subtracts 1 month from it
   #while ensuring that it is exactly the first day of that month
@@ -255,6 +259,7 @@ generateReport1 <- function(currentDf) {
       ),
     )
   
+  #Count the number of days since it has opened (from today)
   account_ages <- currentDf %>%
     group_by(account_number, account_name) %>%
     arrange(date, time) %>%
@@ -264,6 +269,7 @@ generateReport1 <- function(currentDf) {
     ) %>%
     ungroup() 
     
+  #The final report by summarizing everything
   report1Df <- account_ages %>%
     left_join(privilege_tiers, by = "account_number") %>%
     filter(AverageDailyBalance > 100000) %>%
@@ -281,6 +287,7 @@ generateReport1 <- function(currentDf) {
   return(report1Df)
 }
 
+# Generates the second report which is about the expected interest using the compound formula after 30 days
 generateReport2 <- function(currentDf) {
   report2Df <- currentDf %>%
     group_by(account_number) %>%
@@ -301,13 +308,16 @@ generateReport2 <- function(currentDf) {
   return(report2Df)
 }
 
+# Generates the third report which is about suspicious activity
 generateReport3 <- function(currentDf) {
+  #Counts the total amount of withdrawal per day
   withdrawDf <- currentDf %>%
     group_by(account_number, account_name, date) %>%
     filter(type == "withdrawal") %>%
     summarize(TotalWithdrawalAmounts = round_half_up(sum(amount, na.rm = TRUE), 2)) %>%
     ungroup()
   
+  #Counts the total amount of deposit per day
   depositDf <- currentDf %>%
     group_by(account_number, account_name, date) %>%
     filter(type == "deposit") %>%
@@ -315,6 +325,8 @@ generateReport3 <- function(currentDf) {
               TotalDepositAmounts = round_half_up(sum(amount, na.rm = TRUE), 2)) %>%
     ungroup()
   
+  #Summarizes the total withdrawal and deposiit and uses that data for turnover velocity
+  #and risk flag level
   report3Df <- withdrawDf %>%
     full_join(depositDf, by = c("account_number", "account_name", "date")) %>%
     replace_na(list(TotalWithdrawalAmounts = 0,
@@ -325,11 +337,11 @@ generateReport3 <- function(currentDf) {
                                 TotalDepositAmounts > 0,
                                 TotalWithdrawalAmounts / TotalDepositAmounts * 100,
                                 NA_real_), 2),
-           RiskFlagLevel = case_when(
+           RiskFlagLevel = case_when( 
                                TotalWithdrawalAmounts >= 500000 ~ "Suspicious",
                                TotalDepositAmounts == 0 | TotalWithdrawalAmounts == 0 ~ "Normal",
                                TurnoverVelocity >= 90 ~ "Suspicious",
-                               TRUE ~ "Normal"
+                               TRUE ~ "Normal" #Default value
            ),
            TotalWithdrawalAmounts = sprintf("%.2f", TotalWithdrawalAmounts),
            TotalDepositAmounts = sprintf("%.2f", TotalDepositAmounts),
@@ -345,10 +357,11 @@ generateReport3 <- function(currentDf) {
   return(report3Df)
 }
 
+# Generatees report 4 which is quarterly percentage change of balances
 generateReport4 <- function(currentDf) {
   quarterly_balance <- currentDf %>%
     arrange(date, time) %>%
-    mutate(quarter = paste0("Q", quarter(date))) %>%
+    mutate(quarter = paste0("Q", quarter(date))) %>% #Quarters the dates
     group_by(account_number, quarter) %>%
     slice_tail(n = 1) %>%
     ungroup() %>%
@@ -360,11 +373,11 @@ generateReport4 <- function(currentDf) {
   
   report4Df <- quarterly_balance %>%
     mutate(
-      Q1_to_Q2PctChange = sprintf("%.2f", round_half_up((Q2 - Q1) / Q1 * 100, 2)),
+      Q1_to_Q2PctChange = sprintf("%.2f", round_half_up((Q2 - Q1) / Q1 * 100, 2)), #The quarter changes are computed manually
       Q2_to_Q3PctChange = sprintf("%.2f", round_half_up((Q3 - Q2) / Q2 * 100, 2)),
       Q3_to_Q4PctChange = sprintf("%.2f", round_half_up((Q4 - Q3) / Q3 * 100, 2)),
       YearTotalBalanceGrowth = sprintf("%.2f", round_half_up((Q4 - Q1) / Q1 * 100, 2)),
-      Description = case_when(
+      Description = case_when( #The description is based on the yearly growth balance
         YearTotalBalanceGrowth > 0 ~ "More Deposits",
         YearTotalBalanceGrowth < 0 ~ "More Withdrawals",
         .default = "No Growth"
@@ -383,6 +396,7 @@ generateReport4 <- function(currentDf) {
   
 }
 
+#Generates the json summary
 generateJSON <- function(currentDf, report1Df, report2Df, report3Df, report4Df) {
   currentBalances <- currentDf %>%
     group_by(account_number) %>%
