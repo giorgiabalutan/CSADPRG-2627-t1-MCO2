@@ -1,20 +1,10 @@
 AccountName,AccountAge,CurrentBalance,AverageDailyBalance,PrivilegeTier
-Jasmine Castillo,358,137648.52,93059.38,Silver
-Gabriel Domingo,356,58227.92,89867.98,Silver
-Jose Salazar,358,114981.76,83195.46,Silver
-Camille Tomas,360,182864.19,82909.54,Silver
-Bea Andrada,356,104972.92,81728.29,Silver
-Francis Mercado,360,102547.33,80656.65,Silver
-Christian Mendoza,356,78786.51,78313.06,Silver
 Ralph Josh Bacon,360,681617.84,746197.04,Gold
 Nicole Salazar,360,608809.75,735428.14,Gold
 Bea Bautista,356,666798.68,705639.95,Gold
-Jose Reyes,360,178839.79,65991.62,Silver
 Fernan Amuy,358,620597.23,651259.18,Gold
-Ramon Del Rosario,359,54795.23,6320.65,Silver
 Amoy Liu,359,704238.84,620103.99,Gold
 Mary Grace Piattos,358,637430.71,584587.29,Gold
-Samantha Castillo,358,43890.60,57717.96,Silver
 Joug de Asim,361,592923.09,572828.12,Gold
 Nicole Bautista,359,563847.65,562465.46,Gold
 Mark Domingo,358,579761.29,558131.96,Gold
@@ -22,7 +12,6 @@ Dodong Bina,358,545583.54,529685.81,Gold
 Juan Navarro,359,507868.37,491330.54,Silver
 Angel Flores,358,418780.48,460201.46,Silver
 Rhea Ramos,358,422276.72,459364.36,Silver
-Ramon Andrada,358,75724.48,43158.26,Silver
 Dodong Alcala,357,381191.58,421951.19,Silver
 Paul Ocampo,357,432133.97,418055.13,Silver
 Jose Mendoza,358,518092.65,406728.37,Silver
@@ -38,7 +27,6 @@ Samantha Torres,359,359152.31,348913.84,Silver
 Jay Kamote,358,337508.12,342480.94,Silver
 Gabriel Mercado,358,361645.29,340761.73,Silver
 Jerome Domingo,359,330823.33,337446.30,Silver
-Francis Rivera,360,72261.86,33436.09,Silver
 Jasmine Reyes,361,408185.57,331327.75,Silver
 Jose Villanueva,361,398366.83,320005.57,Silver
 Jerome Tomas,357,409389.59,318137.18,Silver
@@ -47,11 +35,9 @@ Liza Navarro,357,205849.25,311539.62,Silver
 Patricia Mercado,356,394617.42,308397.51,Silver
 Angel Mendoza,358,306190.91,307850.75,Silver
 Patricia Salazar,361,358161.65,297745.82,Silver
-Liza Castro,356,10857.73,29537.07,Silver
 Dodong Darong,358,327113.10,293032.75,Silver
 Nicole Torres,356,176326.01,288881.07,Silver
 Dodong Bunal,357,244050.31,282301.93,Silver
-Grace Ocampo,359,59573.72,27829.85,Silver
 Christian Bautista,359,318379.42,277537.04,Silver
 Juan Cruz,358,290865.51,277222.32,Silver
 Xiaomi Ocho,359,264726.92,273398.83,Silver
@@ -74,3 +60,27 @@ Samantha Navarro,357,96443.89,202194.74,Silver
 Patricia Reyes,360,311775.00,201924.63,Silver
 Angel Salazar,359,297469.45,201680.92,Silver
 Francis Garcia,356,184557.13,201159.05,Silver
+Bea Tomas,357,218915.27,192491.48,Silver
+Grace Torres,361,253137.01,185554.00,Silver
+Bea Torres,361,271428.48,179842.47,Silver
+Camille Del Rosario,356,171159.01,178812.27,Silver
+Nicole Castro,356,162196.53,176766.74,Silver
+Christian Tomas,361,48020.26,173009.92,Silver
+John Del Rosario,358,212565.06,171518.33,Silver
+Ramon Tomas,356,235028.74,171398.71,Silver
+Bea Ramos,361,156772.83,154098.07,Silver
+Carlos Bautista,358,63904.82,150378.09,Silver
+John Bautista,360,127708.95,146981.96,Silver
+Paolo Aquino,357,168399.30,142591.14,Silver
+John Tomas,359,67544.46,142474.74,Silver
+Ana Cruz,357,112234.70,140061.79,Silver
+Ramon Castillo,358,64482.66,135770.21,Silver
+John Flores,359,95326.17,130595.87,Silver
+Gabriel Cruz,356,247119.78,125855.48,Silver
+Juan Tomas,356,77321.86,121880.11,Silver
+John Mercado,357,159704.43,113112.81,Silver
+Angelo Ramos,358,74271.36,112880.05,Silver
+Jasmine Santos,357,189966.21,112586.10,Silver
+Grace Reyes,358,81703.14,106225.90,Silver
+Dodong S. Barok,357,153916.93,104528.21,Silver
+John Cruz,358,86188.08,104064.13,Silver

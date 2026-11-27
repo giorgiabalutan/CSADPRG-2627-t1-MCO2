@@ -253,7 +253,6 @@ generateReport1 <- function(currentDf) {
         AverageDailyBalance < 1000000 ~ "Gold",
         AverageDailyBalance >= 500000 ~ "Platinum"
       ),
-      AverageDailyBalance = sprintf("%.2f", AverageDailyBalance)
     )
   
   account_ages <- currentDf %>%
@@ -269,7 +268,8 @@ generateReport1 <- function(currentDf) {
     left_join(privilege_tiers, by = "account_number") %>%
     filter(AverageDailyBalance > 100000) %>%
     arrange(desc(AverageDailyBalance), account_name) %>%
-    mutate(CurrentBalance = sprintf("%.2f", CurrentBalance)) %>%
+    mutate(CurrentBalance = sprintf("%.2f", CurrentBalance), 
+           AverageDailyBalance = sprintf("%.2f", AverageDailyBalance)) %>%
     select(AccountName = account_name, AccountAge, CurrentBalance, 
            AverageDailyBalance, PrivilegeTier)
   
@@ -395,8 +395,8 @@ generateJSON <- function(currentDf, report1Df, report2Df, report3Df, report4Df) 
     TotalAccounts = n_distinct(currentDf$account_number, na.rm = TRUE),
     TotalDepositAmount = round_half_up(sum(as.numeric(currentDf$amount[currentDf$type == "deposit"]), na.rm = TRUE), 2),
     TotalWithdrawAmount = round_half_up(sum(as.numeric(currentDf$amount[currentDf$type == "withdrawal"]), na.rm = TRUE), 2),
-    TotalInterestExpense = round_half_up(sum(as.numeric(report2Df$ExpectedInterest), na.rm = TRUE), 2),
     TotalBalance = round_half_up(sum(as.numeric(currentBalances$current_balance), na.rm = TRUE), 2),
+    TotalInterestExpense = round_half_up(sum(as.numeric(report2Df$ExpectedInterest), na.rm = TRUE), 2),
     TotalSilverMembers = sum(report1Df$PrivilegeTier == "Silver", na.rm = TRUE),
     TotalGoldMembers = sum(report1Df$PrivilegeTier == "Gold", na.rm = TRUE),
     TotalPlatinumMembers = sum(report1Df$PrivilegeTier == "Platinum", na.rm = TRUE),
