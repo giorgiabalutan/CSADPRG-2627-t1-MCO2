@@ -145,12 +145,21 @@ void generateReport(){
             }else{
                 nNormal++;
             }
-            fprintf(f3, "%s,%02d/%02d/%04d,%.2f,%d,%.2f,%.2f%%,%s\n",
-            r3->AccountName, r3->day, r3->month, r3->year,
-            r3->totalWithdrawal, r3->nDeposits, r3->totalDeposit,
-            r3->turnoverVelocity,
-            r3->risk == SUSPICIOUS? "Suspicious" : "Normal"
-            );
+            if (r3->turnoverVelocity < 0){
+                fprintf(f3, "%s,%02d/%02d/%04d,%.2f,%d,%.2f,%s,%s\n",
+                r3->AccountName, r3->day, r3->month, r3->year,
+                r3->totalWithdrawal, r3->nDeposits, r3->totalDeposit,
+                "NA",
+                r3->risk == SUSPICIOUS? "Suspicious" : "Normal"
+                );
+            }else{
+                fprintf(f3, "%s,%02d/%02d/%04d,%.2f,%d,%.2f,%.2f%%,%s\n",
+                r3->AccountName, r3->day, r3->month, r3->year,
+                r3->totalWithdrawal, r3->nDeposits, r3->totalDeposit,
+                r3->turnoverVelocity,
+                r3->risk == SUSPICIOUS? "Suspicious" : "Normal"
+                );
+            }
         }
         fclose(f3);
 
@@ -239,12 +248,21 @@ void generateReport(){
         displayCount = 0;
         printf("AccountName,Date,TotalWithdrawalAmounts,NumberOfDeposits,TotalDepositAmounts,TurnoverVelocity,RiskFlagLevel\n");
         for (RiskReportRecord *r3 = NULL; (r3 = utarray_next(reportThreeRecords,r3));){
-            printf("%s,%02d/%02d/%04d,%.2f,%d,%.2f,%.2f%%,%s\n",
-            r3->AccountName, r3->day, r3->month, r3->year,
-            r3->totalWithdrawal, r3->nDeposits, r3->totalDeposit,
-            r3->turnoverVelocity,
-            r3->risk == SUSPICIOUS? "Suspicious" : "Normal"
-            );
+            if (r3->turnoverVelocity < 0){
+                fprintf(f3, "%s,%02d/%02d/%04d,%.2f,%d,%.2f,%s,%s\n",
+                r3->AccountName, r3->day, r3->month, r3->year,
+                r3->totalWithdrawal, r3->nDeposits, r3->totalDeposit,
+                "NA",
+                r3->risk == SUSPICIOUS? "Suspicious" : "Normal"
+                );
+            }else{
+                fprintf(f3, "%s,%02d/%02d/%04d,%.2f,%d,%.2f,%.2f%%,%s\n",
+                r3->AccountName, r3->day, r3->month, r3->year,
+                r3->totalWithdrawal, r3->nDeposits, r3->totalDeposit,
+                r3->turnoverVelocity,
+                r3->risk == SUSPICIOUS? "Suspicious" : "Normal"
+                );
+            }
             displayCount++;
             if (displayCount > 1){
                 break;

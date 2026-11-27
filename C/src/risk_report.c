@@ -80,7 +80,7 @@ void generateRiskReport(UT_array *reportThreeRecords, double *totalDepositAmount
                         r3.risk = NORMAL;
                     }
                 }else{
-                    r3.turnoverVelocity = 0.0;
+                    r3.turnoverVelocity = -1.0;
                     if (withdrawal >= WITHDRAWAL_LIMIT){
                         r3.risk = SUSPICIOUS;
                     }else{
@@ -137,7 +137,7 @@ void generateRiskReport(UT_array *reportThreeRecords, double *totalDepositAmount
                     r3.risk = NORMAL;
                 }
             }else{
-                r3.turnoverVelocity = 0.0;
+                r3.turnoverVelocity = -1.0;
                 if (withdrawal >= WITHDRAWAL_LIMIT){
                     r3.risk = SUSPICIOUS;
                 }else{

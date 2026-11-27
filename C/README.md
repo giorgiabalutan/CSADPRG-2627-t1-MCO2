@@ -22,5 +22,5 @@ This is the C component of CSADPRG MCO1, a Banking and Currency App.
 2. Run:
 
 ```sh
-gcc -Wall -std=c99 -I ./include ./src/*.c -o csadprg-mco1-c
+gcc -Wall -std=c99 -I ./include ./src/*.c -o csadprg-mco1-c && csadprg-mco1-c.exe
 ```
