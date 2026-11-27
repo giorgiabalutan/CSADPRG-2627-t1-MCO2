@@ -179,6 +179,19 @@ fun printInterest(){
     print("Account Name: ")
 }
 
+/**
+Prints the menu for generating reports
+ */
+fun printReports(){
+    println("Generate Reports")
+    println()
+    println("[1] Load the file")
+    println("[2] Generate Reports")
+    println("[3] Exit Menu")
+    print("Enter choice: ")
+}
+
+
 //Unused
 /**
     Prints the resulting currency exchange value for all currencies.
@@ -201,13 +214,4 @@ fun printCurrencyExchangeResults(model: Model, amount: BigDecimal){
     // println("[4] ${Currency.GBP.currencyName} (${Currency.GBP.name}) = ${amount * model.exchangeRates.getValue(Currency.GBP).setScale(2, RoundingMode.HALF_UP)}")
     // println("[5] ${Currency.EUR.currencyName} (${Currency.EUR.name}) = ${amount * model.exchangeRates.getValue(Currency.EUR).setScale(2, RoundingMode.HALF_UP)}")
     // println("[6] ${Currency.CNY.currencyName} (${Currency.CNY.name}) = ${amount * model.exchangeRates.getValue(Currency.CNY).setScale(2, RoundingMode.HALF_UP)}")
-}
-
-fun printReports(){
-    println("Generate Reports")
-    println()
-    println("[1] Load the file")
-    println("[2] Generate Reports")
-    println("[3] Exit Menu")
-    print("Enter choice: ")
 }

@@ -449,10 +449,21 @@ class Model(){
 
     companion object {
 
+        /**
+         * Helper Function for checking if the input is a valid date
+         *
+         * @param input Date to check
+         * @param pattern Pattern to match
+         *
+         * @return Boolean if it is a valid date
+         */
         fun isValidDate(input: String, pattern: String = "dd/MM/uuuu"): Boolean {
             return try {
+                // Get format from pattern
                 val formatter = DateTimeFormatter.ofPattern(pattern)
                     .withResolverStyle(ResolverStyle.STRICT)
+
+                // Check if it's parsable with the format
                 LocalDate.parse(input, formatter)
                 true
             } catch (e: DateTimeParseException) {
@@ -460,7 +471,14 @@ class Model(){
             }
         }
 
+        /**
+         * Main function to read the transactions from the CSV file
+         *
+         * @return (validTransactions, invalidTransactions):
+         * Pair of the list of valid transactions, grouped by account number, and count of invalid transactions read
+         */
         fun readTransactions(): Pair<MutableMap<String, MutableList<Transaction>>, Int> {
+            // Define regexes used
             val account_number_regex: Regex = Regex("""1092[0-9]{6}""")
             val time_regex = Regex("""^(?:[01]?[0-9]|2[0-3]):[0-5][0-9]:[0-5][0-9]$""")
             val amount_regex: Regex = Regex("""[0-9]+.[0-9]{1,2}""")
@@ -471,11 +489,18 @@ class Model(){
             val allTransactions: MutableMap<String, MutableList<Transaction>> = mutableMapOf()
             var invalidTransactions: Int = 0
 
+            // Check if file exists first
             if (File(CSV_FILEPATH).exists()) {
                 try {
+
+                    // Read from file
                     CSV.reader.readFromFile(File(CSV_FILEPATH)) { rows ->
+
+                        // For every row...
                         val records = rows.withHeader().toList()
                         records.take(10000).forEach { row ->
+
+                            // Check if all fields not empty
                             if (
                                 (row["account_name"] ?: "").isNotEmpty() &&
                                 (row["account_number"] ?: "").isNotEmpty() &&
@@ -486,6 +511,8 @@ class Model(){
                                 (row["type"] ?: "").isNotEmpty() &&
                                 (row["current_balance"] ?: "").isNotEmpty()
                             ) {
+
+                                // Check if format is correct
                                 if (
                                     // Valid account number
                                     account_number_regex.matches(row["account_number"] ?: "") &&
@@ -508,11 +535,8 @@ class Model(){
                                     BigDecimal(row["amount"] ?: "") > BigDecimal.ZERO &&
                                     BigDecimal(row["current_balance"] ?: "") > BigDecimal.ZERO
                                 ) {
-                                    if (allTransactions[row["account_number"]] == null)
-                                        allTransactions[row["account_number"] ?: ""] = mutableListOf()
-
+                                    // Add transaction
                                     val accountNumber = row["account_number"] ?: ""
-
                                     allTransactions.getOrPut(accountNumber) { mutableListOf() }.add(
                                         Transaction(
                                             account_name = row["account_name"] ?: "",
@@ -535,6 +559,7 @@ class Model(){
                             else invalidTransactions++
                         }
 
+                        // Sort all transactions by date
                         allTransactions.values.forEach { list -> list.sortBy { it.dateTime } }
                     }
                 } catch (e: IOException) {
