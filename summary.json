@@ -3,12 +3,13 @@
     "TotalAccounts": 100,
     "TotalDepositAmount": 114503599.9,
     "TotalWithdrawAmount": 87394448.9,
-    "TotalInterestExpense": 111407.51,
+    "TotalInterestExpense": 111629.03,
+    "TotalBalance": 27109151,
     "TotalSilverMembers": 75,
     "TotalGoldMembers": 10,
     "TotalPlatinumMembers": 0,
     "TotalNormalActivity": 7737,
     "TotalSuspiciousActivity": 325,
-    "AvgYearBalanceGrowth": 106.2361
+    "AvgYearBalanceGrowth": 106.24
   }
 ]

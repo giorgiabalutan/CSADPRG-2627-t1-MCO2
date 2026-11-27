@@ -153,7 +153,8 @@ processInterest <- function(currentBalance, num_days){
   # Day 2 until the given days
   for (i in seq_len(num_days)[-1]) {
     # Dependent on the previous day's balance
-    balanceVector[i] <- balanceVector[i - 1] + round_half_up(dailyInterest, 2)
+    dailyInterest <- balanceVector[i - 1] * (5 / 100) / 365
+    balanceVector[i] <- balanceVector[i - 1] + dailyInterest
   }
   
   # Creates the data frame to be displayed as a table
@@ -284,10 +285,10 @@ generateReport2 <- function(currentDf) {
     slice(1) %>%
     filter(current_balance >= 10000) %>%
     ungroup() %>%
-    select(AccountName = account_name, CurrentBalance = current_balance) %>%
-    mutate(CurrentBalance = round_half_up(CurrentBalance, 2),
-           ExpectedInterest = round_half_up((CurrentBalance * 0.05 / 365) * 30, 2)) %>%
-    arrange(desc(ExpectedInterest), AccountName)
+    mutate(ExpectedInterest = round_half_up(current_balance * ((1 + 0.05 / 365)^30 - 1), 2),
+           CurrentBalance = round_half_up(current_balance, 2)) %>%
+    arrange(desc(ExpectedInterest), account_name) %>%
+    select(AccountName = account_name, CurrentBalance, ExpectedInterest)
   
   print(kable(head(report2Df, 2), digits = 2))
   
@@ -314,7 +315,8 @@ generateReport3 <- function(currentDf) {
     replace_na(list(TotalWithdrawalAmounts = 0,
                     NumberOfDeposits = 0,
                     TotalDepositAmounts = 0)) %>%
-    mutate(TurnoverVelocity = round_half_up(if_else(
+    mutate(date = format(date, "%d/%m/%Y"),
+           TurnoverVelocity = round_half_up(if_else(
                                 TotalDepositAmounts > 0,
                                 TotalWithdrawalAmounts / TotalDepositAmounts * 100,
                                 NA_real_), 2),
@@ -371,12 +373,19 @@ generateReport4 <- function(currentDf) {
 }
 
 generateJSON <- function(currentDf, report1Df, report2Df, report3Df, report4Df) {
+  currentBalances <- currentDf %>%
+    group_by(account_number) %>%
+    arrange(desc(date), desc(time)) %>%
+    slice(1) %>%
+    ungroup() %>%
+    select(current_balance)
+  
   JSONDf <- tibble(
     TotalAccounts = n_distinct(currentDf$account_number, na.rm = TRUE),
     TotalDepositAmount = round_half_up(sum(currentDf$amount[currentDf$type == "deposit"], na.rm = TRUE), 2),
     TotalWithdrawAmount = round_half_up(sum(currentDf$amount[currentDf$type == "withdrawal"], na.rm = TRUE), 2),
     TotalInterestExpense = round_half_up(sum(report2Df$ExpectedInterest, na.rm = TRUE), 2),
-    
+    TotalBalance = round_half_up(sum(currentBalances$current_balance, na.rm = TRUE), 2),
     TotalSilverMembers = sum(report1Df$PrivilegeTier == "Silver", na.rm = TRUE),
     TotalGoldMembers = sum(report1Df$PrivilegeTier == "Gold", na.rm = TRUE),
     TotalPlatinumMembers = sum(report1Df$PrivilegeTier == "Platinum", na.rm = TRUE),
