@@ -1,5 +1,5 @@
 /********************
- * Last names: Eborde
+ * Last names: Avila, Eborde
  * Language: C
  * Paradigm(s): Procedural Programming, Modular Programming (Imperative)
  ********************/
