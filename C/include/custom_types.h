@@ -89,6 +89,47 @@ typedef struct {
     int loaded;
 } LoadData;
 
+//REPORT RECORDS
+typedef struct{
+    String AccountName;
+    int AccountAge;
+    double CurrentBalance;
+    double AverageDailyBalance;
+    PrivilegeTier tier;
+    long long AccountNumber;
+} PrivelegeReportRecord;
+
+typedef struct{
+    String AccountName;
+    double CurrentBalance;
+    double ExpectedInterest;
+    long long AccountNumber;
+} InterestReportRecord;
+
+typedef struct{
+    String AccountName;
+    long long AccountNumber;
+    int day;
+    int month;
+    int year;
+    double totalWithdrawal;
+    int nDeposits;
+    double totalDeposit;
+    double turnoverVelocity;
+    RiskFlagLevel risk;
+} RiskReportRecord;
+
+typedef struct{
+    String AccountName;
+    long long AccountNumber;
+    double AverageMonthyLow;
+    double LowestMonthlyLow;
+    double SafeToLend;
+    double Stability;
+    int months;
+    StabilityRating rating;
+} LendingReportRecord;
+
 #endif
 
 
