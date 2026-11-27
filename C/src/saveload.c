@@ -62,7 +62,8 @@ typedef struct{
 } Row;
 
 /**
- * TO DO
+ * @name cmpRow();
+ * 
  * returns the first chronologically row
  * order maintains scan order
  */

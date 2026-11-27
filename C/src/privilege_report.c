@@ -6,6 +6,11 @@
 #include "custom_types.h"
 #include "user.h"
 
+/**
+ * @name daysInMonth();
+ * 
+ * Returns how many days there are in that month and year.
+ */
 int daysInMonth(int year, int month){
     //January is month 0
     int actualYear = year+1900;
@@ -19,6 +24,11 @@ int daysInMonth(int year, int month){
     return days[month];
 }
 
+/**
+ * @name prevMonth();
+ * 
+ * Returns the month and year of one month back.
+ */
 void prevMonth(int year, int month, int *pyear, int *pmonth){
     if (month == 0){
         *pyear = year - 1;
@@ -29,6 +39,12 @@ void prevMonth(int year, int month, int *pyear, int *pmonth){
     }
 }
 
+/**
+ * @name cmpPrivelegeReport();
+ * 
+ * Comparison function for sorting Privelege Reports.
+ * Sorts By AverageDailyBalance (Descending), then by AccountName (Alphabetical) or AccountNumber (Ascending).
+ */
 int cmpPrivelegeReport(const void *x, const void *y){
     const PrivelegeReportRecord *a = x, *b = y;
     if (a->AverageDailyBalance != b->AverageDailyBalance){
@@ -41,6 +57,11 @@ int cmpPrivelegeReport(const void *x, const void *y){
     }
 }
 
+/**
+ * @name generatePrivelegeReport();
+ * 
+ * Generates report 1.
+ */
 void generatePrivelegeReport(UT_array *reportOneRecords){
     //Finds target month for Report 1
     time_t now = time(NULL);
@@ -69,44 +90,37 @@ void generatePrivelegeReport(UT_array *reportOneRecords){
             //Getting Report 1 Data
             currentBal = t->balance;
 
+            //Just saves the date for calculating age
             if (firstTransaction){
                 firstTransaction = false;
                 openDay = t->day;
                 openMon = t->month;
                 openYear = t->year;
             }
+            //Still at before target month, keep track of current balance going into it.
             if(t->year < fyear || (t->year == fyear && t->month < fmon)){
                 prevMonthBal = t->balance;
-            } else if (t->year == fyear && t->month == fmon){
-                // if (!strcmp(acc->accName,"Ralph Josh Bacon")){
-                //     printf("Found!");
-                // }
+            }
+            //Reached target month, track when the balance changes.
+            else if (t->year == fyear && t->month == fmon){
                 eod[t->day - 1] = t->balance; //Latest transaction that updated it is retained
                 hasTransaction[t->day - 1] = 1;
-                
-                // if (!strcmp(acc->accName,"Ralph Josh Bacon")){
-                //     for (int i = 0; i < 31; i++){
-                //         printf("%f %d - ", eod[i], hasTransaction[i]);
-                //     }
-                //     printf("\n");
-                // }
             }
         }
 
         //Calculating Report 1 Data
         double bal = prevMonthBal, sum = 0.0;
+
+        //This loop just walks through each day of the month.
         for (int d = 0; d < days; d++){
+            //If the balance changed here, update it.
             if (hasTransaction[d]){
                 bal = eod[d];
             }
+            //Just adds the balance every day.
             sum += bal;
-            // if (!strcmp(acc->accName,"Ralph Josh Bacon")){
-            //     printf("%f, %f\n", sum, bal);
-            // }
         }
-        // if (!strcmp(acc->accName,"Ralph Josh Bacon")){
-        //     printf("%f / %d\n", sum, days);
-        // }
+        //Gets the average.
         double adb = sum / (double) days;
 
         //Saving Report 1 Data

@@ -19,6 +19,11 @@
 #define PRIVILEGE_MIN_BAL 100000.00
 #define INTEREST_MIN_BAL 10000.00
 
+/**
+ * @name generateReport();
+ * 
+ * Lets the user either reload the data or generate the 4 reports.
+ */
 void generateReport(){
     int select = 0;
     bool exitChoice = false;
@@ -63,13 +68,17 @@ void generateReport(){
         int nVolatile = 0;
 
         //Report 1
+        //Creates a dynamic array to hold the report records.
         UT_icd r1r_icd = {sizeof(PrivelegeReportRecord), NULL, NULL, NULL};
         UT_array *reportOneRecords;
         utarray_new(reportOneRecords, &r1r_icd);
 
+        //Passes the array pointer to the report generator.
         generatePrivelegeReport(reportOneRecords);
 
+        //Sorts the report.
         utarray_sort(reportOneRecords, cmpPrivelegeReport);
+        //Writes the report results to the file.
         FILE *f1 = fopen(REPORT1, "w");
         if (!f1){
             printf("ERROR: Can't Create Report 1 File");
@@ -99,14 +108,18 @@ void generateReport(){
         fclose(f1);
 
         //Report 2
-        //Since we already have each account from the previous report along with their current balance, we shall commandeer that data.
+        //Creates a dynamic array to hold the report records.
         UT_icd r2r_icd = {sizeof(InterestReportRecord), NULL, NULL, NULL};
         UT_array *reportTwoRecords;
         utarray_new(reportTwoRecords, &r2r_icd);
 
+        //Since we already have each account from the previous report along with their current balance, we shall commandeer that data.
+        //Passes the array pointer to the report generator.
         generateInterestReport(reportTwoRecords, reportOneRecords);
 
+        //Sorts the report.
         utarray_sort(reportTwoRecords, cmpInterestReport);
+        //Writes the report results to the file.
         FILE *f2 = fopen(REPORT2, "w");
         if (!f2){
             printf("ERROR: Can't Create Report 2 File");
@@ -126,13 +139,17 @@ void generateReport(){
         fclose(f2);
 
         //Report 3
+        //Creates a dynamic array to hold the report records.
         UT_icd r3r_icd = {sizeof(RiskReportRecord), NULL, NULL, NULL};
         UT_array *reportThreeRecords;
         utarray_new(reportThreeRecords, &r3r_icd);
 
+        //Passes the array pointer to the report generator.
         generateRiskReport(reportThreeRecords, &totalDepositAmount, &totalWithdrawAmount);
 
-        utarray_sort(reportThreeRecords, cmpRiskReport);;
+        //Sorts the report.
+        utarray_sort(reportThreeRecords, cmpRiskReport);
+        //Writes the report results to the file.
         FILE *f3 = fopen(REPORT3, "w");
         if (!f3){
             printf("ERROR: Can't Create Report 3 File");
@@ -164,13 +181,18 @@ void generateReport(){
         fclose(f3);
 
         //Report 4
+        //Creates a dynamic array to hold the report records.
         UT_icd r4r_icd = {sizeof(LendingReportRecord), NULL, NULL, NULL};
         UT_array *reportFourRecords;
         utarray_new(reportFourRecords, &r4r_icd);
 
+        //Passes the array pointer to the report generator.
         generateLendingReport(reportFourRecords);
 
+        //Sorts the report.
         utarray_sort(reportFourRecords, cmpLendingReport);
+
+        //Writes the report results to the file.
         FILE *f4 = fopen(REPORT4, "w");
         if (!f4){
             printf("ERROR: Can't Create Report 4 File");
@@ -290,6 +312,7 @@ void generateReport(){
 
         printf("(Full table exported to report4_lending_safety.csv)\n\n");
 
+        //Writes the summary to the json.
         printf("Summary State (summary.json):\n");
         FILE *summary = fopen("summary.json", "w");
         if (!summary){
@@ -328,6 +351,7 @@ void generateReport(){
             nStable, nModerate, nVolatile);
         fclose(summary);
 
+        // Prints the summary in the console.
         printf("{\n"
             " \"total_accounts\": %d,\n"
             " \"total_deposits\": %.2f,\n"
@@ -357,7 +381,7 @@ void generateReport(){
             safeToLend,
             nStable, nModerate, nVolatile);
         
-
+        //Free up memory
         utarray_free(reportOneRecords);
         utarray_free(reportTwoRecords);
         utarray_free(reportThreeRecords);

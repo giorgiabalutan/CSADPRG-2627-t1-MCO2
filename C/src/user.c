@@ -67,7 +67,9 @@ Account *accountFind(const char *name) {
 }
 
 /**
- * TO DO
+ * @name makeTransaction();
+ * 
+ * Creates a transaction with a time of the current time.
  */
 Transaction makeTransaction(TransactionType type, double amount) {
     time_t now = time(NULL);
@@ -88,7 +90,9 @@ Transaction makeTransaction(TransactionType type, double amount) {
 }
 
 /**
- * TO DO
+ * @name accountTransact();
+ * 
+ * Processes an transaction to an account.
  */
 Account *accountTransact(const char *name, long long number, Transaction transaction){
     Account *acc = accountFind(name);

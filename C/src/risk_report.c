@@ -9,6 +9,12 @@
 #define WITHDRAWAL_LIMIT 500000.0
 #define VELOCITY_LIMIT 90.0
 
+/**
+ * @name cmpRiskReport();
+ * 
+ * Comparison function for sorting Risk Reports.
+ * Sorts By Date (Ascending), then by Risk Level (Suspicious first), then by AccountName (Alphabetical) or AccountNumber (Ascending).
+ */
 int cmpRiskReport(const void *x, const void *y){
     const RiskReportRecord *a = x, *b = y;
     
@@ -29,8 +35,6 @@ int cmpRiskReport(const void *x, const void *y){
         return 1;
     }
 
-
-
     if (tieBreaker == NAME){
         return strcasecmp(a->AccountName,b->AccountName);
     } else {
@@ -38,6 +42,11 @@ int cmpRiskReport(const void *x, const void *y){
     }
 }
 
+/**
+ * @name generateInterestReport();
+ * 
+ * Generates report 3.
+ */
 void generateRiskReport(UT_array *reportThreeRecords, double *totalDepositAmount, double *totalWithdrawAmount){
     // Iterates through each account's transactions
     Account *acc, *temp;
@@ -47,6 +56,7 @@ void generateRiskReport(UT_array *reportThreeRecords, double *totalDepositAmount
         int nDeposits = 0;
         //Iterates through each of the account's transactions
         for (Transaction *t = NULL; (t = utarray_next(acc->transactions, t));){
+            //If its the first record, just process it.
             if (curY == 0 && curM == 0 && curD == 0){
                 curY = t->year;
                 curM = t->month;
@@ -61,6 +71,8 @@ void generateRiskReport(UT_array *reportThreeRecords, double *totalDepositAmount
                 }
                 continue;
             }
+
+            //If the date changed, process the -daily- report, then log this new transaction for later processing.
             if (curD != t->day || curM != t->month || curY != t->year){
                 RiskReportRecord r3 = {0};
                 snprintf(r3.AccountName, sizeof r3.AccountName, "%s", acc->accName);
@@ -94,6 +106,7 @@ void generateRiskReport(UT_array *reportThreeRecords, double *totalDepositAmount
                 withdrawal = 0.0;
                 nDeposits = 0;
 
+                //Process Transaction
                 curY = t->year;
                 curM = t->month;
                 curD = t->day;
@@ -106,7 +119,9 @@ void generateRiskReport(UT_array *reportThreeRecords, double *totalDepositAmount
                     *totalWithdrawAmount += t->amount;
                 }
                 continue;
-            }else{
+            }
+            //If its still the same day, just process transaction.
+            else{
                 if (t->type == DEPOSIT){
                     nDeposits += 1;
                     deposit += t->amount;
