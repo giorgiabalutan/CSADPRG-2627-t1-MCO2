@@ -12,13 +12,6 @@
 int cmpRiskReport(const void *x, const void *y){
     const RiskReportRecord *a = x, *b = y;
     
-    if (a->risk != b->risk){
-        if (a->risk == SUSPICIOUS){
-            return -1;
-        }
-        return 1;
-    }
-
     if (a->year != b->year){
         return (a->year > b->year) - (a->year < b->year);
     }
@@ -28,6 +21,15 @@ int cmpRiskReport(const void *x, const void *y){
     if (a->day != b->day){
         return (a->day > b->day) - (a->day < b->day);
     }
+
+    if (a->risk != b->risk){
+        if (a->risk == SUSPICIOUS){
+            return -1;
+        }
+        return 1;
+    }
+
+
 
     if (tieBreaker == NAME){
         return strcasecmp(a->AccountName,b->AccountName);

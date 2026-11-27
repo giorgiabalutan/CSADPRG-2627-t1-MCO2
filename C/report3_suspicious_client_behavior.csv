@@ -1,343 +1,4 @@
 AccountName,Date,TotalWithdrawalAmounts,NumberOfDeposits,TotalDepositAmounts,TurnoverVelocity,RiskFlagLevel
-Christian Bautista,10/12/2025,42661.77,1,6314.85,675.58%,Suspicious
-Francis Mercado,13/12/2025,11054.54,1,5626.58,196.47%,Suspicious
-Jasmine Santos,14/12/2025,32181.86,1,6605.71,487.18%,Suspicious
-John Bautista,14/12/2025,50827.23,1,20962.13,242.47%,Suspicious
-Jasmine Santos,16/12/2025,39799.30,1,28563.89,139.33%,Suspicious
-Gabriel Garcia,18/12/2025,17211.29,1,17647.18,97.53%,Suspicious
-John Cruz,18/12/2025,26063.72,1,10667.76,244.32%,Suspicious
-Miggy Mango,19/12/2025,89201.34,1,22319.45,399.66%,Suspicious
-Jasmine Santos,20/12/2025,38122.55,2,39259.09,97.11%,Suspicious
-Angel Salazar,21/12/2025,36876.70,1,19394.54,190.14%,Suspicious
-Samantha Tomas,21/12/2025,18842.59,1,9145.10,206.04%,Suspicious
-Ramon Andrada,22/12/2025,4693.28,1,4865.09,96.47%,Suspicious
-Ramon Garcia,23/12/2025,26958.53,1,24664.92,109.30%,Suspicious
-Dodong Bina,24/12/2025,34659.67,2,29009.63,119.48%,Suspicious
-Ralph Josh Bacon,25/12/2025,15669.26,1,10416.90,150.42%,Suspicious
-John Mercado,27/12/2025,30043.06,1,9712.29,309.33%,Suspicious
-Miggy Mango,27/12/2025,23392.77,1,2378.50,983.51%,Suspicious
-John Cruz,28/12/2025,20771.54,1,7927.57,262.02%,Suspicious
-Bea Andrada,30/12/2025,14258.49,1,8990.34,158.60%,Suspicious
-Paolo Aquino,31/12/2025,29005.06,1,30814.78,94.13%,Suspicious
-Patricia Reyes,31/12/2025,31029.91,1,2361.44,1314.02%,Suspicious
-Gabriel Garcia,02/01/2026,18964.02,1,15042.66,126.07%,Suspicious
-Bea Torres,10/01/2026,25267.68,1,18335.51,137.81%,Suspicious
-Jerome Tomas,14/01/2026,18890.01,1,4860.96,388.61%,Suspicious
-Patricia Mercado,14/01/2026,16811.87,1,11065.19,151.93%,Suspicious
-Angel Salazar,16/01/2026,36006.89,1,16679.10,215.88%,Suspicious
-Christian Mendoza,17/01/2026,15256.46,1,6145.83,248.24%,Suspicious
-Juan Tomas,19/01/2026,12306.39,1,4655.09,264.36%,Suspicious
-Gabriel Andrada,21/01/2026,24263.21,1,10846.08,223.70%,Suspicious
-Paul Navarro,21/01/2026,14750.06,1,10104.28,145.98%,Suspicious
-Gabriel Domingo,23/01/2026,32967.09,1,22950.96,143.64%,Suspicious
-Gabriel Domingo,24/01/2026,22500.76,1,13524.25,166.37%,Suspicious
-Joug de Asim,24/01/2026,29223.61,1,29936.24,97.62%,Suspicious
-Nicole Torres,24/01/2026,33875.68,1,9615.07,352.32%,Suspicious
-Jasmine Santos,26/01/2026,22921.15,1,13047.45,175.68%,Suspicious
-Angelo Valenzuela,28/01/2026,47154.17,1,14716.01,320.43%,Suspicious
-Patricia Salazar,30/01/2026,15177.55,1,4815.86,315.16%,Suspicious
-Mary Grace Piattos,02/02/2026,164977.78,1,176673.57,93.38%,Suspicious
-Mico Harina,03/02/2026,35450.13,1,31277.90,113.34%,Suspicious
-Gabriel Garcia,04/02/2026,38649.25,1,23297.23,165.90%,Suspicious
-Dodong Bunal,05/02/2026,8613.35,1,1349.26,638.38%,Suspicious
-Gabriel Domingo,06/02/2026,37383.47,2,32908.08,113.60%,Suspicious
-Nicole Bautista,06/02/2026,15189.00,1,13736.31,110.58%,Suspicious
-Angel Mendoza,07/02/2026,20587.34,2,21169.40,97.25%,Suspicious
-Gabriel Bautista,08/02/2026,25665.44,1,6091.56,421.33%,Suspicious
-Liza Castro,10/02/2026,22111.87,1,6770.40,326.60%,Suspicious
-Miggy Mango,10/02/2026,550823.01,1,622150.66,88.54%,Suspicious
-Ana Villanueva,13/02/2026,30736.85,1,27045.82,113.65%,Suspicious
-Carlos Bautista,14/02/2026,20089.29,1,18654.11,107.69%,Suspicious
-Jerome Domingo,14/02/2026,38120.79,1,32624.28,116.85%,Suspicious
-Juan Tomas,15/02/2026,19316.13,1,15984.05,120.85%,Suspicious
-Gabriel Andrada,16/02/2026,12553.98,1,5857.56,214.32%,Suspicious
-Camille Tomas,17/02/2026,21514.79,1,9395.89,228.98%,Suspicious
-Dodong Alcala,18/02/2026,540089.42,1,619012.13,87.25%,Suspicious
-Amoy Liu,19/02/2026,594609.77,1,669104.95,88.87%,Suspicious
-Patricia Reyes,20/02/2026,9202.99,1,7224.68,127.38%,Suspicious
-Ralph Josh Bacon,20/02/2026,33463.80,1,15874.53,210.80%,Suspicious
-Dodong Darong,21/02/2026,601989.47,1,668437.76,90.06%,Suspicious
-Juan Tomas,22/02/2026,33103.87,1,2389.93,1385.14%,Suspicious
-Grace Ocampo,23/02/2026,7697.66,1,7116.74,108.16%,Suspicious
-Dodong S. Barok,25/02/2026,258701.83,1,274834.62,94.13%,Suspicious
-Camille Tomas,27/02/2026,31619.65,1,30667.96,103.10%,Suspicious
-Joug de Asim,27/02/2026,573865.51,1,818870.86,70.08%,Suspicious
-Gabriel Garcia,28/02/2026,21774.01,1,17115.63,127.22%,Suspicious
-Jay Kamote,28/02/2026,33058.86,1,3743.70,883.05%,Suspicious
-Mark Domingo,28/02/2026,25783.83,1,14850.90,173.62%,Suspicious
-Jose Reyes,01/03/2026,35164.85,1,3581.92,981.73%,Suspicious
-Jose Mendoza,02/03/2026,4360.24,1,3315.98,131.49%,Suspicious
-Bea Ramos,06/03/2026,30083.74,1,6441.81,467.01%,Suspicious
-Francis Rivera,06/03/2026,13598.07,1,8548.04,159.08%,Suspicious
-Mico Harina,07/03/2026,558503.65,1,625945.77,89.23%,Suspicious
-Dodong Bina,08/03/2026,228643.65,1,241593.04,94.64%,Suspicious
-Grace Ocampo,08/03/2026,16771.54,1,8213.96,204.18%,Suspicious
-Ralph Josh Bacon,08/03/2026,605352.67,1,725427.32,83.45%,Suspicious
-Jay Kamote,09/03/2026,16429.26,1,17015.06,96.56%,Suspicious
-Grace Castro,10/03/2026,18968.98,1,3380.95,561.05%,Suspicious
-Paul Castro,10/03/2026,37262.06,1,25194.60,147.90%,Suspicious
-Juan Cruz,11/03/2026,12762.42,1,10258.18,124.41%,Suspicious
-Francis Rivera,12/03/2026,3891.26,1,1835.13,212.04%,Suspicious
-Jose Mendoza,12/03/2026,7527.65,1,4379.81,171.87%,Suspicious
-Liza Flores,13/03/2026,30014.73,1,21234.54,141.35%,Suspicious
-Mark Torres,13/03/2026,14555.67,1,5282.16,275.56%,Suspicious
-Bea Bautista,14/03/2026,38322.24,1,3041.99,1259.78%,Suspicious
-Dodong Alcala,15/03/2026,39483.37,1,33143.09,119.13%,Suspicious
-Gabriel Cruz,15/03/2026,16235.20,1,16748.97,96.93%,Suspicious
-Bea Tomas,16/03/2026,29407.52,1,10854.48,270.93%,Suspicious
-Miggy Mango,16/03/2026,70102.78,1,28717.41,244.11%,Suspicious
-Gabriel Cruz,17/03/2026,35188.17,1,7346.04,479.01%,Suspicious
-Miggy Mango,17/03/2026,31810.28,1,28601.52,111.22%,Suspicious
-Rhea Ramos,17/03/2026,5849.26,1,2315.77,252.58%,Suspicious
-Ana Cruz,18/03/2026,18062.83,1,9274.10,194.77%,Suspicious
-Gabriel Mercado,20/03/2026,24281.51,1,25897.39,93.76%,Suspicious
-Ramon Garcia,20/03/2026,18121.05,2,8091.15,223.96%,Suspicious
-Samantha Tomas,20/03/2026,27692.06,3,17139.09,161.57%,Suspicious
-Liza Flores,21/03/2026,36135.97,1,24107.34,149.90%,Suspicious
-Liza Flores,22/03/2026,35493.40,1,16692.73,212.63%,Suspicious
-Liza Navarro,22/03/2026,9229.94,1,6025.44,153.18%,Suspicious
-Samantha Castillo,22/03/2026,36102.50,1,30812.53,117.17%,Suspicious
-Amoy Liu,23/03/2026,15678.40,1,3644.77,430.16%,Suspicious
-John Bautista,24/03/2026,17432.45,1,1722.64,1011.96%,Suspicious
-Patricia Reyes,27/03/2026,34420.56,1,15337.85,224.42%,Suspicious
-Fernan Amuy,28/03/2026,620861.05,1,823627.36,75.38%,Suspicious
-Amoy Liu,29/03/2026,22678.68,2,24031.39,94.37%,Suspicious
-Christian Tomas,29/03/2026,89620.11,2,44119.00,203.13%,Suspicious
-Paul Navarro,29/03/2026,13104.26,1,5600.72,233.97%,Suspicious
-Jay Kamote,30/03/2026,320961.49,1,333449.84,96.25%,Suspicious
-Dodong Bunal,02/04/2026,198589.92,1,214924.16,92.40%,Suspicious
-Amoy Liu,03/04/2026,10825.69,1,5088.15,212.76%,Suspicious
-Joug de Asim,03/04/2026,33794.62,1,26779.59,126.20%,Suspicious
-Xiaomi Ocho,03/04/2026,10506.72,1,10477.88,100.28%,Suspicious
-Ramon Garcia,04/04/2026,12278.85,1,6227.15,197.18%,Suspicious
-Ramon Reyes,04/04/2026,29607.29,1,11374.12,260.30%,Suspicious
-Patricia Salazar,05/04/2026,25364.09,1,15499.84,163.64%,Suspicious
-Liza Castro,06/04/2026,8919.95,1,3917.97,227.67%,Suspicious
-John Flores,07/04/2026,18360.97,1,16695.77,109.97%,Suspicious
-Grace Reyes,10/04/2026,5239.32,1,2445.04,214.28%,Suspicious
-Samantha Castillo,10/04/2026,26167.58,1,9030.39,289.77%,Suspicious
-Dodong S. Barok,11/04/2026,1623.12,1,1158.63,140.09%,Suspicious
-Gabriel Rivera,11/04/2026,34803.09,1,3870.79,899.12%,Suspicious
-Jose Villanueva,12/04/2026,32353.16,1,8773.93,368.74%,Suspicious
-Jasmine Valenzuela,14/04/2026,39860.01,1,19603.52,203.33%,Suspicious
-Ana Ocampo,15/04/2026,20935.30,1,19410.92,107.85%,Suspicious
-John Mercado,16/04/2026,38059.66,1,5102.30,745.93%,Suspicious
-Mary Grace Piattos,18/04/2026,30689.45,1,33983.01,90.31%,Suspicious
-Samantha Tomas,19/04/2026,34492.15,1,25901.68,133.17%,Suspicious
-Xiaomi Ocho,20/04/2026,215310.97,1,235106.98,91.58%,Suspicious
-Paul Castro,22/04/2026,32216.22,1,19993.44,161.13%,Suspicious
-Camille Tomas,23/04/2026,27400.44,1,4044.42,677.49%,Suspicious
-Grace Castro,24/04/2026,28755.54,1,5253.18,547.39%,Suspicious
-Grace Ocampo,26/04/2026,8847.82,1,1353.46,653.72%,Suspicious
-Grace Torres,26/04/2026,21178.90,1,16254.17,130.30%,Suspicious
-Xiaomi Ocho,26/04/2026,19668.39,1,9617.83,204.50%,Suspicious
-Gabriel Flores,27/04/2026,35099.70,1,34990.02,100.31%,Suspicious
-Jay Kamote,29/04/2026,11796.87,1,7836.13,150.54%,Suspicious
-Bea Ramos,30/04/2026,20938.28,1,22754.81,92.02%,Suspicious
-Grace Torres,01/05/2026,33353.19,1,6796.45,490.74%,Suspicious
-Angel Flores,04/05/2026,25285.69,1,19517.83,129.55%,Suspicious
-Francis Bautista,04/05/2026,35602.36,1,11434.45,311.36%,Suspicious
-Jasmine Santos,04/05/2026,19724.60,1,15717.51,125.49%,Suspicious
-Rhea Ramos,04/05/2026,31020.77,1,31332.83,99.00%,Suspicious
-Angel Flores,05/05/2026,6102.48,1,6010.80,101.53%,Suspicious
-Grace Torres,07/05/2026,9089.80,1,10001.53,90.88%,Suspicious
-Jasmine Valenzuela,08/05/2026,12724.20,1,8941.41,142.31%,Suspicious
-Ramon Andrada,08/05/2026,26206.63,1,15496.97,169.11%,Suspicious
-Angel Mendoza,09/05/2026,19016.16,1,3702.16,513.65%,Suspicious
-Joug de Asim,09/05/2026,36845.30,2,28132.57,130.97%,Suspicious
-Nicole Castro,09/05/2026,15264.76,1,13280.70,114.94%,Suspicious
-Gabriel Cruz,10/05/2026,21152.08,1,20307.48,104.16%,Suspicious
-Samantha Navarro,10/05/2026,17188.34,1,14378.80,119.54%,Suspicious
-Dodong Alcala,16/05/2026,12341.73,1,12436.70,99.24%,Suspicious
-Bea Ramos,18/05/2026,42300.78,1,34005.43,124.39%,Suspicious
-Angelo Ramos,19/05/2026,26865.00,1,29460.68,91.19%,Suspicious
-Camille Tomas,19/05/2026,22503.31,1,6861.68,327.96%,Suspicious
-John Cruz,19/05/2026,21291.04,1,19565.23,108.82%,Suspicious
-Ana Ocampo,24/05/2026,32127.77,1,20796.93,154.48%,Suspicious
-Nicole Torres,25/05/2026,13312.90,1,6529.92,203.88%,Suspicious
-Samantha Castillo,26/05/2026,30958.35,1,12189.29,253.98%,Suspicious
-Paul Ocampo,27/05/2026,20725.12,1,21868.54,94.77%,Suspicious
-Angelo Ramos,28/05/2026,16852.47,1,14161.61,119.00%,Suspicious
-Xiaomi Ocho,30/05/2026,27519.95,1,6514.88,422.42%,Suspicious
-Angelo Ramos,01/06/2026,37385.94,1,3684.47,1014.69%,Suspicious
-Dodong Bunal,01/06/2026,33297.34,1,8847.94,376.33%,Suspicious
-Juan Navarro,01/06/2026,36969.26,1,4158.76,888.95%,Suspicious
-Christian Bautista,03/06/2026,31114.90,1,19690.61,158.02%,Suspicious
-Grace Castro,04/06/2026,15284.90,1,12936.80,118.15%,Suspicious
-Juan Cruz,05/06/2026,28875.47,1,4079.14,707.88%,Suspicious
-Ramon Garcia,05/06/2026,22095.69,1,24165.52,91.43%,Suspicious
-John Cruz,06/06/2026,38757.25,1,26418.18,146.71%,Suspicious
-John Tomas,06/06/2026,42878.53,1,3593.16,1193.34%,Suspicious
-Liza Flores,06/06/2026,31259.83,1,18212.18,171.64%,Suspicious
-Miggy Mango,06/06/2026,583089.00,1,765821.41,76.14%,Suspicious
-Ralph Josh Bacon,06/06/2026,566422.76,1,658533.23,86.01%,Suspicious
-Dodong Darong,08/06/2026,19565.66,1,13911.53,140.64%,Suspicious
-Paolo Ocampo,10/06/2026,35075.23,1,18254.57,192.14%,Suspicious
-Bea Tomas,12/06/2026,36895.15,1,3490.55,1057.00%,Suspicious
-Gabriel Flores,14/06/2026,34317.55,1,34598.51,99.19%,Suspicious
-Grace Castro,14/06/2026,38173.00,1,32710.08,116.70%,Suspicious
-Gabriel Flores,15/06/2026,32472.29,1,31698.02,102.44%,Suspicious
-Jasmine Castillo,15/06/2026,16613.30,1,12988.16,127.91%,Suspicious
-Ramon Tomas,15/06/2026,15296.43,1,14490.59,105.56%,Suspicious
-Rhea Ramos,15/06/2026,4327.45,1,3742.91,115.62%,Suspicious
-Francis Bautista,16/06/2026,10758.48,1,2956.17,363.93%,Suspicious
-Grace Navarro,16/06/2026,28184.08,1,30411.33,92.68%,Suspicious
-Mark Torres,16/06/2026,15184.42,1,8004.12,189.71%,Suspicious
-Fernan Amuy,17/06/2026,24571.31,1,1846.28,1330.86%,Suspicious
-Christian Mendoza,20/06/2026,37629.67,1,30186.49,124.66%,Suspicious
-Amoy Liu,22/06/2026,37673.05,2,25053.74,150.37%,Suspicious
-Mark Torres,22/06/2026,12219.10,1,3998.26,305.61%,Suspicious
-Nicole Bautista,28/06/2026,13478.25,1,10895.84,123.70%,Suspicious
-Gabriel Domingo,30/06/2026,36960.19,1,14686.27,251.66%,Suspicious
-Ramon Castillo,30/06/2026,33674.64,1,17552.51,191.85%,Suspicious
-Mico Harina,01/07/2026,21386.22,1,12470.98,171.49%,Suspicious
-Ana Ocampo,03/07/2026,33442.60,1,5915.29,565.36%,Suspicious
-John Del Rosario,03/07/2026,20061.69,1,20335.16,98.66%,Suspicious
-Francis Mercado,04/07/2026,22539.95,1,12556.11,179.51%,Suspicious
-Christian Bautista,05/07/2026,39062.37,1,23050.30,169.47%,Suspicious
-Christian Mendoza,05/07/2026,23070.99,1,16572.38,139.21%,Suspicious
-Ramon Castillo,06/07/2026,30217.57,2,17296.02,174.71%,Suspicious
-Ramon Tomas,08/07/2026,28424.40,1,12713.52,223.58%,Suspicious
-Rhea Ramos,08/07/2026,4984.93,1,3483.34,143.11%,Suspicious
-Dodong Alcala,11/07/2026,296057.44,1,313553.74,94.42%,Suspicious
-Patricia Mercado,11/07/2026,27355.34,1,3087.04,886.13%,Suspicious
-Jose Salazar,15/07/2026,22104.54,1,21600.89,102.33%,Suspicious
-Jose Mendoza,18/07/2026,17576.25,1,2387.06,736.31%,Suspicious
-Xiaomi Ocho,18/07/2026,541123.99,1,754350.40,71.73%,Suspicious
-Jose Reyes,19/07/2026,24205.40,1,26146.23,92.58%,Suspicious
-Bea Bautista,21/07/2026,25471.69,1,17556.89,145.08%,Suspicious
-Grace Castro,21/07/2026,32348.52,1,20949.82,154.41%,Suspicious
-Jerome Tomas,21/07/2026,14762.06,1,14127.83,104.49%,Suspicious
-Miggy Mango,21/07/2026,33752.69,1,18781.15,179.72%,Suspicious
-Dodong Bina,22/07/2026,255634.12,1,278044.51,91.94%,Suspicious
-Dodong Bina,23/07/2026,23556.28,1,12097.09,194.73%,Suspicious
-Paolo Ocampo,23/07/2026,35126.55,1,27657.82,127.00%,Suspicious
-Fernan Amuy,25/07/2026,19897.25,1,18111.16,109.86%,Suspicious
-Jose Torres,26/07/2026,55558.97,1,32149.44,172.81%,Suspicious
-Christian Tomas,27/07/2026,35488.72,1,34630.17,102.48%,Suspicious
-Gabriel Mercado,29/07/2026,34069.79,1,30935.77,110.13%,Suspicious
-Dodong Bunal,30/07/2026,25193.54,1,13457.94,187.20%,Suspicious
-Jasmine Castillo,30/07/2026,25219.48,1,26724.37,94.37%,Suspicious
-Jose Salazar,31/07/2026,28852.47,1,26995.62,106.88%,Suspicious
-Joug de Asim,31/07/2026,586386.28,1,799725.69,73.32%,Suspicious
-Bea Ramos,02/08/2026,12034.04,1,10299.92,116.84%,Suspicious
-Bea Andrada,04/08/2026,13640.53,1,3376.00,404.04%,Suspicious
-Gabriel Mercado,05/08/2026,27847.50,1,29113.56,95.65%,Suspicious
-Bea Tomas,06/08/2026,32078.17,1,27330.61,117.37%,Suspicious
-Bea Bautista,09/08/2026,39477.89,1,34544.52,114.28%,Suspicious
-Nicole Salazar,09/08/2026,35453.40,1,30879.48,114.81%,Suspicious
-Nicole Torres,09/08/2026,35741.99,1,33252.17,107.49%,Suspicious
-Camille Tomas,11/08/2026,36687.53,1,10134.87,361.99%,Suspicious
-Gabriel Flores,11/08/2026,30994.31,1,31345.91,98.88%,Suspicious
-Grace Reyes,12/08/2026,33330.12,1,7904.69,421.65%,Suspicious
-Patricia Reyes,12/08/2026,19353.82,1,7700.89,251.32%,Suspicious
-Francis Rivera,13/08/2026,21525.09,1,8025.07,268.22%,Suspicious
-Jerome Domingo,13/08/2026,51713.13,1,34026.32,151.98%,Suspicious
-Amoy Liu,14/08/2026,21160.19,1,17656.11,119.85%,Suspicious
-Dodong S. Barok,14/08/2026,15450.32,1,16241.22,95.13%,Suspicious
-Dodong Darong,17/08/2026,226549.54,1,235620.95,96.15%,Suspicious
-Samantha Tomas,17/08/2026,39326.78,1,33696.16,116.71%,Suspicious
-Carlos Mendoza,18/08/2026,31097.53,1,21726.21,143.13%,Suspicious
-Ramon Del Rosario,21/08/2026,24067.14,1,8979.69,268.02%,Suspicious
-Nicole Castro,23/08/2026,17553.62,1,2794.99,628.04%,Suspicious
-Patricia Mercado,23/08/2026,11807.59,1,10654.60,110.82%,Suspicious
-Ana Villanueva,27/08/2026,9575.78,1,2583.11,370.71%,Suspicious
-Fernan Amuy,30/08/2026,283999.89,1,304688.22,93.21%,Suspicious
-Jasmine Santos,30/08/2026,38977.21,1,12328.17,316.16%,Suspicious
-Mico Harina,01/09/2026,37800.64,1,26554.62,142.35%,Suspicious
-Gabriel Garcia,03/09/2026,20935.27,1,2011.94,1040.55%,Suspicious
-Paul Ocampo,03/09/2026,13992.87,1,12577.41,111.25%,Suspicious
-Paolo Aquino,04/09/2026,32509.42,1,19698.31,165.04%,Suspicious
-Bea Ramos,05/09/2026,37304.69,1,29974.05,124.46%,Suspicious
-Dodong S. Barok,07/09/2026,270299.37,1,285728.72,94.60%,Suspicious
-John Tomas,08/09/2026,21800.03,1,4276.28,509.79%,Suspicious
-Amoy Liu,09/09/2026,586563.93,1,790946.23,74.16%,Suspicious
-Grace Torres,09/09/2026,28195.23,1,30065.65,93.78%,Suspicious
-Dodong Bunal,10/09/2026,583908.50,1,639449.61,91.31%,Suspicious
-Mary Grace Piattos,10/09/2026,39003.55,1,17681.94,220.58%,Suspicious
-Dodong Alcala,12/09/2026,34955.48,1,29430.91,118.77%,Suspicious
-Mary Grace Piattos,14/09/2026,39579.67,1,32560.24,121.56%,Suspicious
-John Cruz,15/09/2026,38617.47,1,11821.43,326.67%,Suspicious
-Mark Domingo,15/09/2026,8095.36,1,5449.10,148.56%,Suspicious
-Samantha Torres,15/09/2026,17811.32,1,6114.27,291.31%,Suspicious
-Gabriel Garcia,17/09/2026,28668.65,1,12701.35,225.71%,Suspicious
-Grace Castro,20/09/2026,30174.61,1,20782.37,145.19%,Suspicious
-Ramon Castillo,20/09/2026,20488.26,1,5580.23,367.16%,Suspicious
-Dodong Bina,21/09/2026,31799.20,1,18079.15,175.89%,Suspicious
-Ramon Andrada,21/09/2026,11120.14,1,1700.40,653.97%,Suspicious
-Bea Torres,22/09/2026,23118.06,1,18697.27,123.64%,Suspicious
-Angel Flores,23/09/2026,36806.43,1,33240.23,110.73%,Suspicious
-Jay Kamote,23/09/2026,608547.54,1,721542.40,84.34%,Suspicious
-John Tomas,23/09/2026,26569.40,1,16337.46,162.63%,Suspicious
-Jasmine Santos,26/09/2026,39165.32,1,1314.78,2978.85%,Suspicious
-John Flores,26/09/2026,20118.73,1,6554.98,306.92%,Suspicious
-Angelo Valenzuela,27/09/2026,23713.00,1,14935.94,158.76%,Suspicious
-Carlos Bautista,29/09/2026,27228.01,1,10075.19,270.25%,Suspicious
-Ana Cruz,01/10/2026,116735.58,5,94440.96,123.61%,Suspicious
-Ana Ocampo,01/10/2026,49110.62,2,34518.21,142.27%,Suspicious
-Angel Mendoza,01/10/2026,150539.41,5,45105.17,333.75%,Suspicious
-Angelo Ramos,01/10/2026,108632.61,3,60500.22,179.56%,Suspicious
-Camille Del Rosario,01/10/2026,80655.10,5,70234.39,114.84%,Suspicious
-Carlos Bautista,01/10/2026,107168.22,4,68771.39,155.83%,Suspicious
-Carlos Mendoza,01/10/2026,167204.31,3,78881.47,211.97%,Suspicious
-Christian Bautista,01/10/2026,81918.75,5,89253.93,91.78%,Suspicious
-Christian Mendoza,01/10/2026,71033.25,4,65845.43,107.88%,Suspicious
-Christian Tomas,01/10/2026,109780.93,4,59393.21,184.84%,Suspicious
-Dodong Bunal,01/10/2026,75989.01,4,82872.85,91.69%,Suspicious
-Fernan Amuy,01/10/2026,115036.18,3,47593.71,241.70%,Suspicious
-Francis Garcia,01/10/2026,68505.23,4,62822.39,109.05%,Suspicious
-Francis Mercado,01/10/2026,107819.18,5,90253.06,119.46%,Suspicious
-Gabriel Cruz,01/10/2026,93098.69,5,80371.03,115.84%,Suspicious
-Gabriel Domingo,01/10/2026,70536.43,5,49567.26,142.30%,Suspicious
-Gabriel Flores,01/10/2026,120371.32,4,74265.91,162.08%,Suspicious
-Gabriel Rivera,01/10/2026,104115.37,4,49135.58,211.89%,Suspicious
-Grace Navarro,01/10/2026,168707.28,6,127445.94,132.38%,Suspicious
-Grace Ocampo,01/10/2026,37769.11,1,17540.77,215.32%,Suspicious
-Grace Reyes,01/10/2026,110043.80,7,100172.66,109.85%,Suspicious
-Jasmine Reyes,01/10/2026,104014.35,4,78407.64,132.66%,Suspicious
-Jasmine Valenzuela,01/10/2026,105120.23,6,61247.64,171.63%,Suspicious
-Jay Kamote,01/10/2026,59174.28,4,63751.12,92.82%,Suspicious
-Jerome Domingo,01/10/2026,74394.85,4,59493.27,125.05%,Suspicious
-John Mercado,01/10/2026,89208.69,4,68552.89,130.13%,Suspicious
-John Tomas,01/10/2026,56842.47,1,16551.21,343.43%,Suspicious
-Jose Torres,01/10/2026,56166.55,3,46079.09,121.89%,Suspicious
-Juan Cruz,01/10/2026,137691.01,5,90563.44,152.04%,Suspicious
-Juan Valenzuela,01/10/2026,62794.25,2,28201.55,222.66%,Suspicious
-Liza Castro,01/10/2026,38019.50,2,37887.71,100.35%,Suspicious
-Liza Navarro,01/10/2026,108596.97,1,7682.56,1413.55%,Suspicious
-Mico Harina,01/10/2026,110587.11,4,89921.90,122.98%,Suspicious
-Nicole Torres,01/10/2026,130052.80,2,32194.02,403.97%,Suspicious
-Paolo Aquino,01/10/2026,67235.62,3,57020.05,117.92%,Suspicious
-Paolo Ocampo,01/10/2026,114508.89,4,71285.50,160.63%,Suspicious
-Paul Castro,01/10/2026,178310.86,7,111218.50,160.32%,Suspicious
-Ramon Reyes,01/10/2026,53751.17,3,55770.32,96.38%,Suspicious
-Samantha Navarro,01/10/2026,53223.46,4,31509.80,168.91%,Suspicious
-Samantha Tomas,01/10/2026,125939.91,2,37236.31,338.22%,Suspicious
-Jose Mendoza,03/11/2026,34383.39,1,23721.97,144.94%,Suspicious
-Paul Ocampo,04/11/2026,18035.55,1,13812.71,130.57%,Suspicious
-Juan Tomas,05/11/2026,33957.42,1,25560.47,132.85%,Suspicious
-Patricia Reyes,05/11/2026,17484.90,1,11766.30,148.60%,Suspicious
-Dodong Darong,06/11/2026,39262.75,1,22653.83,173.32%,Suspicious
-Paul Castro,06/11/2026,13345.45,1,10262.09,130.05%,Suspicious
-Nicole Torres,07/11/2026,35913.53,1,17879.01,200.87%,Suspicious
-Ramon Castillo,08/11/2026,31985.33,1,22312.18,143.35%,Suspicious
-Rhea Ramos,08/11/2026,31513.72,1,13410.22,235.00%,Suspicious
-Camille Tomas,09/11/2026,39830.28,1,32152.43,123.88%,Suspicious
-Joug de Asim,09/11/2026,18415.05,1,16239.41,113.40%,Suspicious
-Gabriel Rivera,10/11/2026,28034.95,1,1392.16,2013.77%,Suspicious
-Francis Bautista,11/11/2026,6822.58,1,6372.13,107.07%,Suspicious
-Jasmine Valenzuela,12/11/2026,16853.18,1,9305.70,181.11%,Suspicious
-Dodong Bunal,15/11/2026,17727.25,1,10272.21,172.57%,Suspicious
-Nicole Castro,19/11/2026,22727.46,1,24404.17,93.13%,Suspicious
-Dodong Alcala,20/11/2026,27373.51,1,16189.43,169.08%,Suspicious
-Gabriel Bautista,21/11/2026,21727.54,1,7496.97,289.82%,Suspicious
-Angel Flores,24/11/2026,31713.92,1,11492.57,275.95%,Suspicious
-Grace Navarro,27/11/2026,26898.92,1,6715.01,400.58%,Suspicious
-Samantha Navarro,27/11/2026,6936.16,1,7052.37,98.35%,Suspicious
-Bea Andrada,28/11/2026,24048.65,1,23451.47,102.55%,Suspicious
-Gabriel Mercado,28/11/2026,14435.88,1,5470.20,263.90%,Suspicious
-Angelo Valenzuela,29/11/2026,29593.55,1,18977.00,155.94%,Suspicious
-Gabriel Bautista,29/11/2026,35688.65,1,8450.10,422.35%,Suspicious
 Bea Ramos,01/12/2025,0.00,1,96392.70,0.00%,Normal
 Bea Torres,01/12/2025,0.00,1,152310.00,0.00%,Normal
 Christian Tomas,01/12/2025,0.00,1,179202.37,0.00%,Normal
@@ -503,6 +164,7 @@ Nicole Bautista,09/12/2025,10298.30,0,0.00,0.00%,Normal
 Paolo Ocampo,09/12/2025,8325.12,1,34430.42,24.18%,Normal
 Ramon Del Rosario,09/12/2025,8953.94,0,0.00,0.00%,Normal
 Samantha Castillo,09/12/2025,0.00,1,10064.70,0.00%,Normal
+Christian Bautista,10/12/2025,42661.77,1,6314.85,675.58%,Suspicious
 Bea Andrada,10/12/2025,0.00,1,29784.57,0.00%,Normal
 Bea Bautista,10/12/2025,16396.98,0,0.00,0.00%,Normal
 Dodong Alcala,10/12/2025,0.00,1,27151.59,0.00%,Normal
@@ -565,6 +227,7 @@ Paul Ocampo,12/12/2025,10796.74,0,0.00,0.00%,Normal
 Ramon Tomas,12/12/2025,5030.35,0,0.00,0.00%,Normal
 Rhea Ramos,12/12/2025,36754.08,0,0.00,0.00%,Normal
 Samantha Castillo,12/12/2025,0.00,2,34545.69,0.00%,Normal
+Francis Mercado,13/12/2025,11054.54,1,5626.58,196.47%,Suspicious
 Amoy Liu,13/12/2025,17315.23,0,0.00,0.00%,Normal
 Camille Tomas,13/12/2025,0.00,1,21017.23,0.00%,Normal
 Christian Bautista,13/12/2025,0.00,1,3694.24,0.00%,Normal
@@ -590,6 +253,8 @@ Ramon Reyes,13/12/2025,10270.81,0,0.00,0.00%,Normal
 Ramon Tomas,13/12/2025,30916.08,0,0.00,0.00%,Normal
 Samantha Navarro,13/12/2025,0.00,1,21454.39,0.00%,Normal
 Xiaomi Ocho,13/12/2025,17228.16,0,0.00,0.00%,Normal
+Jasmine Santos,14/12/2025,32181.86,1,6605.71,487.18%,Suspicious
+John Bautista,14/12/2025,50827.23,1,20962.13,242.47%,Suspicious
 Angelo Ramos,14/12/2025,0.00,1,4435.09,0.00%,Normal
 Bea Ramos,14/12/2025,0.00,1,19568.47,0.00%,Normal
 Carlos Mendoza,14/12/2025,0.00,1,30558.28,0.00%,Normal
@@ -634,6 +299,7 @@ Paul Ocampo,15/12/2025,16768.08,0,0.00,0.00%,Normal
 Ralph Josh Bacon,15/12/2025,0.00,1,31484.16,0.00%,Normal
 Rhea Ramos,15/12/2025,0.00,1,23313.58,0.00%,Normal
 Samantha Navarro,15/12/2025,27031.05,0,0.00,0.00%,Normal
+Jasmine Santos,16/12/2025,39799.30,1,28563.89,139.33%,Suspicious
 Ana Ocampo,16/12/2025,0.00,1,21846.37,0.00%,Normal
 Angelo Ramos,16/12/2025,8104.75,0,0.00,0.00%,Normal
 Angelo Valenzuela,16/12/2025,0.00,1,11183.61,0.00%,Normal
@@ -680,6 +346,8 @@ Ramon Del Rosario,17/12/2025,0.00,1,25951.67,0.00%,Normal
 Ramon Reyes,17/12/2025,27944.35,0,0.00,0.00%,Normal
 Samantha Tomas,17/12/2025,19270.09,0,0.00,0.00%,Normal
 Xiaomi Ocho,17/12/2025,0.00,1,29667.58,0.00%,Normal
+Gabriel Garcia,18/12/2025,17211.29,1,17647.18,97.53%,Suspicious
+John Cruz,18/12/2025,26063.72,1,10667.76,244.32%,Suspicious
 Angelo Ramos,18/12/2025,5136.52,0,0.00,0.00%,Normal
 Angelo Valenzuela,18/12/2025,0.00,1,1545.41,0.00%,Normal
 Bea Tomas,18/12/2025,4209.47,0,0.00,0.00%,Normal
@@ -708,6 +376,7 @@ Ramon Garcia,18/12/2025,17079.18,0,0.00,0.00%,Normal
 Rhea Ramos,18/12/2025,3818.97,0,0.00,0.00%,Normal
 Samantha Navarro,18/12/2025,5126.58,0,0.00,0.00%,Normal
 Samantha Torres,18/12/2025,2775.15,0,0.00,0.00%,Normal
+Miggy Mango,19/12/2025,89201.34,1,22319.45,399.66%,Suspicious
 Ana Ocampo,19/12/2025,0.00,1,13178.48,0.00%,Normal
 Angel Salazar,19/12/2025,0.00,1,11766.48,0.00%,Normal
 Angelo Valenzuela,19/12/2025,18272.65,0,0.00,0.00%,Normal
@@ -731,6 +400,7 @@ Paul Castro,19/12/2025,0.00,1,21027.63,0.00%,Normal
 Ramon Reyes,19/12/2025,21563.02,0,0.00,0.00%,Normal
 Ramon Tomas,19/12/2025,0.00,1,4330.31,0.00%,Normal
 Samantha Navarro,19/12/2025,0.00,1,5101.85,0.00%,Normal
+Jasmine Santos,20/12/2025,38122.55,2,39259.09,97.11%,Suspicious
 Angelo Ramos,20/12/2025,5225.50,0,0.00,0.00%,Normal
 Angelo Valenzuela,20/12/2025,26138.32,0,0.00,0.00%,Normal
 Bea Ramos,20/12/2025,37645.82,0,0.00,0.00%,Normal
@@ -751,6 +421,8 @@ Paolo Ocampo,20/12/2025,0.00,2,27130.28,0.00%,Normal
 Patricia Reyes,20/12/2025,15452.76,0,0.00,0.00%,Normal
 Patricia Salazar,20/12/2025,0.00,1,20208.05,0.00%,Normal
 Samantha Tomas,20/12/2025,10973.05,0,0.00,0.00%,Normal
+Angel Salazar,21/12/2025,36876.70,1,19394.54,190.14%,Suspicious
+Samantha Tomas,21/12/2025,18842.59,1,9145.10,206.04%,Suspicious
 Ana Ocampo,21/12/2025,24649.40,0,0.00,0.00%,Normal
 Camille Del Rosario,21/12/2025,0.00,1,15756.48,0.00%,Normal
 Carlos Mendoza,21/12/2025,17582.85,0,0.00,0.00%,Normal
@@ -765,6 +437,7 @@ Patricia Reyes,21/12/2025,0.00,1,18429.38,0.00%,Normal
 Ramon Castillo,21/12/2025,0.00,1,21728.52,0.00%,Normal
 Ramon Tomas,21/12/2025,3482.88,0,0.00,0.00%,Normal
 Rhea Ramos,21/12/2025,0.00,2,31263.32,0.00%,Normal
+Ramon Andrada,22/12/2025,4693.28,1,4865.09,96.47%,Suspicious
 Angelo Valenzuela,22/12/2025,0.00,1,31617.12,0.00%,Normal
 Bea Andrada,22/12/2025,21186.98,0,0.00,0.00%,Normal
 Camille Del Rosario,22/12/2025,38489.33,0,0.00,0.00%,Normal
@@ -790,6 +463,7 @@ Paul Ocampo,22/12/2025,0.00,1,4784.90,0.00%,Normal
 Ramon Castillo,22/12/2025,0.00,1,31578.04,0.00%,Normal
 Ramon Garcia,22/12/2025,0.00,1,4687.85,0.00%,Normal
 Samantha Torres,22/12/2025,17002.04,0,0.00,0.00%,Normal
+Ramon Garcia,23/12/2025,26958.53,1,24664.92,109.30%,Suspicious
 Angel Mendoza,23/12/2025,17967.30,0,0.00,0.00%,Normal
 Bea Bautista,23/12/2025,1895.07,1,22677.54,8.36%,Normal
 Bea Ramos,23/12/2025,0.00,1,2579.55,0.00%,Normal
@@ -813,6 +487,7 @@ Patricia Mercado,23/12/2025,30321.64,0,0.00,0.00%,Normal
 Ramon Andrada,23/12/2025,0.00,1,7483.40,0.00%,Normal
 Samantha Navarro,23/12/2025,31153.20,0,0.00,0.00%,Normal
 Xiaomi Ocho,23/12/2025,31994.91,0,0.00,0.00%,Normal
+Dodong Bina,24/12/2025,34659.67,2,29009.63,119.48%,Suspicious
 Angel Mendoza,24/12/2025,9722.84,0,0.00,0.00%,Normal
 Christian Mendoza,24/12/2025,1794.50,0,0.00,0.00%,Normal
 Dodong Alcala,24/12/2025,33339.94,0,0.00,0.00%,Normal
@@ -832,6 +507,7 @@ Ramon Andrada,24/12/2025,0.00,1,4479.59,0.00%,Normal
 Ramon Del Rosario,24/12/2025,0.00,1,17780.87,0.00%,Normal
 Samantha Castillo,24/12/2025,31022.08,0,0.00,0.00%,Normal
 Xiaomi Ocho,24/12/2025,0.00,1,18702.47,0.00%,Normal
+Ralph Josh Bacon,25/12/2025,15669.26,1,10416.90,150.42%,Suspicious
 Ana Cruz,25/12/2025,0.00,1,1246.91,0.00%,Normal
 Angel Flores,25/12/2025,0.00,1,10230.80,0.00%,Normal
 Angel Mendoza,25/12/2025,34184.18,0,0.00,0.00%,Normal
@@ -878,6 +554,8 @@ Patricia Salazar,26/12/2025,0.00,1,8080.92,0.00%,Normal
 Paul Castro,26/12/2025,23256.77,0,0.00,0.00%,Normal
 Ramon Castillo,26/12/2025,29004.56,0,0.00,0.00%,Normal
 Ramon Reyes,26/12/2025,0.00,1,23465.20,0.00%,Normal
+John Mercado,27/12/2025,30043.06,1,9712.29,309.33%,Suspicious
+Miggy Mango,27/12/2025,23392.77,1,2378.50,983.51%,Suspicious
 Amoy Liu,27/12/2025,6902.68,0,0.00,0.00%,Normal
 Angelo Valenzuela,27/12/2025,0.00,1,25238.27,0.00%,Normal
 Bea Tomas,27/12/2025,8527.01,0,0.00,0.00%,Normal
@@ -901,6 +579,7 @@ Ramon Andrada,27/12/2025,0.00,1,32758.93,0.00%,Normal
 Ramon Tomas,27/12/2025,17688.40,0,0.00,0.00%,Normal
 Rhea Ramos,27/12/2025,13103.86,0,0.00,0.00%,Normal
 Samantha Torres,27/12/2025,0.00,1,12554.38,0.00%,Normal
+John Cruz,28/12/2025,20771.54,1,7927.57,262.02%,Suspicious
 Angelo Valenzuela,28/12/2025,0.00,1,15137.20,0.00%,Normal
 Bea Andrada,28/12/2025,5699.56,0,0.00,0.00%,Normal
 Bea Ramos,28/12/2025,11082.79,0,0.00,0.00%,Normal
@@ -940,6 +619,7 @@ Paul Navarro,29/12/2025,0.00,1,31582.89,0.00%,Normal
 Ramon Del Rosario,29/12/2025,13836.76,0,0.00,0.00%,Normal
 Samantha Navarro,29/12/2025,0.00,1,21393.92,0.00%,Normal
 Samantha Tomas,29/12/2025,5698.90,1,7392.02,77.10%,Normal
+Bea Andrada,30/12/2025,14258.49,1,8990.34,158.60%,Suspicious
 Christian Bautista,30/12/2025,0.00,1,1570.20,0.00%,Normal
 Francis Mercado,30/12/2025,0.00,1,2930.24,0.00%,Normal
 Gabriel Andrada,30/12/2025,16968.43,0,0.00,0.00%,Normal
@@ -952,6 +632,8 @@ Miggy Mango,30/12/2025,0.00,1,28690.44,0.00%,Normal
 Paolo Ocampo,30/12/2025,3809.68,1,23079.76,16.51%,Normal
 Ramon Andrada,30/12/2025,0.00,1,25701.94,0.00%,Normal
 Ramon Garcia,30/12/2025,0.00,1,13917.33,0.00%,Normal
+Paolo Aquino,31/12/2025,29005.06,1,30814.78,94.13%,Suspicious
+Patricia Reyes,31/12/2025,31029.91,1,2361.44,1314.02%,Suspicious
 Ana Ocampo,31/12/2025,0.00,1,32802.42,0.00%,Normal
 Angel Mendoza,31/12/2025,1042.47,1,22114.08,4.71%,Normal
 Bea Andrada,31/12/2025,22517.56,0,0.00,0.00%,Normal
@@ -1005,6 +687,7 @@ Ramon Garcia,01/01/2026,21533.20,0,0.00,0.00%,Normal
 Ramon Reyes,01/01/2026,0.00,1,25350.48,0.00%,Normal
 Ramon Tomas,01/01/2026,0.00,1,5654.91,0.00%,Normal
 Samantha Torres,01/01/2026,0.00,1,25108.82,0.00%,Normal
+Gabriel Garcia,02/01/2026,18964.02,1,15042.66,126.07%,Suspicious
 Angel Flores,02/01/2026,23888.45,0,0.00,0.00%,Normal
 Angelo Valenzuela,02/01/2026,0.00,1,31919.33,0.00%,Normal
 Bea Bautista,02/01/2026,0.00,1,33240.56,0.00%,Normal
@@ -1152,6 +835,7 @@ Juan Cruz,09/01/2026,0.00,1,30109.40,0.00%,Normal
 Paul Navarro,09/01/2026,0.00,1,31066.54,0.00%,Normal
 Ramon Andrada,09/01/2026,0.00,1,15994.39,0.00%,Normal
 Ramon Tomas,09/01/2026,24940.64,0,0.00,0.00%,Normal
+Bea Torres,10/01/2026,25267.68,1,18335.51,137.81%,Suspicious
 Amoy Liu,10/01/2026,0.00,1,6804.55,0.00%,Normal
 Ana Ocampo,10/01/2026,0.00,1,22736.25,0.00%,Normal
 Angel Salazar,10/01/2026,7214.35,0,0.00,0.00%,Normal
@@ -1233,6 +917,8 @@ Paolo Ocampo,13/01/2026,0.00,1,17771.98,0.00%,Normal
 Paul Castro,13/01/2026,0.00,2,34693.05,0.00%,Normal
 Samantha Navarro,13/01/2026,0.00,1,19137.98,0.00%,Normal
 Samantha Tomas,13/01/2026,14276.61,1,22654.35,63.02%,Normal
+Jerome Tomas,14/01/2026,18890.01,1,4860.96,388.61%,Suspicious
+Patricia Mercado,14/01/2026,16811.87,1,11065.19,151.93%,Suspicious
 Ana Villanueva,14/01/2026,29069.56,0,0.00,0.00%,Normal
 Bea Andrada,14/01/2026,0.00,1,26187.26,0.00%,Normal
 Bea Bautista,14/01/2026,11267.33,0,0.00,0.00%,Normal
@@ -1288,6 +974,7 @@ Paul Castro,15/01/2026,39676.05,0,0.00,0.00%,Normal
 Paul Navarro,15/01/2026,0.00,1,30715.17,0.00%,Normal
 Samantha Navarro,15/01/2026,36032.73,0,0.00,0.00%,Normal
 Samantha Torres,15/01/2026,22945.13,0,0.00,0.00%,Normal
+Angel Salazar,16/01/2026,36006.89,1,16679.10,215.88%,Suspicious
 Ana Ocampo,16/01/2026,0.00,2,46085.04,0.00%,Normal
 Angelo Ramos,16/01/2026,11745.97,0,0.00,0.00%,Normal
 Bea Andrada,16/01/2026,31610.51,0,0.00,0.00%,Normal
@@ -1305,6 +992,7 @@ John Flores,16/01/2026,880.99,0,0.00,0.00%,Normal
 Jose Villanueva,16/01/2026,7454.68,0,0.00,0.00%,Normal
 Mark Domingo,16/01/2026,0.00,1,25577.42,0.00%,Normal
 Miggy Mango,16/01/2026,0.00,1,7808.74,0.00%,Normal
+Christian Mendoza,17/01/2026,15256.46,1,6145.83,248.24%,Suspicious
 Angel Flores,17/01/2026,7258.81,1,22746.92,31.91%,Normal
 Angel Salazar,17/01/2026,6740.04,0,0.00,0.00%,Normal
 Bea Bautista,17/01/2026,10050.98,1,12471.82,80.59%,Normal
@@ -1348,6 +1036,7 @@ Ramon Castillo,18/01/2026,35014.78,0,0.00,0.00%,Normal
 Ramon Garcia,18/01/2026,22168.44,0,0.00,0.00%,Normal
 Ramon Reyes,18/01/2026,24659.60,0,0.00,0.00%,Normal
 Rhea Ramos,18/01/2026,31264.95,0,0.00,0.00%,Normal
+Juan Tomas,19/01/2026,12306.39,1,4655.09,264.36%,Suspicious
 Amoy Liu,19/01/2026,0.00,1,34855.31,0.00%,Normal
 Angel Salazar,19/01/2026,0.00,1,33708.99,0.00%,Normal
 Bea Ramos,19/01/2026,0.00,2,42835.18,0.00%,Normal
@@ -1395,6 +1084,8 @@ Ramon Reyes,20/01/2026,0.00,1,12004.87,0.00%,Normal
 Samantha Castillo,20/01/2026,0.00,1,24399.29,0.00%,Normal
 Samantha Navarro,20/01/2026,24551.50,0,0.00,0.00%,Normal
 Xiaomi Ocho,20/01/2026,29159.51,0,0.00,0.00%,Normal
+Gabriel Andrada,21/01/2026,24263.21,1,10846.08,223.70%,Suspicious
+Paul Navarro,21/01/2026,14750.06,1,10104.28,145.98%,Suspicious
 Angelo Ramos,21/01/2026,0.00,1,12791.54,0.00%,Normal
 Bea Andrada,21/01/2026,0.00,1,11354.42,0.00%,Normal
 Bea Bautista,21/01/2026,0.00,1,23875.26,0.00%,Normal
@@ -1447,6 +1138,7 @@ Samantha Castillo,22/01/2026,0.00,1,25007.33,0.00%,Normal
 Samantha Tomas,22/01/2026,0.00,1,28181.72,0.00%,Normal
 Samantha Torres,22/01/2026,6600.43,0,0.00,0.00%,Normal
 Xiaomi Ocho,22/01/2026,21151.56,0,0.00,0.00%,Normal
+Gabriel Domingo,23/01/2026,32967.09,1,22950.96,143.64%,Suspicious
 Ana Villanueva,23/01/2026,0.00,1,32748.37,0.00%,Normal
 Angel Salazar,23/01/2026,0.00,1,13966.39,0.00%,Normal
 Bea Andrada,23/01/2026,0.00,1,29934.45,0.00%,Normal
@@ -1468,6 +1160,9 @@ Nicole Torres,23/01/2026,0.00,1,1090.76,0.00%,Normal
 Paolo Aquino,23/01/2026,21058.53,0,0.00,0.00%,Normal
 Rhea Ramos,23/01/2026,0.00,1,22545.17,0.00%,Normal
 Xiaomi Ocho,23/01/2026,0.00,1,4618.14,0.00%,Normal
+Gabriel Domingo,24/01/2026,22500.76,1,13524.25,166.37%,Suspicious
+Joug de Asim,24/01/2026,29223.61,1,29936.24,97.62%,Suspicious
+Nicole Torres,24/01/2026,33875.68,1,9615.07,352.32%,Suspicious
 Amoy Liu,24/01/2026,0.00,1,21875.99,0.00%,Normal
 Angel Flores,24/01/2026,0.00,2,32831.40,0.00%,Normal
 Angel Mendoza,24/01/2026,15375.96,1,22183.43,69.31%,Normal
@@ -1510,6 +1205,7 @@ Mary Grace Piattos,25/01/2026,0.00,1,21268.59,0.00%,Normal
 Ramon Del Rosario,25/01/2026,0.00,1,15512.34,0.00%,Normal
 Ramon Reyes,25/01/2026,0.00,1,20227.15,0.00%,Normal
 Rhea Ramos,25/01/2026,0.00,1,11845.94,0.00%,Normal
+Jasmine Santos,26/01/2026,22921.15,1,13047.45,175.68%,Suspicious
 Amoy Liu,26/01/2026,28945.15,0,0.00,0.00%,Normal
 Ana Villanueva,26/01/2026,0.00,1,5604.58,0.00%,Normal
 Angel Mendoza,26/01/2026,0.00,1,3043.74,0.00%,Normal
@@ -1549,6 +1245,7 @@ Nicole Bautista,27/01/2026,0.00,1,17835.27,0.00%,Normal
 Nicole Castro,27/01/2026,9197.12,1,27976.75,32.87%,Normal
 Ralph Josh Bacon,27/01/2026,0.00,1,30267.68,0.00%,Normal
 Ramon Reyes,27/01/2026,0.00,1,10276.18,0.00%,Normal
+Angelo Valenzuela,28/01/2026,47154.17,1,14716.01,320.43%,Suspicious
 Ana Cruz,28/01/2026,0.00,1,24183.24,0.00%,Normal
 Ana Villanueva,28/01/2026,15291.21,0,0.00,0.00%,Normal
 Angel Salazar,28/01/2026,0.00,1,30412.29,0.00%,Normal
@@ -1591,6 +1288,7 @@ Patricia Salazar,29/01/2026,0.00,1,2075.36,0.00%,Normal
 Paul Navarro,29/01/2026,8990.93,0,0.00,0.00%,Normal
 Ramon Castillo,29/01/2026,0.00,2,19640.62,0.00%,Normal
 Ramon Tomas,29/01/2026,35279.66,0,0.00,0.00%,Normal
+Patricia Salazar,30/01/2026,15177.55,1,4815.86,315.16%,Suspicious
 Ana Ocampo,30/01/2026,17717.81,0,0.00,0.00%,Normal
 Angel Mendoza,30/01/2026,2596.87,0,0.00,0.00%,Normal
 Angelo Valenzuela,30/01/2026,3157.92,0,0.00,0.00%,Normal
@@ -1649,6 +1347,7 @@ Mark Torres,01/02/2026,13358.68,0,0.00,0.00%,Normal
 Paolo Ocampo,01/02/2026,35354.17,0,0.00,0.00%,Normal
 Ralph Josh Bacon,01/02/2026,0.00,1,3296.11,0.00%,Normal
 Ramon Andrada,01/02/2026,26246.61,0,0.00,0.00%,Normal
+Mary Grace Piattos,02/02/2026,164977.78,1,176673.57,93.38%,Suspicious
 Ana Villanueva,02/02/2026,52148.01,0,0.00,0.00%,Normal
 Angel Flores,02/02/2026,0.00,1,25550.71,0.00%,Normal
 Bea Ramos,02/02/2026,0.00,1,32250.64,0.00%,Normal
@@ -1673,6 +1372,7 @@ Nicole Salazar,02/02/2026,0.00,1,33461.55,0.00%,Normal
 Ralph Josh Bacon,02/02/2026,58264.29,0,0.00,0.00%,Normal
 Ramon Castillo,02/02/2026,26459.53,0,0.00,0.00%,Normal
 Ramon Reyes,02/02/2026,24509.28,0,0.00,0.00%,Normal
+Mico Harina,03/02/2026,35450.13,1,31277.90,113.34%,Suspicious
 Angelo Valenzuela,03/02/2026,0.00,1,23460.95,0.00%,Normal
 Bea Andrada,03/02/2026,3096.39,0,0.00,0.00%,Normal
 Bea Ramos,03/02/2026,0.00,1,19271.72,0.00%,Normal
@@ -1701,6 +1401,7 @@ Ramon Tomas,03/02/2026,0.00,1,16388.03,0.00%,Normal
 Rhea Ramos,03/02/2026,0.00,1,14304.12,0.00%,Normal
 Samantha Navarro,03/02/2026,5172.73,0,0.00,0.00%,Normal
 Samantha Torres,03/02/2026,0.00,1,8196.51,0.00%,Normal
+Gabriel Garcia,04/02/2026,38649.25,1,23297.23,165.90%,Suspicious
 Ana Villanueva,04/02/2026,17253.06,0,0.00,0.00%,Normal
 Bea Ramos,04/02/2026,39992.94,0,0.00,0.00%,Normal
 Christian Tomas,04/02/2026,0.00,1,29277.69,0.00%,Normal
@@ -1716,6 +1417,7 @@ Paul Castro,04/02/2026,19608.53,0,0.00,0.00%,Normal
 Ramon Andrada,04/02/2026,30176.13,0,0.00,0.00%,Normal
 Samantha Castillo,04/02/2026,626.91,0,0.00,0.00%,Normal
 Samantha Torres,04/02/2026,0.00,1,13381.50,0.00%,Normal
+Dodong Bunal,05/02/2026,8613.35,1,1349.26,638.38%,Suspicious
 Amoy Liu,05/02/2026,0.00,1,3279.63,0.00%,Normal
 Ana Ocampo,05/02/2026,8263.14,0,0.00,0.00%,Normal
 Bea Bautista,05/02/2026,10449.90,0,0.00,0.00%,Normal
@@ -1732,6 +1434,8 @@ Juan Valenzuela,05/02/2026,0.00,2,49086.68,0.00%,Normal
 Mark Torres,05/02/2026,0.00,1,32917.83,0.00%,Normal
 Mico Harina,05/02/2026,0.00,1,12241.28,0.00%,Normal
 Nicole Torres,05/02/2026,0.00,1,25866.54,0.00%,Normal
+Gabriel Domingo,06/02/2026,37383.47,2,32908.08,113.60%,Suspicious
+Nicole Bautista,06/02/2026,15189.00,1,13736.31,110.58%,Suspicious
 Ana Ocampo,06/02/2026,0.00,1,30047.30,0.00%,Normal
 Angel Salazar,06/02/2026,20120.73,1,28265.69,71.18%,Normal
 Bea Tomas,06/02/2026,0.00,1,5164.38,0.00%,Normal
@@ -1750,6 +1454,7 @@ Mark Torres,06/02/2026,0.00,1,15177.19,0.00%,Normal
 Mico Harina,06/02/2026,15751.78,1,24767.07,63.60%,Normal
 Paul Castro,06/02/2026,16226.13,0,0.00,0.00%,Normal
 Samantha Tomas,06/02/2026,13544.82,0,0.00,0.00%,Normal
+Angel Mendoza,07/02/2026,20587.34,2,21169.40,97.25%,Suspicious
 Ana Cruz,07/02/2026,0.00,1,13281.16,0.00%,Normal
 Ana Villanueva,07/02/2026,0.00,1,12769.43,0.00%,Normal
 Angel Salazar,07/02/2026,33174.48,0,0.00,0.00%,Normal
@@ -1775,6 +1480,7 @@ Nicole Torres,07/02/2026,0.00,1,25118.73,0.00%,Normal
 Paolo Aquino,07/02/2026,18614.44,1,24745.64,75.22%,Normal
 Samantha Tomas,07/02/2026,3319.70,0,0.00,0.00%,Normal
 Samantha Torres,07/02/2026,16530.86,0,0.00,0.00%,Normal
+Gabriel Bautista,08/02/2026,25665.44,1,6091.56,421.33%,Suspicious
 Bea Bautista,08/02/2026,0.00,1,32909.19,0.00%,Normal
 Carlos Mendoza,08/02/2026,14761.05,0,0.00,0.00%,Normal
 Dodong Bina,08/02/2026,30633.03,0,0.00,0.00%,Normal
@@ -1813,6 +1519,8 @@ Liza Navarro,09/02/2026,0.00,1,34827.07,0.00%,Normal
 Mark Torres,09/02/2026,29482.83,0,0.00,0.00%,Normal
 Miggy Mango,09/02/2026,32711.67,0,0.00,0.00%,Normal
 Nicole Castro,09/02/2026,1137.74,0,0.00,0.00%,Normal
+Liza Castro,10/02/2026,22111.87,1,6770.40,326.60%,Suspicious
+Miggy Mango,10/02/2026,550823.01,1,622150.66,88.54%,Suspicious
 Angel Salazar,10/02/2026,0.00,1,5468.00,0.00%,Normal
 Angelo Valenzuela,10/02/2026,6186.08,0,0.00,0.00%,Normal
 Bea Tomas,10/02/2026,0.00,1,15692.63,0.00%,Normal
@@ -1877,6 +1585,7 @@ Nicole Bautista,12/02/2026,32551.19,0,0.00,0.00%,Normal
 Patricia Reyes,12/02/2026,0.00,1,10956.46,0.00%,Normal
 Paul Ocampo,12/02/2026,0.00,1,9168.98,0.00%,Normal
 Ramon Garcia,12/02/2026,0.00,1,24425.89,0.00%,Normal
+Ana Villanueva,13/02/2026,30736.85,1,27045.82,113.65%,Suspicious
 Amoy Liu,13/02/2026,0.00,1,24597.54,0.00%,Normal
 Ana Cruz,13/02/2026,0.00,1,30598.41,0.00%,Normal
 Ana Ocampo,13/02/2026,19695.83,0,0.00,0.00%,Normal
@@ -1906,6 +1615,8 @@ Ralph Josh Bacon,13/02/2026,0.00,1,22778.27,0.00%,Normal
 Rhea Ramos,13/02/2026,0.00,1,7211.81,0.00%,Normal
 Samantha Castillo,13/02/2026,25219.95,0,0.00,0.00%,Normal
 Samantha Tomas,13/02/2026,0.00,1,27116.95,0.00%,Normal
+Carlos Bautista,14/02/2026,20089.29,1,18654.11,107.69%,Suspicious
+Jerome Domingo,14/02/2026,38120.79,1,32624.28,116.85%,Suspicious
 Amoy Liu,14/02/2026,0.00,2,42260.38,0.00%,Normal
 Angel Flores,14/02/2026,15588.25,0,0.00,0.00%,Normal
 Dodong Bina,14/02/2026,0.00,1,15657.65,0.00%,Normal
@@ -1925,6 +1636,7 @@ Patricia Mercado,14/02/2026,31113.11,0,0.00,0.00%,Normal
 Paul Castro,14/02/2026,4461.01,0,0.00,0.00%,Normal
 Ralph Josh Bacon,14/02/2026,0.00,1,11536.83,0.00%,Normal
 Ramon Tomas,14/02/2026,2377.20,0,0.00,0.00%,Normal
+Juan Tomas,15/02/2026,19316.13,1,15984.05,120.85%,Suspicious
 Ana Ocampo,15/02/2026,0.00,2,45305.87,0.00%,Normal
 Fernan Amuy,15/02/2026,1951.54,0,0.00,0.00%,Normal
 Grace Torres,15/02/2026,0.00,1,12735.88,0.00%,Normal
@@ -1939,6 +1651,7 @@ Patricia Mercado,15/02/2026,0.00,1,15402.82,0.00%,Normal
 Ramon Reyes,15/02/2026,0.00,1,1734.19,0.00%,Normal
 Samantha Castillo,15/02/2026,7388.05,0,0.00,0.00%,Normal
 Xiaomi Ocho,15/02/2026,0.00,1,13628.56,0.00%,Normal
+Gabriel Andrada,16/02/2026,12553.98,1,5857.56,214.32%,Suspicious
 Bea Ramos,16/02/2026,0.00,1,31860.90,0.00%,Normal
 Bea Torres,16/02/2026,0.00,1,16793.24,0.00%,Normal
 Carlos Mendoza,16/02/2026,8904.86,0,0.00,0.00%,Normal
@@ -1962,6 +1675,7 @@ Ramon Reyes,16/02/2026,12626.24,0,0.00,0.00%,Normal
 Ramon Tomas,16/02/2026,8625.76,0,0.00,0.00%,Normal
 Samantha Torres,16/02/2026,0.00,1,13728.33,0.00%,Normal
 Xiaomi Ocho,16/02/2026,24640.74,0,0.00,0.00%,Normal
+Camille Tomas,17/02/2026,21514.79,1,9395.89,228.98%,Suspicious
 Ana Cruz,17/02/2026,5985.09,1,33336.11,17.95%,Normal
 Angel Flores,17/02/2026,24371.50,0,0.00,0.00%,Normal
 Bea Bautista,17/02/2026,0.00,1,21559.32,0.00%,Normal
@@ -1984,6 +1698,7 @@ Mark Domingo,17/02/2026,0.00,1,6145.52,0.00%,Normal
 Ramon Andrada,17/02/2026,0.00,1,34025.60,0.00%,Normal
 Ramon Castillo,17/02/2026,3893.19,0,0.00,0.00%,Normal
 Ramon Reyes,17/02/2026,27580.57,0,0.00,0.00%,Normal
+Dodong Alcala,18/02/2026,540089.42,1,619012.13,87.25%,Suspicious
 Amoy Liu,18/02/2026,0.00,1,7549.78,0.00%,Normal
 Ana Ocampo,18/02/2026,5942.55,1,10089.00,58.90%,Normal
 Angelo Valenzuela,18/02/2026,0.00,1,14409.58,0.00%,Normal
@@ -2005,6 +1720,7 @@ Miggy Mango,18/02/2026,31527.13,0,0.00,0.00%,Normal
 Paolo Aquino,18/02/2026,0.00,1,13560.92,0.00%,Normal
 Ralph Josh Bacon,18/02/2026,6637.40,0,0.00,0.00%,Normal
 Samantha Torres,18/02/2026,16966.27,0,0.00,0.00%,Normal
+Amoy Liu,19/02/2026,594609.77,1,669104.95,88.87%,Suspicious
 Angel Mendoza,19/02/2026,0.00,1,30470.27,0.00%,Normal
 Angelo Valenzuela,19/02/2026,0.00,1,5520.03,0.00%,Normal
 Bea Bautista,19/02/2026,22859.72,0,0.00,0.00%,Normal
@@ -2029,6 +1745,8 @@ Ramon Castillo,19/02/2026,0.00,1,5987.17,0.00%,Normal
 Ramon Reyes,19/02/2026,0.00,1,33422.68,0.00%,Normal
 Ramon Tomas,19/02/2026,6274.73,1,12831.51,48.90%,Normal
 Rhea Ramos,19/02/2026,0.00,1,2057.29,0.00%,Normal
+Patricia Reyes,20/02/2026,9202.99,1,7224.68,127.38%,Suspicious
+Ralph Josh Bacon,20/02/2026,33463.80,1,15874.53,210.80%,Suspicious
 Ana Cruz,20/02/2026,27149.21,0,0.00,0.00%,Normal
 Ana Villanueva,20/02/2026,0.00,1,21194.10,0.00%,Normal
 Bea Bautista,20/02/2026,10506.76,0,0.00,0.00%,Normal
@@ -2053,6 +1771,7 @@ Paolo Ocampo,20/02/2026,0.00,1,17604.44,0.00%,Normal
 Paul Castro,20/02/2026,0.00,1,14229.53,0.00%,Normal
 Samantha Castillo,20/02/2026,0.00,1,27527.82,0.00%,Normal
 Xiaomi Ocho,20/02/2026,8758.10,0,0.00,0.00%,Normal
+Dodong Darong,21/02/2026,601989.47,1,668437.76,90.06%,Suspicious
 Ana Cruz,21/02/2026,0.00,1,13246.99,0.00%,Normal
 Angel Flores,21/02/2026,0.00,1,10138.98,0.00%,Normal
 Camille Del Rosario,21/02/2026,24659.54,0,0.00,0.00%,Normal
@@ -2070,6 +1789,7 @@ Nicole Castro,21/02/2026,5251.76,0,0.00,0.00%,Normal
 Paul Ocampo,21/02/2026,0.00,1,3474.79,0.00%,Normal
 Ramon Andrada,21/02/2026,19728.40,0,0.00,0.00%,Normal
 Samantha Navarro,21/02/2026,0.00,1,27501.53,0.00%,Normal
+Juan Tomas,22/02/2026,33103.87,1,2389.93,1385.14%,Suspicious
 Amoy Liu,22/02/2026,37405.16,0,0.00,0.00%,Normal
 Angel Flores,22/02/2026,16120.80,0,0.00,0.00%,Normal
 Angel Mendoza,22/02/2026,0.00,1,33870.91,0.00%,Normal
@@ -2089,6 +1809,7 @@ Patricia Salazar,22/02/2026,21183.30,0,0.00,0.00%,Normal
 Ramon Tomas,22/02/2026,0.00,1,3567.58,0.00%,Normal
 Rhea Ramos,22/02/2026,0.00,1,15296.20,0.00%,Normal
 Samantha Tomas,22/02/2026,10262.91,0,0.00,0.00%,Normal
+Grace Ocampo,23/02/2026,7697.66,1,7116.74,108.16%,Suspicious
 Ana Ocampo,23/02/2026,0.00,1,8011.14,0.00%,Normal
 Angelo Valenzuela,23/02/2026,0.00,1,29081.35,0.00%,Normal
 Bea Tomas,23/02/2026,0.00,1,18224.00,0.00%,Normal
@@ -2125,6 +1846,7 @@ Nicole Torres,24/02/2026,0.00,1,34865.11,0.00%,Normal
 Patricia Reyes,24/02/2026,0.00,1,28465.15,0.00%,Normal
 Ramon Andrada,24/02/2026,0.00,1,9197.47,0.00%,Normal
 Ramon Tomas,24/02/2026,18133.08,0,0.00,0.00%,Normal
+Dodong S. Barok,25/02/2026,258701.83,1,274834.62,94.13%,Suspicious
 Angel Salazar,25/02/2026,0.00,1,7827.02,0.00%,Normal
 Christian Mendoza,25/02/2026,0.00,1,23986.03,0.00%,Normal
 Christian Tomas,25/02/2026,0.00,1,19846.76,0.00%,Normal
@@ -2170,6 +1892,8 @@ Patricia Salazar,26/02/2026,0.00,1,2242.79,0.00%,Normal
 Paul Navarro,26/02/2026,0.00,1,24271.70,0.00%,Normal
 Ramon Tomas,26/02/2026,4365.80,0,0.00,0.00%,Normal
 Samantha Navarro,26/02/2026,2911.48,0,0.00,0.00%,Normal
+Camille Tomas,27/02/2026,31619.65,1,30667.96,103.10%,Suspicious
+Joug de Asim,27/02/2026,573865.51,1,818870.86,70.08%,Suspicious
 Bea Tomas,27/02/2026,0.00,1,34239.44,0.00%,Normal
 Bea Torres,27/02/2026,19038.46,0,0.00,0.00%,Normal
 Dodong Darong,27/02/2026,0.00,1,7406.49,0.00%,Normal
@@ -2188,6 +1912,9 @@ Paul Navarro,27/02/2026,1685.51,0,0.00,0.00%,Normal
 Ramon Castillo,27/02/2026,22125.62,0,0.00,0.00%,Normal
 Ramon Tomas,27/02/2026,0.00,1,19546.73,0.00%,Normal
 Samantha Castillo,27/02/2026,23471.27,0,0.00,0.00%,Normal
+Gabriel Garcia,28/02/2026,21774.01,1,17115.63,127.22%,Suspicious
+Jay Kamote,28/02/2026,33058.86,1,3743.70,883.05%,Suspicious
+Mark Domingo,28/02/2026,25783.83,1,14850.90,173.62%,Suspicious
 Amoy Liu,28/02/2026,3560.31,1,7063.06,50.41%,Normal
 Angel Mendoza,28/02/2026,0.00,1,9411.33,0.00%,Normal
 Carlos Bautista,28/02/2026,0.00,1,29398.43,0.00%,Normal
@@ -2212,6 +1939,7 @@ Ralph Josh Bacon,28/02/2026,0.00,1,15772.44,0.00%,Normal
 Ramon Andrada,28/02/2026,15129.65,0,0.00,0.00%,Normal
 Ramon Reyes,28/02/2026,33955.71,0,0.00,0.00%,Normal
 Rhea Ramos,28/02/2026,29685.82,0,0.00,0.00%,Normal
+Jose Reyes,01/03/2026,35164.85,1,3581.92,981.73%,Suspicious
 Ana Cruz,01/03/2026,31861.43,0,0.00,0.00%,Normal
 Angel Flores,01/03/2026,15061.28,0,0.00,0.00%,Normal
 Bea Andrada,01/03/2026,2029.02,0,0.00,0.00%,Normal
@@ -2229,6 +1957,7 @@ Patricia Salazar,01/03/2026,0.00,1,1139.74,0.00%,Normal
 Paul Ocampo,01/03/2026,0.00,2,42787.71,0.00%,Normal
 Samantha Torres,01/03/2026,0.00,1,33196.24,0.00%,Normal
 Xiaomi Ocho,01/03/2026,0.00,1,18569.98,0.00%,Normal
+Jose Mendoza,02/03/2026,4360.24,1,3315.98,131.49%,Suspicious
 Ana Cruz,02/03/2026,19306.82,0,0.00,0.00%,Normal
 Ana Villanueva,02/03/2026,2422.71,0,0.00,0.00%,Normal
 Angel Salazar,02/03/2026,0.00,1,32058.56,0.00%,Normal
@@ -2311,6 +2040,8 @@ Nicole Castro,05/03/2026,0.00,1,30530.83,0.00%,Normal
 Ramon Castillo,05/03/2026,0.00,1,16645.72,0.00%,Normal
 Samantha Tomas,05/03/2026,29916.62,1,33681.27,88.82%,Normal
 Samantha Torres,05/03/2026,0.00,1,6103.01,0.00%,Normal
+Bea Ramos,06/03/2026,30083.74,1,6441.81,467.01%,Suspicious
+Francis Rivera,06/03/2026,13598.07,1,8548.04,159.08%,Suspicious
 Amoy Liu,06/03/2026,47589.73,0,0.00,0.00%,Normal
 Ana Cruz,06/03/2026,1753.96,0,0.00,0.00%,Normal
 Ana Ocampo,06/03/2026,0.00,1,2447.51,0.00%,Normal
@@ -2340,6 +2071,7 @@ Ramon Reyes,06/03/2026,0.00,1,25924.59,0.00%,Normal
 Ramon Tomas,06/03/2026,7365.60,0,0.00,0.00%,Normal
 Rhea Ramos,06/03/2026,0.00,1,32856.98,0.00%,Normal
 Samantha Navarro,06/03/2026,0.00,1,12963.12,0.00%,Normal
+Mico Harina,07/03/2026,558503.65,1,625945.77,89.23%,Suspicious
 Camille Tomas,07/03/2026,0.00,1,31770.10,0.00%,Normal
 Carlos Bautista,07/03/2026,30882.34,0,0.00,0.00%,Normal
 Francis Bautista,07/03/2026,3992.33,0,0.00,0.00%,Normal
@@ -2352,6 +2084,9 @@ Jerome Domingo,07/03/2026,0.00,1,1767.00,0.00%,Normal
 John Tomas,07/03/2026,15412.16,0,0.00,0.00%,Normal
 Jose Mendoza,07/03/2026,0.00,1,23897.25,0.00%,Normal
 Ralph Josh Bacon,07/03/2026,0.00,1,23646.71,0.00%,Normal
+Dodong Bina,08/03/2026,228643.65,1,241593.04,94.64%,Suspicious
+Grace Ocampo,08/03/2026,16771.54,1,8213.96,204.18%,Suspicious
+Ralph Josh Bacon,08/03/2026,605352.67,1,725427.32,83.45%,Suspicious
 Ana Villanueva,08/03/2026,40764.64,0,0.00,0.00%,Normal
 Angel Mendoza,08/03/2026,0.00,1,22257.85,0.00%,Normal
 Bea Torres,08/03/2026,21543.20,0,0.00,0.00%,Normal
@@ -2376,6 +2111,7 @@ Patricia Salazar,08/03/2026,12829.64,0,0.00,0.00%,Normal
 Ramon Andrada,08/03/2026,0.00,1,32185.68,0.00%,Normal
 Ramon Garcia,08/03/2026,8075.82,0,0.00,0.00%,Normal
 Samantha Navarro,08/03/2026,0.00,1,12110.12,0.00%,Normal
+Jay Kamote,09/03/2026,16429.26,1,17015.06,96.56%,Suspicious
 Ana Cruz,09/03/2026,0.00,1,23884.11,0.00%,Normal
 Camille Tomas,09/03/2026,0.00,1,9649.37,0.00%,Normal
 Carlos Mendoza,09/03/2026,15462.53,0,0.00,0.00%,Normal
@@ -2403,6 +2139,8 @@ Ramon Andrada,09/03/2026,5933.98,0,0.00,0.00%,Normal
 Ramon Reyes,09/03/2026,0.00,1,13947.90,0.00%,Normal
 Samantha Castillo,09/03/2026,25586.09,0,0.00,0.00%,Normal
 Xiaomi Ocho,09/03/2026,8427.20,0,0.00,0.00%,Normal
+Grace Castro,10/03/2026,18968.98,1,3380.95,561.05%,Suspicious
+Paul Castro,10/03/2026,37262.06,1,25194.60,147.90%,Suspicious
 Ana Villanueva,10/03/2026,39434.97,0,0.00,0.00%,Normal
 Bea Ramos,10/03/2026,0.00,1,16236.65,0.00%,Normal
 Camille Del Rosario,10/03/2026,0.00,2,23176.56,0.00%,Normal
@@ -2418,6 +2156,7 @@ Paolo Aquino,10/03/2026,0.00,1,2716.92,0.00%,Normal
 Patricia Reyes,10/03/2026,10777.02,0,0.00,0.00%,Normal
 Ramon Reyes,10/03/2026,0.00,1,11745.26,0.00%,Normal
 Xiaomi Ocho,10/03/2026,9180.31,0,0.00,0.00%,Normal
+Juan Cruz,11/03/2026,12762.42,1,10258.18,124.41%,Suspicious
 Dodong Alcala,11/03/2026,13820.13,0,0.00,0.00%,Normal
 Dodong Darong,11/03/2026,1057.34,1,2651.96,39.87%,Normal
 Fernan Amuy,11/03/2026,25476.66,0,0.00,0.00%,Normal
@@ -2435,6 +2174,8 @@ Ramon Del Rosario,11/03/2026,9471.47,0,0.00,0.00%,Normal
 Ramon Reyes,11/03/2026,32345.04,0,0.00,0.00%,Normal
 Rhea Ramos,11/03/2026,20887.87,0,0.00,0.00%,Normal
 Samantha Tomas,11/03/2026,0.00,1,22709.68,0.00%,Normal
+Francis Rivera,12/03/2026,3891.26,1,1835.13,212.04%,Suspicious
+Jose Mendoza,12/03/2026,7527.65,1,4379.81,171.87%,Suspicious
 Ana Villanueva,12/03/2026,0.00,1,3072.56,0.00%,Normal
 Angel Salazar,12/03/2026,19532.99,0,0.00,0.00%,Normal
 Angelo Valenzuela,12/03/2026,0.00,1,2273.67,0.00%,Normal
@@ -2454,6 +2195,8 @@ Patricia Salazar,12/03/2026,0.00,1,10406.08,0.00%,Normal
 Ramon Castillo,12/03/2026,35414.19,0,0.00,0.00%,Normal
 Ramon Garcia,12/03/2026,0.00,1,26122.62,0.00%,Normal
 Samantha Castillo,12/03/2026,0.00,2,20918.22,0.00%,Normal
+Liza Flores,13/03/2026,30014.73,1,21234.54,141.35%,Suspicious
+Mark Torres,13/03/2026,14555.67,1,5282.16,275.56%,Suspicious
 Ana Ocampo,13/03/2026,99533.41,0,0.00,0.00%,Normal
 Christian Tomas,13/03/2026,20304.01,0,0.00,0.00%,Normal
 Dodong Alcala,13/03/2026,0.00,1,10094.04,0.00%,Normal
@@ -2470,6 +2213,7 @@ Mary Grace Piattos,13/03/2026,0.00,1,2015.66,0.00%,Normal
 Patricia Salazar,13/03/2026,11269.84,0,0.00,0.00%,Normal
 Samantha Tomas,13/03/2026,0.00,1,23667.62,0.00%,Normal
 Samantha Torres,13/03/2026,26174.87,0,0.00,0.00%,Normal
+Bea Bautista,14/03/2026,38322.24,1,3041.99,1259.78%,Suspicious
 Ana Cruz,14/03/2026,0.00,1,16173.75,0.00%,Normal
 Angelo Ramos,14/03/2026,0.00,1,29755.92,0.00%,Normal
 Camille Tomas,14/03/2026,0.00,1,13295.48,0.00%,Normal
@@ -2495,6 +2239,8 @@ Ramon Castillo,14/03/2026,2090.44,0,0.00,0.00%,Normal
 Ramon Garcia,14/03/2026,3450.59,0,0.00,0.00%,Normal
 Ramon Reyes,14/03/2026,0.00,1,31179.41,0.00%,Normal
 Samantha Castillo,14/03/2026,0.00,1,16346.66,0.00%,Normal
+Dodong Alcala,15/03/2026,39483.37,1,33143.09,119.13%,Suspicious
+Gabriel Cruz,15/03/2026,16235.20,1,16748.97,96.93%,Suspicious
 Angel Salazar,15/03/2026,0.00,1,4915.77,0.00%,Normal
 Angelo Ramos,15/03/2026,0.00,1,4560.65,0.00%,Normal
 Bea Ramos,15/03/2026,5668.41,0,0.00,0.00%,Normal
@@ -2523,6 +2269,8 @@ Patricia Reyes,15/03/2026,28472.23,0,0.00,0.00%,Normal
 Ralph Josh Bacon,15/03/2026,0.00,1,25068.62,0.00%,Normal
 Ramon Castillo,15/03/2026,12177.06,0,0.00,0.00%,Normal
 Ramon Tomas,15/03/2026,3533.50,0,0.00,0.00%,Normal
+Bea Tomas,16/03/2026,29407.52,1,10854.48,270.93%,Suspicious
+Miggy Mango,16/03/2026,70102.78,1,28717.41,244.11%,Suspicious
 Amoy Liu,16/03/2026,26905.63,0,0.00,0.00%,Normal
 Bea Ramos,16/03/2026,0.00,1,17375.00,0.00%,Normal
 Camille Tomas,16/03/2026,18288.29,0,0.00,0.00%,Normal
@@ -2543,6 +2291,9 @@ Nicole Bautista,16/03/2026,0.00,1,29925.99,0.00%,Normal
 Ralph Josh Bacon,16/03/2026,0.00,1,12787.97,0.00%,Normal
 Ramon Tomas,16/03/2026,0.00,1,27511.00,0.00%,Normal
 Rhea Ramos,16/03/2026,0.00,2,53035.26,0.00%,Normal
+Gabriel Cruz,17/03/2026,35188.17,1,7346.04,479.01%,Suspicious
+Miggy Mango,17/03/2026,31810.28,1,28601.52,111.22%,Suspicious
+Rhea Ramos,17/03/2026,5849.26,1,2315.77,252.58%,Suspicious
 Ana Ocampo,17/03/2026,0.00,1,5717.83,0.00%,Normal
 Ana Villanueva,17/03/2026,25226.73,0,0.00,0.00%,Normal
 Angel Mendoza,17/03/2026,25218.80,0,0.00,0.00%,Normal
@@ -2570,6 +2321,7 @@ Paul Castro,17/03/2026,0.00,1,21383.51,0.00%,Normal
 Paul Ocampo,17/03/2026,0.00,1,26704.30,0.00%,Normal
 Ramon Andrada,17/03/2026,21508.06,1,31102.33,69.15%,Normal
 Samantha Torres,17/03/2026,40696.93,0,0.00,0.00%,Normal
+Ana Cruz,18/03/2026,18062.83,1,9274.10,194.77%,Suspicious
 Angel Flores,18/03/2026,0.00,2,33093.27,0.00%,Normal
 Bea Andrada,18/03/2026,0.00,1,18740.75,0.00%,Normal
 Bea Bautista,18/03/2026,0.00,1,34300.35,0.00%,Normal
@@ -2613,6 +2365,9 @@ Juan Navarro,19/03/2026,0.00,1,8383.30,0.00%,Normal
 Ramon Andrada,19/03/2026,0.00,1,34935.03,0.00%,Normal
 Samantha Castillo,19/03/2026,10628.09,0,0.00,0.00%,Normal
 Xiaomi Ocho,19/03/2026,2360.07,0,0.00,0.00%,Normal
+Gabriel Mercado,20/03/2026,24281.51,1,25897.39,93.76%,Suspicious
+Ramon Garcia,20/03/2026,18121.05,2,8091.15,223.96%,Suspicious
+Samantha Tomas,20/03/2026,27692.06,3,17139.09,161.57%,Suspicious
 Angel Mendoza,20/03/2026,37793.40,0,0.00,0.00%,Normal
 Bea Bautista,20/03/2026,0.00,1,17729.95,0.00%,Normal
 Bea Torres,20/03/2026,0.00,1,10119.20,0.00%,Normal
@@ -2635,6 +2390,7 @@ Ramon Reyes,20/03/2026,0.00,1,16595.15,0.00%,Normal
 Ramon Tomas,20/03/2026,9883.58,0,0.00,0.00%,Normal
 Samantha Torres,20/03/2026,0.00,1,12203.51,0.00%,Normal
 Xiaomi Ocho,20/03/2026,1195.63,0,0.00,0.00%,Normal
+Liza Flores,21/03/2026,36135.97,1,24107.34,149.90%,Suspicious
 Ana Ocampo,21/03/2026,0.00,1,18407.95,0.00%,Normal
 Angelo Ramos,21/03/2026,0.00,1,25887.49,0.00%,Normal
 Camille Del Rosario,21/03/2026,4326.67,0,0.00,0.00%,Normal
@@ -2652,6 +2408,9 @@ Jose Salazar,21/03/2026,0.00,1,16409.99,0.00%,Normal
 Jose Torres,21/03/2026,0.00,2,53943.11,0.00%,Normal
 Jose Villanueva,21/03/2026,3126.76,0,0.00,0.00%,Normal
 Nicole Torres,21/03/2026,34912.40,0,0.00,0.00%,Normal
+Liza Flores,22/03/2026,35493.40,1,16692.73,212.63%,Suspicious
+Liza Navarro,22/03/2026,9229.94,1,6025.44,153.18%,Suspicious
+Samantha Castillo,22/03/2026,36102.50,1,30812.53,117.17%,Suspicious
 Amoy Liu,22/03/2026,5856.39,1,8882.26,65.93%,Normal
 Ana Villanueva,22/03/2026,12288.58,0,0.00,0.00%,Normal
 Angel Mendoza,22/03/2026,0.00,1,14356.78,0.00%,Normal
@@ -2674,6 +2433,7 @@ Paolo Aquino,22/03/2026,22983.24,0,0.00,0.00%,Normal
 Patricia Mercado,22/03/2026,34492.70,0,0.00,0.00%,Normal
 Ramon Andrada,22/03/2026,28528.31,0,0.00,0.00%,Normal
 Ramon Tomas,22/03/2026,26116.26,0,0.00,0.00%,Normal
+Amoy Liu,23/03/2026,15678.40,1,3644.77,430.16%,Suspicious
 Bea Tomas,23/03/2026,30611.65,0,0.00,0.00%,Normal
 Camille Tomas,23/03/2026,0.00,1,21255.72,0.00%,Normal
 Carlos Bautista,23/03/2026,24676.03,0,0.00,0.00%,Normal
@@ -2695,6 +2455,7 @@ Mary Grace Piattos,23/03/2026,0.00,1,13394.26,0.00%,Normal
 Miggy Mango,23/03/2026,0.00,1,34762.76,0.00%,Normal
 Rhea Ramos,23/03/2026,0.00,1,10425.88,0.00%,Normal
 Samantha Torres,23/03/2026,16287.38,0,0.00,0.00%,Normal
+John Bautista,24/03/2026,17432.45,1,1722.64,1011.96%,Suspicious
 Ana Villanueva,24/03/2026,0.00,1,7251.89,0.00%,Normal
 Angel Flores,24/03/2026,0.00,1,31098.60,0.00%,Normal
 Angel Salazar,24/03/2026,32281.21,0,0.00,0.00%,Normal
@@ -2763,6 +2524,7 @@ Patricia Mercado,26/03/2026,3656.99,0,0.00,0.00%,Normal
 Patricia Reyes,26/03/2026,0.00,1,20294.41,0.00%,Normal
 Ramon Castillo,26/03/2026,0.00,1,28830.47,0.00%,Normal
 Ramon Reyes,26/03/2026,36118.41,0,0.00,0.00%,Normal
+Patricia Reyes,27/03/2026,34420.56,1,15337.85,224.42%,Suspicious
 Angel Mendoza,27/03/2026,16984.67,0,0.00,0.00%,Normal
 Angelo Valenzuela,27/03/2026,0.00,1,16922.42,0.00%,Normal
 Bea Andrada,27/03/2026,14466.47,0,0.00,0.00%,Normal
@@ -2786,6 +2548,7 @@ Ramon Castillo,27/03/2026,29698.97,0,0.00,0.00%,Normal
 Ramon Garcia,27/03/2026,0.00,2,38123.39,0.00%,Normal
 Ramon Tomas,27/03/2026,11195.55,0,0.00,0.00%,Normal
 Samantha Tomas,27/03/2026,0.00,1,33968.16,0.00%,Normal
+Fernan Amuy,28/03/2026,620861.05,1,823627.36,75.38%,Suspicious
 Bea Andrada,28/03/2026,11893.90,1,26394.60,45.06%,Normal
 Bea Tomas,28/03/2026,22210.16,0,0.00,0.00%,Normal
 Christian Tomas,28/03/2026,0.00,1,24064.90,0.00%,Normal
@@ -2811,6 +2574,9 @@ Ramon Reyes,28/03/2026,0.00,1,19177.80,0.00%,Normal
 Ramon Tomas,28/03/2026,0.00,1,2453.22,0.00%,Normal
 Samantha Castillo,28/03/2026,0.00,1,21703.58,0.00%,Normal
 Xiaomi Ocho,28/03/2026,0.00,1,5333.67,0.00%,Normal
+Amoy Liu,29/03/2026,22678.68,2,24031.39,94.37%,Suspicious
+Christian Tomas,29/03/2026,89620.11,2,44119.00,203.13%,Suspicious
+Paul Navarro,29/03/2026,13104.26,1,5600.72,233.97%,Suspicious
 Bea Bautista,29/03/2026,0.00,1,22771.40,0.00%,Normal
 Bea Torres,29/03/2026,8676.34,0,0.00,0.00%,Normal
 Francis Bautista,29/03/2026,21413.91,0,0.00,0.00%,Normal
@@ -2830,6 +2596,7 @@ Paul Castro,29/03/2026,0.00,1,6353.12,0.00%,Normal
 Ramon Del Rosario,29/03/2026,10371.93,0,0.00,0.00%,Normal
 Samantha Castillo,29/03/2026,0.00,1,32433.10,0.00%,Normal
 Samantha Navarro,29/03/2026,0.00,1,22814.15,0.00%,Normal
+Jay Kamote,30/03/2026,320961.49,1,333449.84,96.25%,Suspicious
 Ana Cruz,30/03/2026,0.00,1,5615.72,0.00%,Normal
 Ana Ocampo,30/03/2026,0.00,1,20080.07,0.00%,Normal
 Bea Tomas,30/03/2026,31604.03,0,0.00,0.00%,Normal
@@ -2898,6 +2665,7 @@ Nicole Torres,01/04/2026,19114.20,0,0.00,0.00%,Normal
 Paolo Aquino,01/04/2026,14553.93,0,0.00,0.00%,Normal
 Ramon Reyes,01/04/2026,0.00,1,8528.94,0.00%,Normal
 Rhea Ramos,01/04/2026,0.00,1,4592.10,0.00%,Normal
+Dodong Bunal,02/04/2026,198589.92,1,214924.16,92.40%,Suspicious
 Ana Cruz,02/04/2026,0.00,1,28048.38,0.00%,Normal
 Ana Ocampo,02/04/2026,24482.42,0,0.00,0.00%,Normal
 Ana Villanueva,02/04/2026,11017.03,0,0.00,0.00%,Normal
@@ -2928,6 +2696,9 @@ Nicole Castro,02/04/2026,0.00,1,2529.36,0.00%,Normal
 Paolo Ocampo,02/04/2026,33586.58,0,0.00,0.00%,Normal
 Paul Ocampo,02/04/2026,31037.80,0,0.00,0.00%,Normal
 Ralph Josh Bacon,02/04/2026,29450.97,0,0.00,0.00%,Normal
+Amoy Liu,03/04/2026,10825.69,1,5088.15,212.76%,Suspicious
+Joug de Asim,03/04/2026,33794.62,1,26779.59,126.20%,Suspicious
+Xiaomi Ocho,03/04/2026,10506.72,1,10477.88,100.28%,Suspicious
 Ana Villanueva,03/04/2026,0.00,1,2959.21,0.00%,Normal
 Angel Mendoza,03/04/2026,0.00,1,23184.07,0.00%,Normal
 Angelo Valenzuela,03/04/2026,0.00,1,3718.96,0.00%,Normal
@@ -2953,6 +2724,8 @@ Ramon Del Rosario,03/04/2026,35671.78,0,0.00,0.00%,Normal
 Ramon Reyes,03/04/2026,8003.18,0,0.00,0.00%,Normal
 Rhea Ramos,03/04/2026,0.00,1,24556.92,0.00%,Normal
 Samantha Tomas,03/04/2026,0.00,1,8910.94,0.00%,Normal
+Ramon Garcia,04/04/2026,12278.85,1,6227.15,197.18%,Suspicious
+Ramon Reyes,04/04/2026,29607.29,1,11374.12,260.30%,Suspicious
 Ana Cruz,04/04/2026,30770.33,0,0.00,0.00%,Normal
 Ana Ocampo,04/04/2026,0.00,1,3329.74,0.00%,Normal
 Angel Flores,04/04/2026,0.00,1,26515.10,0.00%,Normal
@@ -2970,6 +2743,7 @@ Paolo Ocampo,04/04/2026,10213.59,0,0.00,0.00%,Normal
 Patricia Salazar,04/04/2026,0.00,1,31711.94,0.00%,Normal
 Paul Ocampo,04/04/2026,0.00,1,32659.54,0.00%,Normal
 Ramon Del Rosario,04/04/2026,0.00,2,42841.79,0.00%,Normal
+Patricia Salazar,05/04/2026,25364.09,1,15499.84,163.64%,Suspicious
 Amoy Liu,05/04/2026,0.00,1,30448.71,0.00%,Normal
 Ana Villanueva,05/04/2026,0.00,1,14206.25,0.00%,Normal
 Angelo Valenzuela,05/04/2026,10694.29,0,0.00,0.00%,Normal
@@ -2990,6 +2764,7 @@ Miggy Mango,05/04/2026,37389.84,0,0.00,0.00%,Normal
 Nicole Bautista,05/04/2026,19293.17,0,0.00,0.00%,Normal
 Nicole Salazar,05/04/2026,28996.95,0,0.00,0.00%,Normal
 Ramon Andrada,05/04/2026,7185.75,0,0.00,0.00%,Normal
+Liza Castro,06/04/2026,8919.95,1,3917.97,227.67%,Suspicious
 Angel Salazar,06/04/2026,27057.46,0,0.00,0.00%,Normal
 Camille Del Rosario,06/04/2026,0.00,1,5212.26,0.00%,Normal
 Carlos Mendoza,06/04/2026,13861.96,0,0.00,0.00%,Normal
@@ -3008,6 +2783,7 @@ Paolo Aquino,06/04/2026,18687.46,0,0.00,0.00%,Normal
 Paolo Ocampo,06/04/2026,27097.23,0,0.00,0.00%,Normal
 Ramon Andrada,06/04/2026,26100.12,0,0.00,0.00%,Normal
 Rhea Ramos,06/04/2026,0.00,1,24597.91,0.00%,Normal
+John Flores,07/04/2026,18360.97,1,16695.77,109.97%,Suspicious
 Ana Villanueva,07/04/2026,35019.19,0,0.00,0.00%,Normal
 Angelo Ramos,07/04/2026,0.00,1,23223.60,0.00%,Normal
 Bea Bautista,07/04/2026,0.00,1,32956.98,0.00%,Normal
@@ -3071,6 +2847,8 @@ Paolo Aquino,09/04/2026,0.00,1,26550.85,0.00%,Normal
 Ramon Del Rosario,09/04/2026,0.00,1,13475.74,0.00%,Normal
 Ramon Garcia,09/04/2026,4754.51,0,0.00,0.00%,Normal
 Samantha Navarro,09/04/2026,30820.49,0,0.00,0.00%,Normal
+Grace Reyes,10/04/2026,5239.32,1,2445.04,214.28%,Suspicious
+Samantha Castillo,10/04/2026,26167.58,1,9030.39,289.77%,Suspicious
 Ana Villanueva,10/04/2026,1347.82,0,0.00,0.00%,Normal
 Angel Flores,10/04/2026,0.00,1,1704.34,0.00%,Normal
 Carlos Mendoza,10/04/2026,10623.22,0,0.00,0.00%,Normal
@@ -3088,6 +2866,8 @@ Liza Flores,10/04/2026,36635.79,0,0.00,0.00%,Normal
 Liza Navarro,10/04/2026,0.00,1,25545.02,0.00%,Normal
 Mark Torres,10/04/2026,14842.66,0,0.00,0.00%,Normal
 Samantha Tomas,10/04/2026,0.00,1,13844.14,0.00%,Normal
+Dodong S. Barok,11/04/2026,1623.12,1,1158.63,140.09%,Suspicious
+Gabriel Rivera,11/04/2026,34803.09,1,3870.79,899.12%,Suspicious
 Amoy Liu,11/04/2026,32885.75,0,0.00,0.00%,Normal
 Ana Ocampo,11/04/2026,0.00,1,4263.23,0.00%,Normal
 Ana Villanueva,11/04/2026,15637.15,0,0.00,0.00%,Normal
@@ -3109,6 +2889,7 @@ Ramon Garcia,11/04/2026,16547.31,0,0.00,0.00%,Normal
 Ramon Reyes,11/04/2026,4686.46,0,0.00,0.00%,Normal
 Ramon Tomas,11/04/2026,0.00,1,28005.42,0.00%,Normal
 Xiaomi Ocho,11/04/2026,15080.80,0,0.00,0.00%,Normal
+Jose Villanueva,12/04/2026,32353.16,1,8773.93,368.74%,Suspicious
 Ana Ocampo,12/04/2026,0.00,1,8004.29,0.00%,Normal
 Ana Villanueva,12/04/2026,0.00,1,31839.12,0.00%,Normal
 Angel Mendoza,12/04/2026,34572.21,0,0.00,0.00%,Normal
@@ -3157,6 +2938,7 @@ Ramon Del Rosario,13/04/2026,0.00,1,4548.86,0.00%,Normal
 Ramon Reyes,13/04/2026,0.00,1,6078.83,0.00%,Normal
 Samantha Torres,13/04/2026,6113.50,0,0.00,0.00%,Normal
 Xiaomi Ocho,13/04/2026,4513.05,0,0.00,0.00%,Normal
+Jasmine Valenzuela,14/04/2026,39860.01,1,19603.52,203.33%,Suspicious
 Amoy Liu,14/04/2026,21723.12,0,0.00,0.00%,Normal
 Ana Cruz,14/04/2026,0.00,1,31945.68,0.00%,Normal
 Ana Villanueva,14/04/2026,0.00,1,7460.81,0.00%,Normal
@@ -3180,6 +2962,7 @@ Paolo Ocampo,14/04/2026,0.00,1,7361.57,0.00%,Normal
 Paul Navarro,14/04/2026,0.00,1,8978.93,0.00%,Normal
 Ramon Castillo,14/04/2026,32992.52,0,0.00,0.00%,Normal
 Samantha Torres,14/04/2026,0.00,2,41759.31,0.00%,Normal
+Ana Ocampo,15/04/2026,20935.30,1,19410.92,107.85%,Suspicious
 Angel Flores,15/04/2026,2227.73,1,32912.35,6.77%,Normal
 Bea Bautista,15/04/2026,0.00,1,34714.45,0.00%,Normal
 Camille Del Rosario,15/04/2026,5327.71,0,0.00,0.00%,Normal
@@ -3205,6 +2988,7 @@ Paul Castro,15/04/2026,22585.00,0,0.00,0.00%,Normal
 Ramon Tomas,15/04/2026,13165.32,0,0.00,0.00%,Normal
 Rhea Ramos,15/04/2026,0.00,1,15735.73,0.00%,Normal
 Samantha Tomas,15/04/2026,19669.43,0,0.00,0.00%,Normal
+John Mercado,16/04/2026,38059.66,1,5102.30,745.93%,Suspicious
 Angel Salazar,16/04/2026,26082.27,0,0.00,0.00%,Normal
 Bea Bautista,16/04/2026,0.00,1,22497.27,0.00%,Normal
 Christian Tomas,16/04/2026,38798.75,0,0.00,0.00%,Normal
@@ -3242,6 +3026,7 @@ Patricia Salazar,17/04/2026,0.00,1,28279.92,0.00%,Normal
 Ralph Josh Bacon,17/04/2026,5055.68,0,0.00,0.00%,Normal
 Ramon Garcia,17/04/2026,6137.13,0,0.00,0.00%,Normal
 Samantha Tomas,17/04/2026,0.00,1,17663.13,0.00%,Normal
+Mary Grace Piattos,18/04/2026,30689.45,1,33983.01,90.31%,Suspicious
 Angel Mendoza,18/04/2026,0.00,1,32723.02,0.00%,Normal
 Angelo Ramos,18/04/2026,0.00,1,4442.77,0.00%,Normal
 Christian Bautista,18/04/2026,0.00,1,4535.96,0.00%,Normal
@@ -3263,6 +3048,7 @@ Ramon Castillo,18/04/2026,0.00,1,14974.85,0.00%,Normal
 Ramon Garcia,18/04/2026,8292.80,0,0.00,0.00%,Normal
 Samantha Navarro,18/04/2026,21725.21,0,0.00,0.00%,Normal
 Samantha Torres,18/04/2026,23460.18,0,0.00,0.00%,Normal
+Samantha Tomas,19/04/2026,34492.15,1,25901.68,133.17%,Suspicious
 Angel Salazar,19/04/2026,12436.51,0,0.00,0.00%,Normal
 Bea Bautista,19/04/2026,0.00,1,33671.47,0.00%,Normal
 Christian Bautista,19/04/2026,3231.45,0,0.00,0.00%,Normal
@@ -3285,6 +3071,7 @@ Ramon Garcia,19/04/2026,0.00,1,21772.26,0.00%,Normal
 Ramon Tomas,19/04/2026,0.00,1,13624.69,0.00%,Normal
 Samantha Torres,19/04/2026,2149.77,0,0.00,0.00%,Normal
 Xiaomi Ocho,19/04/2026,0.00,1,5460.82,0.00%,Normal
+Xiaomi Ocho,20/04/2026,215310.97,1,235106.98,91.58%,Suspicious
 Angel Salazar,20/04/2026,0.00,1,2265.21,0.00%,Normal
 Bea Torres,20/04/2026,11189.38,0,0.00,0.00%,Normal
 Christian Bautista,20/04/2026,11776.82,0,0.00,0.00%,Normal
@@ -3323,6 +3110,7 @@ Ralph Josh Bacon,21/04/2026,0.00,1,28305.93,0.00%,Normal
 Rhea Ramos,21/04/2026,0.00,1,16980.64,0.00%,Normal
 Samantha Castillo,21/04/2026,0.00,1,12473.67,0.00%,Normal
 Samantha Tomas,21/04/2026,0.00,1,11052.87,0.00%,Normal
+Paul Castro,22/04/2026,32216.22,1,19993.44,161.13%,Suspicious
 Amoy Liu,22/04/2026,0.00,1,1190.89,0.00%,Normal
 Angel Mendoza,22/04/2026,37969.76,0,0.00,0.00%,Normal
 Angel Salazar,22/04/2026,29854.03,0,0.00,0.00%,Normal
@@ -3349,6 +3137,7 @@ Ramon Andrada,22/04/2026,0.00,1,23124.26,0.00%,Normal
 Rhea Ramos,22/04/2026,20332.19,0,0.00,0.00%,Normal
 Samantha Torres,22/04/2026,0.00,1,16024.53,0.00%,Normal
 Xiaomi Ocho,22/04/2026,0.00,1,32632.50,0.00%,Normal
+Camille Tomas,23/04/2026,27400.44,1,4044.42,677.49%,Suspicious
 Amoy Liu,23/04/2026,12503.92,0,0.00,0.00%,Normal
 Angel Flores,23/04/2026,34182.45,0,0.00,0.00%,Normal
 Bea Andrada,23/04/2026,0.00,1,5546.68,0.00%,Normal
@@ -3369,6 +3158,7 @@ Paul Castro,23/04/2026,23208.31,0,0.00,0.00%,Normal
 Paul Navarro,23/04/2026,0.00,1,7672.34,0.00%,Normal
 Ramon Garcia,23/04/2026,5078.77,0,0.00,0.00%,Normal
 Xiaomi Ocho,23/04/2026,0.00,1,25406.98,0.00%,Normal
+Grace Castro,24/04/2026,28755.54,1,5253.18,547.39%,Suspicious
 Angel Salazar,24/04/2026,6603.65,0,0.00,0.00%,Normal
 Bea Andrada,24/04/2026,35207.23,0,0.00,0.00%,Normal
 Dodong Bina,24/04/2026,0.00,1,20161.90,0.00%,Normal
@@ -3407,6 +3197,9 @@ Miggy Mango,25/04/2026,0.00,1,28953.60,0.00%,Normal
 Nicole Castro,25/04/2026,0.00,1,19137.13,0.00%,Normal
 Paul Castro,25/04/2026,20932.38,0,0.00,0.00%,Normal
 Ramon Del Rosario,25/04/2026,23715.99,0,0.00,0.00%,Normal
+Grace Ocampo,26/04/2026,8847.82,1,1353.46,653.72%,Suspicious
+Grace Torres,26/04/2026,21178.90,1,16254.17,130.30%,Suspicious
+Xiaomi Ocho,26/04/2026,19668.39,1,9617.83,204.50%,Suspicious
 Angel Mendoza,26/04/2026,6248.15,0,0.00,0.00%,Normal
 Bea Ramos,26/04/2026,0.00,2,27573.70,0.00%,Normal
 Bea Torres,26/04/2026,8489.04,0,0.00,0.00%,Normal
@@ -3431,6 +3224,7 @@ Patricia Reyes,26/04/2026,34389.80,0,0.00,0.00%,Normal
 Ralph Josh Bacon,26/04/2026,0.00,2,41025.17,0.00%,Normal
 Rhea Ramos,26/04/2026,26554.73,0,0.00,0.00%,Normal
 Samantha Tomas,26/04/2026,0.00,1,27381.21,0.00%,Normal
+Gabriel Flores,27/04/2026,35099.70,1,34990.02,100.31%,Suspicious
 Ana Cruz,27/04/2026,0.00,1,12568.09,0.00%,Normal
 Ana Villanueva,27/04/2026,15041.94,0,0.00,0.00%,Normal
 Carlos Mendoza,27/04/2026,4945.35,0,0.00,0.00%,Normal
@@ -3468,6 +3262,7 @@ Liza Castro,28/04/2026,0.00,1,28490.14,0.00%,Normal
 Ramon Garcia,28/04/2026,0.00,1,32526.42,0.00%,Normal
 Ramon Reyes,28/04/2026,34842.83,0,0.00,0.00%,Normal
 Samantha Tomas,28/04/2026,0.00,1,1636.48,0.00%,Normal
+Jay Kamote,29/04/2026,11796.87,1,7836.13,150.54%,Suspicious
 Ana Villanueva,29/04/2026,8221.51,1,13227.92,62.15%,Normal
 Angel Mendoza,29/04/2026,16854.59,0,0.00,0.00%,Normal
 Angelo Ramos,29/04/2026,33674.25,0,0.00,0.00%,Normal
@@ -3490,6 +3285,7 @@ Paul Ocampo,29/04/2026,14691.80,0,0.00,0.00%,Normal
 Ralph Josh Bacon,29/04/2026,0.00,2,34227.56,0.00%,Normal
 Ramon Reyes,29/04/2026,0.00,1,31979.46,0.00%,Normal
 Ramon Tomas,29/04/2026,3679.88,1,9824.42,37.46%,Normal
+Bea Ramos,30/04/2026,20938.28,1,22754.81,92.02%,Suspicious
 Ana Cruz,30/04/2026,0.00,1,19210.50,0.00%,Normal
 Ana Villanueva,30/04/2026,16600.43,0,0.00,0.00%,Normal
 Angelo Ramos,30/04/2026,0.00,1,3979.36,0.00%,Normal
@@ -3514,6 +3310,7 @@ Nicole Torres,30/04/2026,11852.07,0,0.00,0.00%,Normal
 Paul Navarro,30/04/2026,16916.29,0,0.00,0.00%,Normal
 Ralph Josh Bacon,30/04/2026,0.00,1,10598.43,0.00%,Normal
 Samantha Tomas,30/04/2026,0.00,1,25514.12,0.00%,Normal
+Grace Torres,01/05/2026,33353.19,1,6796.45,490.74%,Suspicious
 Amoy Liu,01/05/2026,771.78,0,0.00,0.00%,Normal
 Angel Flores,01/05/2026,0.00,1,17282.89,0.00%,Normal
 Angelo Ramos,01/05/2026,0.00,1,4297.55,0.00%,Normal
@@ -3599,6 +3396,10 @@ Patricia Reyes,03/05/2026,0.00,1,16394.64,0.00%,Normal
 Ralph Josh Bacon,03/05/2026,29713.25,0,0.00,0.00%,Normal
 Ramon Reyes,03/05/2026,0.00,1,9876.01,0.00%,Normal
 Samantha Tomas,03/05/2026,0.00,1,18818.37,0.00%,Normal
+Angel Flores,04/05/2026,25285.69,1,19517.83,129.55%,Suspicious
+Francis Bautista,04/05/2026,35602.36,1,11434.45,311.36%,Suspicious
+Jasmine Santos,04/05/2026,19724.60,1,15717.51,125.49%,Suspicious
+Rhea Ramos,04/05/2026,31020.77,1,31332.83,99.00%,Suspicious
 Angel Mendoza,04/05/2026,0.00,1,27489.67,0.00%,Normal
 Angelo Ramos,04/05/2026,0.00,1,17629.29,0.00%,Normal
 Bea Andrada,04/05/2026,16540.34,0,0.00,0.00%,Normal
@@ -3618,6 +3419,7 @@ Liza Castro,04/05/2026,0.00,1,11143.45,0.00%,Normal
 Miggy Mango,04/05/2026,0.00,1,26113.37,0.00%,Normal
 Ramon Castillo,04/05/2026,0.00,1,21185.05,0.00%,Normal
 Ramon Del Rosario,04/05/2026,13137.99,0,0.00,0.00%,Normal
+Angel Flores,05/05/2026,6102.48,1,6010.80,101.53%,Suspicious
 Ana Villanueva,05/05/2026,851.59,0,0.00,0.00%,Normal
 Angel Mendoza,05/05/2026,0.00,1,34522.49,0.00%,Normal
 Camille Tomas,05/05/2026,0.00,1,7926.99,0.00%,Normal
@@ -3664,6 +3466,7 @@ Ramon Andrada,06/05/2026,46049.30,0,0.00,0.00%,Normal
 Ramon Del Rosario,06/05/2026,1451.43,0,0.00,0.00%,Normal
 Rhea Ramos,06/05/2026,30313.13,0,0.00,0.00%,Normal
 Samantha Castillo,06/05/2026,0.00,1,7235.94,0.00%,Normal
+Grace Torres,07/05/2026,9089.80,1,10001.53,90.88%,Suspicious
 Amoy Liu,07/05/2026,21611.86,0,0.00,0.00%,Normal
 Angel Mendoza,07/05/2026,9621.00,0,0.00,0.00%,Normal
 Bea Bautista,07/05/2026,0.00,1,22514.90,0.00%,Normal
@@ -3689,6 +3492,8 @@ Patricia Mercado,07/05/2026,0.00,1,25426.12,0.00%,Normal
 Paul Castro,07/05/2026,0.00,1,11734.84,0.00%,Normal
 Ramon Tomas,07/05/2026,0.00,1,21972.40,0.00%,Normal
 Xiaomi Ocho,07/05/2026,0.00,1,3415.28,0.00%,Normal
+Jasmine Valenzuela,08/05/2026,12724.20,1,8941.41,142.31%,Suspicious
+Ramon Andrada,08/05/2026,26206.63,1,15496.97,169.11%,Suspicious
 Ana Cruz,08/05/2026,9274.59,0,0.00,0.00%,Normal
 Ana Villanueva,08/05/2026,9409.30,0,0.00,0.00%,Normal
 Bea Andrada,08/05/2026,0.00,1,25396.52,0.00%,Normal
@@ -3707,6 +3512,9 @@ Ramon Del Rosario,08/05/2026,0.00,1,1640.85,0.00%,Normal
 Ramon Garcia,08/05/2026,31405.76,0,0.00,0.00%,Normal
 Ramon Tomas,08/05/2026,24201.57,0,0.00,0.00%,Normal
 Samantha Tomas,08/05/2026,0.00,1,10626.39,0.00%,Normal
+Angel Mendoza,09/05/2026,19016.16,1,3702.16,513.65%,Suspicious
+Joug de Asim,09/05/2026,36845.30,2,28132.57,130.97%,Suspicious
+Nicole Castro,09/05/2026,15264.76,1,13280.70,114.94%,Suspicious
 Ana Cruz,09/05/2026,12979.09,0,0.00,0.00%,Normal
 Ana Ocampo,09/05/2026,0.00,1,11854.14,0.00%,Normal
 Ana Villanueva,09/05/2026,0.00,1,20372.84,0.00%,Normal
@@ -3734,6 +3542,8 @@ Mary Grace Piattos,09/05/2026,26895.07,0,0.00,0.00%,Normal
 Paolo Ocampo,09/05/2026,35064.04,0,0.00,0.00%,Normal
 Patricia Reyes,09/05/2026,0.00,1,3177.06,0.00%,Normal
 Samantha Torres,09/05/2026,0.00,1,8309.79,0.00%,Normal
+Gabriel Cruz,10/05/2026,21152.08,1,20307.48,104.16%,Suspicious
+Samantha Navarro,10/05/2026,17188.34,1,14378.80,119.54%,Suspicious
 Ana Ocampo,10/05/2026,0.00,1,11301.74,0.00%,Normal
 Carlos Bautista,10/05/2026,32063.72,0,0.00,0.00%,Normal
 Dodong Alcala,10/05/2026,0.00,1,25262.12,0.00%,Normal
@@ -3852,6 +3662,7 @@ Ramon Del Rosario,15/05/2026,0.00,1,7994.82,0.00%,Normal
 Ramon Garcia,15/05/2026,0.00,1,7112.95,0.00%,Normal
 Samantha Navarro,15/05/2026,12647.24,0,0.00,0.00%,Normal
 Xiaomi Ocho,15/05/2026,4041.52,0,0.00,0.00%,Normal
+Dodong Alcala,16/05/2026,12341.73,1,12436.70,99.24%,Suspicious
 Amoy Liu,16/05/2026,13558.24,0,0.00,0.00%,Normal
 Ana Cruz,16/05/2026,34040.54,0,0.00,0.00%,Normal
 Angel Flores,16/05/2026,0.00,1,33498.87,0.00%,Normal
@@ -3908,6 +3719,7 @@ Paul Navarro,17/05/2026,37760.17,0,0.00,0.00%,Normal
 Ramon Garcia,17/05/2026,0.00,1,2725.78,0.00%,Normal
 Samantha Torres,17/05/2026,0.00,1,22849.33,0.00%,Normal
 Xiaomi Ocho,17/05/2026,29820.71,0,0.00,0.00%,Normal
+Bea Ramos,18/05/2026,42300.78,1,34005.43,124.39%,Suspicious
 Amoy Liu,18/05/2026,0.00,1,26497.82,0.00%,Normal
 Angel Salazar,18/05/2026,0.00,1,14536.75,0.00%,Normal
 Bea Torres,18/05/2026,33028.19,0,0.00,0.00%,Normal
@@ -3930,6 +3742,9 @@ Nicole Bautista,18/05/2026,5531.35,0,0.00,0.00%,Normal
 Ralph Josh Bacon,18/05/2026,0.00,1,28063.10,0.00%,Normal
 Ramon Castillo,18/05/2026,13682.72,0,0.00,0.00%,Normal
 Ramon Garcia,18/05/2026,0.00,1,19326.10,0.00%,Normal
+Angelo Ramos,19/05/2026,26865.00,1,29460.68,91.19%,Suspicious
+Camille Tomas,19/05/2026,22503.31,1,6861.68,327.96%,Suspicious
+John Cruz,19/05/2026,21291.04,1,19565.23,108.82%,Suspicious
 Angel Flores,19/05/2026,7533.68,1,13256.78,56.83%,Normal
 Bea Andrada,19/05/2026,0.00,1,16504.93,0.00%,Normal
 Bea Bautista,19/05/2026,0.00,1,12482.43,0.00%,Normal
@@ -4039,6 +3854,7 @@ Patricia Reyes,23/05/2026,0.00,1,3290.36,0.00%,Normal
 Paul Castro,23/05/2026,0.00,1,26458.80,0.00%,Normal
 Ralph Josh Bacon,23/05/2026,34035.74,0,0.00,0.00%,Normal
 Samantha Navarro,23/05/2026,0.00,1,29962.25,0.00%,Normal
+Ana Ocampo,24/05/2026,32127.77,1,20796.93,154.48%,Suspicious
 Ana Cruz,24/05/2026,0.00,1,18080.85,0.00%,Normal
 Bea Andrada,24/05/2026,21402.82,0,0.00,0.00%,Normal
 Bea Tomas,24/05/2026,0.00,1,9887.20,0.00%,Normal
@@ -4057,6 +3873,7 @@ Mary Grace Piattos,24/05/2026,0.00,1,13560.42,0.00%,Normal
 Patricia Mercado,24/05/2026,11308.46,0,0.00,0.00%,Normal
 Ramon Castillo,24/05/2026,0.00,1,22881.56,0.00%,Normal
 Samantha Navarro,24/05/2026,0.00,1,9845.36,0.00%,Normal
+Nicole Torres,25/05/2026,13312.90,1,6529.92,203.88%,Suspicious
 Ana Ocampo,25/05/2026,0.00,1,14767.12,0.00%,Normal
 Ana Villanueva,25/05/2026,0.00,1,25600.97,0.00%,Normal
 Angel Salazar,25/05/2026,1343.62,0,0.00,0.00%,Normal
@@ -4078,6 +3895,7 @@ Nicole Bautista,25/05/2026,0.00,1,22916.67,0.00%,Normal
 Ralph Josh Bacon,25/05/2026,0.00,1,34425.94,0.00%,Normal
 Ramon Garcia,25/05/2026,0.00,1,9828.38,0.00%,Normal
 Samantha Navarro,25/05/2026,31125.96,0,0.00,0.00%,Normal
+Samantha Castillo,26/05/2026,30958.35,1,12189.29,253.98%,Suspicious
 Angel Mendoza,26/05/2026,0.00,1,7020.66,0.00%,Normal
 Angel Salazar,26/05/2026,8605.62,0,0.00,0.00%,Normal
 Bea Tomas,26/05/2026,0.00,1,8991.32,0.00%,Normal
@@ -4102,6 +3920,7 @@ Paul Ocampo,26/05/2026,22297.56,0,0.00,0.00%,Normal
 Ramon Del Rosario,26/05/2026,0.00,1,1883.73,0.00%,Normal
 Ramon Garcia,26/05/2026,2238.73,0,0.00,0.00%,Normal
 Rhea Ramos,26/05/2026,6137.92,0,0.00,0.00%,Normal
+Paul Ocampo,27/05/2026,20725.12,1,21868.54,94.77%,Suspicious
 Angel Flores,27/05/2026,0.00,1,13549.82,0.00%,Normal
 Angel Salazar,27/05/2026,0.00,1,30569.64,0.00%,Normal
 Bea Bautista,27/05/2026,37030.22,0,0.00,0.00%,Normal
@@ -4117,6 +3936,7 @@ Nicole Bautista,27/05/2026,0.00,2,39558.08,0.00%,Normal
 Paul Castro,27/05/2026,19323.94,0,0.00,0.00%,Normal
 Ramon Del Rosario,27/05/2026,0.00,1,29157.36,0.00%,Normal
 Ramon Tomas,27/05/2026,0.00,1,5572.05,0.00%,Normal
+Angelo Ramos,28/05/2026,16852.47,1,14161.61,119.00%,Suspicious
 Ana Villanueva,28/05/2026,0.00,1,28029.17,0.00%,Normal
 Bea Bautista,28/05/2026,0.00,1,1648.14,0.00%,Normal
 Bea Torres,28/05/2026,0.00,1,13285.39,0.00%,Normal
@@ -4162,6 +3982,7 @@ Nicole Torres,29/05/2026,25620.46,0,0.00,0.00%,Normal
 Ralph Josh Bacon,29/05/2026,35942.86,0,0.00,0.00%,Normal
 Ramon Del Rosario,29/05/2026,28012.47,0,0.00,0.00%,Normal
 Ramon Tomas,29/05/2026,0.00,1,17810.24,0.00%,Normal
+Xiaomi Ocho,30/05/2026,27519.95,1,6514.88,422.42%,Suspicious
 Ana Cruz,30/05/2026,28407.63,0,0.00,0.00%,Normal
 Angel Flores,30/05/2026,3516.59,0,0.00,0.00%,Normal
 Angel Mendoza,30/05/2026,0.00,1,12046.45,0.00%,Normal
@@ -4209,6 +4030,9 @@ Mico Harina,31/05/2026,0.00,1,11246.19,0.00%,Normal
 Ramon Tomas,31/05/2026,0.00,1,29970.47,0.00%,Normal
 Samantha Navarro,31/05/2026,0.00,2,13333.72,0.00%,Normal
 Samantha Torres,31/05/2026,0.00,1,18482.81,0.00%,Normal
+Angelo Ramos,01/06/2026,37385.94,1,3684.47,1014.69%,Suspicious
+Dodong Bunal,01/06/2026,33297.34,1,8847.94,376.33%,Suspicious
+Juan Navarro,01/06/2026,36969.26,1,4158.76,888.95%,Suspicious
 Angel Mendoza,01/06/2026,0.00,2,39029.81,0.00%,Normal
 Dodong Bina,01/06/2026,9428.00,0,0.00,0.00%,Normal
 Francis Rivera,01/06/2026,12870.84,0,0.00,0.00%,Normal
@@ -4250,6 +4074,7 @@ Paul Castro,02/06/2026,18571.31,0,0.00,0.00%,Normal
 Paul Navarro,02/06/2026,30846.88,0,0.00,0.00%,Normal
 Ramon Andrada,02/06/2026,0.00,1,30058.91,0.00%,Normal
 Samantha Torres,02/06/2026,10336.37,0,0.00,0.00%,Normal
+Christian Bautista,03/06/2026,31114.90,1,19690.61,158.02%,Suspicious
 Angel Mendoza,03/06/2026,21246.61,0,0.00,0.00%,Normal
 Angel Salazar,03/06/2026,24041.27,0,0.00,0.00%,Normal
 Bea Andrada,03/06/2026,0.00,1,27367.61,0.00%,Normal
@@ -4273,6 +4098,7 @@ Paul Ocampo,03/06/2026,21494.40,1,31919.53,67.34%,Normal
 Ramon Reyes,03/06/2026,8559.77,0,0.00,0.00%,Normal
 Ramon Tomas,03/06/2026,39479.62,0,0.00,0.00%,Normal
 Samantha Tomas,03/06/2026,40363.48,0,0.00,0.00%,Normal
+Grace Castro,04/06/2026,15284.90,1,12936.80,118.15%,Suspicious
 Ana Ocampo,04/06/2026,0.00,1,34799.72,0.00%,Normal
 Ana Villanueva,04/06/2026,0.00,1,7257.62,0.00%,Normal
 Angel Mendoza,04/06/2026,0.00,1,16354.73,0.00%,Normal
@@ -4293,6 +4119,8 @@ Paolo Aquino,04/06/2026,0.00,1,11217.65,0.00%,Normal
 Patricia Reyes,04/06/2026,0.00,1,33197.89,0.00%,Normal
 Paul Navarro,04/06/2026,0.00,1,31934.90,0.00%,Normal
 Paul Ocampo,04/06/2026,36087.69,0,0.00,0.00%,Normal
+Juan Cruz,05/06/2026,28875.47,1,4079.14,707.88%,Suspicious
+Ramon Garcia,05/06/2026,22095.69,1,24165.52,91.43%,Suspicious
 Bea Andrada,05/06/2026,0.00,2,43039.77,0.00%,Normal
 Bea Bautista,05/06/2026,5656.24,0,0.00,0.00%,Normal
 Bea Tomas,05/06/2026,4246.48,1,12886.84,32.95%,Normal
@@ -4320,6 +4148,11 @@ Ramon Del Rosario,05/06/2026,22253.50,0,0.00,0.00%,Normal
 Ramon Reyes,05/06/2026,0.00,1,8851.49,0.00%,Normal
 Rhea Ramos,05/06/2026,0.00,1,16881.95,0.00%,Normal
 Samantha Navarro,05/06/2026,7045.70,0,0.00,0.00%,Normal
+John Cruz,06/06/2026,38757.25,1,26418.18,146.71%,Suspicious
+John Tomas,06/06/2026,42878.53,1,3593.16,1193.34%,Suspicious
+Liza Flores,06/06/2026,31259.83,1,18212.18,171.64%,Suspicious
+Miggy Mango,06/06/2026,583089.00,1,765821.41,76.14%,Suspicious
+Ralph Josh Bacon,06/06/2026,566422.76,1,658533.23,86.01%,Suspicious
 Amoy Liu,06/06/2026,1663.97,1,15265.47,10.90%,Normal
 Angel Mendoza,06/06/2026,0.00,2,41466.22,0.00%,Normal
 Bea Ramos,06/06/2026,0.00,1,21995.38,0.00%,Normal
@@ -4361,6 +4194,7 @@ Juan Tomas,07/06/2026,19447.02,0,0.00,0.00%,Normal
 Paolo Ocampo,07/06/2026,31060.43,0,0.00,0.00%,Normal
 Ramon Del Rosario,07/06/2026,13600.49,0,0.00,0.00%,Normal
 Ramon Tomas,07/06/2026,12426.07,0,0.00,0.00%,Normal
+Dodong Darong,08/06/2026,19565.66,1,13911.53,140.64%,Suspicious
 Amoy Liu,08/06/2026,0.00,1,29467.30,0.00%,Normal
 Angelo Valenzuela,08/06/2026,0.00,1,2040.25,0.00%,Normal
 Bea Ramos,08/06/2026,0.00,1,19458.66,0.00%,Normal
@@ -4399,6 +4233,7 @@ Nicole Bautista,09/06/2026,0.00,1,31139.22,0.00%,Normal
 Nicole Salazar,09/06/2026,0.00,1,29003.33,0.00%,Normal
 Nicole Torres,09/06/2026,8339.85,0,0.00,0.00%,Normal
 Paul Ocampo,09/06/2026,0.00,1,27070.94,0.00%,Normal
+Paolo Ocampo,10/06/2026,35075.23,1,18254.57,192.14%,Suspicious
 Ana Villanueva,10/06/2026,0.00,1,1217.05,0.00%,Normal
 Angelo Ramos,10/06/2026,0.00,1,33274.66,0.00%,Normal
 Bea Ramos,10/06/2026,0.00,1,18672.02,0.00%,Normal
@@ -4447,6 +4282,7 @@ Ramon Castillo,11/06/2026,0.00,1,27078.55,0.00%,Normal
 Ramon Garcia,11/06/2026,25435.30,0,0.00,0.00%,Normal
 Rhea Ramos,11/06/2026,0.00,1,15484.17,0.00%,Normal
 Samantha Castillo,11/06/2026,28006.84,0,0.00,0.00%,Normal
+Bea Tomas,12/06/2026,36895.15,1,3490.55,1057.00%,Suspicious
 Amoy Liu,12/06/2026,0.00,1,34533.19,0.00%,Normal
 Angel Flores,12/06/2026,31222.47,0,0.00,0.00%,Normal
 Angel Salazar,12/06/2026,5699.13,0,0.00,0.00%,Normal
@@ -4508,6 +4344,8 @@ Ramon Andrada,13/06/2026,0.00,1,13848.08,0.00%,Normal
 Ramon Del Rosario,13/06/2026,5811.03,0,0.00,0.00%,Normal
 Ramon Tomas,13/06/2026,0.00,1,4289.92,0.00%,Normal
 Samantha Torres,13/06/2026,0.00,1,22281.34,0.00%,Normal
+Gabriel Flores,14/06/2026,34317.55,1,34598.51,99.19%,Suspicious
+Grace Castro,14/06/2026,38173.00,1,32710.08,116.70%,Suspicious
 Ana Villanueva,14/06/2026,0.00,1,3055.30,0.00%,Normal
 Angel Salazar,14/06/2026,0.00,1,12008.23,0.00%,Normal
 Bea Andrada,14/06/2026,0.00,1,7180.83,0.00%,Normal
@@ -4532,6 +4370,10 @@ Ralph Josh Bacon,14/06/2026,5876.42,0,0.00,0.00%,Normal
 Ramon Castillo,14/06/2026,24041.63,0,0.00,0.00%,Normal
 Ramon Del Rosario,14/06/2026,3781.15,0,0.00,0.00%,Normal
 Samantha Castillo,14/06/2026,30359.59,0,0.00,0.00%,Normal
+Gabriel Flores,15/06/2026,32472.29,1,31698.02,102.44%,Suspicious
+Jasmine Castillo,15/06/2026,16613.30,1,12988.16,127.91%,Suspicious
+Ramon Tomas,15/06/2026,15296.43,1,14490.59,105.56%,Suspicious
+Rhea Ramos,15/06/2026,4327.45,1,3742.91,115.62%,Suspicious
 Ana Ocampo,15/06/2026,32836.56,0,0.00,0.00%,Normal
 Angelo Valenzuela,15/06/2026,16510.05,0,0.00,0.00%,Normal
 Bea Andrada,15/06/2026,8956.89,0,0.00,0.00%,Normal
@@ -4550,6 +4392,9 @@ Paul Navarro,15/06/2026,32573.29,0,0.00,0.00%,Normal
 Ralph Josh Bacon,15/06/2026,0.00,1,16285.27,0.00%,Normal
 Ramon Del Rosario,15/06/2026,0.00,1,28186.02,0.00%,Normal
 Samantha Navarro,15/06/2026,17921.63,0,0.00,0.00%,Normal
+Francis Bautista,16/06/2026,10758.48,1,2956.17,363.93%,Suspicious
+Grace Navarro,16/06/2026,28184.08,1,30411.33,92.68%,Suspicious
+Mark Torres,16/06/2026,15184.42,1,8004.12,189.71%,Suspicious
 Amoy Liu,16/06/2026,0.00,1,23592.84,0.00%,Normal
 Ana Cruz,16/06/2026,0.00,1,29148.08,0.00%,Normal
 Ana Villanueva,16/06/2026,19586.56,0,0.00,0.00%,Normal
@@ -4575,6 +4420,7 @@ Mico Harina,16/06/2026,0.00,1,32582.61,0.00%,Normal
 Paolo Ocampo,16/06/2026,0.00,1,16219.64,0.00%,Normal
 Paul Navarro,16/06/2026,0.00,1,16800.40,0.00%,Normal
 Ramon Tomas,16/06/2026,0.00,1,32384.78,0.00%,Normal
+Fernan Amuy,17/06/2026,24571.31,1,1846.28,1330.86%,Suspicious
 Ana Cruz,17/06/2026,9390.33,0,0.00,0.00%,Normal
 Bea Bautista,17/06/2026,24817.33,0,0.00,0.00%,Normal
 Dodong Bunal,17/06/2026,19864.89,0,0.00,0.00%,Normal
@@ -4627,6 +4473,7 @@ Paul Ocampo,19/06/2026,0.00,1,11721.06,0.00%,Normal
 Ramon Garcia,19/06/2026,11190.38,0,0.00,0.00%,Normal
 Ramon Tomas,19/06/2026,15837.78,0,0.00,0.00%,Normal
 Xiaomi Ocho,19/06/2026,0.00,1,13474.34,0.00%,Normal
+Christian Mendoza,20/06/2026,37629.67,1,30186.49,124.66%,Suspicious
 Amoy Liu,20/06/2026,3065.72,0,0.00,0.00%,Normal
 Ana Villanueva,20/06/2026,0.00,1,14985.51,0.00%,Normal
 Angel Flores,20/06/2026,0.00,1,25525.68,0.00%,Normal
@@ -4670,6 +4517,8 @@ Paul Ocampo,21/06/2026,0.00,1,6513.15,0.00%,Normal
 Ramon Castillo,21/06/2026,20699.54,0,0.00,0.00%,Normal
 Samantha Castillo,21/06/2026,0.00,1,5010.24,0.00%,Normal
 Samantha Torres,21/06/2026,0.00,1,3229.02,0.00%,Normal
+Amoy Liu,22/06/2026,37673.05,2,25053.74,150.37%,Suspicious
+Mark Torres,22/06/2026,12219.10,1,3998.26,305.61%,Suspicious
 Angel Mendoza,22/06/2026,0.00,1,21846.57,0.00%,Normal
 Angel Salazar,22/06/2026,0.00,1,15312.66,0.00%,Normal
 Bea Ramos,22/06/2026,0.00,1,18269.12,0.00%,Normal
@@ -4793,6 +4642,7 @@ Patricia Mercado,27/06/2026,35108.76,0,0.00,0.00%,Normal
 Patricia Reyes,27/06/2026,3908.70,0,0.00,0.00%,Normal
 Paul Castro,27/06/2026,0.00,1,22032.29,0.00%,Normal
 Ramon Del Rosario,27/06/2026,5464.82,0,0.00,0.00%,Normal
+Nicole Bautista,28/06/2026,13478.25,1,10895.84,123.70%,Suspicious
 Ana Ocampo,28/06/2026,0.00,1,23037.36,0.00%,Normal
 Ana Villanueva,28/06/2026,0.00,1,34234.30,0.00%,Normal
 Angelo Valenzuela,28/06/2026,7013.33,0,0.00,0.00%,Normal
@@ -4829,6 +4679,8 @@ Mary Grace Piattos,29/06/2026,0.00,1,30986.99,0.00%,Normal
 Nicole Salazar,29/06/2026,12551.09,0,0.00,0.00%,Normal
 Ramon Garcia,29/06/2026,0.00,1,23854.07,0.00%,Normal
 Xiaomi Ocho,29/06/2026,1258.67,0,0.00,0.00%,Normal
+Gabriel Domingo,30/06/2026,36960.19,1,14686.27,251.66%,Suspicious
+Ramon Castillo,30/06/2026,33674.64,1,17552.51,191.85%,Suspicious
 Bea Andrada,30/06/2026,0.00,1,31488.02,0.00%,Normal
 Christian Bautista,30/06/2026,0.00,1,17817.67,0.00%,Normal
 Dodong S. Barok,30/06/2026,7354.05,0,0.00,0.00%,Normal
@@ -4852,6 +4704,7 @@ Ralph Josh Bacon,30/06/2026,33142.27,0,0.00,0.00%,Normal
 Rhea Ramos,30/06/2026,0.00,1,1963.37,0.00%,Normal
 Samantha Navarro,30/06/2026,30566.28,0,0.00,0.00%,Normal
 Xiaomi Ocho,30/06/2026,2030.22,0,0.00,0.00%,Normal
+Mico Harina,01/07/2026,21386.22,1,12470.98,171.49%,Suspicious
 Angel Salazar,01/07/2026,0.00,1,8532.69,0.00%,Normal
 Dodong Darong,01/07/2026,0.00,1,12755.48,0.00%,Normal
 Dodong S. Barok,01/07/2026,1209.41,0,0.00,0.00%,Normal
@@ -4897,6 +4750,8 @@ Patricia Mercado,02/07/2026,0.00,1,5147.79,0.00%,Normal
 Patricia Reyes,02/07/2026,0.00,1,29045.59,0.00%,Normal
 Ramon Garcia,02/07/2026,5315.27,0,0.00,0.00%,Normal
 Samantha Castillo,02/07/2026,0.00,1,6537.22,0.00%,Normal
+Ana Ocampo,03/07/2026,33442.60,1,5915.29,565.36%,Suspicious
+John Del Rosario,03/07/2026,20061.69,1,20335.16,98.66%,Suspicious
 Angel Flores,03/07/2026,0.00,1,34822.24,0.00%,Normal
 Angelo Valenzuela,03/07/2026,835.35,0,0.00,0.00%,Normal
 Bea Ramos,03/07/2026,0.00,1,20910.48,0.00%,Normal
@@ -4914,6 +4769,7 @@ Patricia Salazar,03/07/2026,7458.87,1,28678.27,26.01%,Normal
 Ramon Reyes,03/07/2026,24645.63,1,32702.92,75.36%,Normal
 Ramon Tomas,03/07/2026,0.00,1,8476.24,0.00%,Normal
 Xiaomi Ocho,03/07/2026,0.00,1,3055.11,0.00%,Normal
+Francis Mercado,04/07/2026,22539.95,1,12556.11,179.51%,Suspicious
 Angel Mendoza,04/07/2026,4970.28,1,14364.27,34.60%,Normal
 Carlos Mendoza,04/07/2026,22580.34,0,0.00,0.00%,Normal
 Christian Mendoza,04/07/2026,14271.45,0,0.00,0.00%,Normal
@@ -4936,6 +4792,8 @@ Patricia Mercado,04/07/2026,37414.13,0,0.00,0.00%,Normal
 Paul Ocampo,04/07/2026,0.00,2,62913.64,0.00%,Normal
 Ramon Tomas,04/07/2026,16361.80,0,0.00,0.00%,Normal
 Samantha Torres,04/07/2026,0.00,1,30309.02,0.00%,Normal
+Christian Bautista,05/07/2026,39062.37,1,23050.30,169.47%,Suspicious
+Christian Mendoza,05/07/2026,23070.99,1,16572.38,139.21%,Suspicious
 Angel Mendoza,05/07/2026,0.00,1,21070.73,0.00%,Normal
 Bea Tomas,05/07/2026,0.00,1,31926.06,0.00%,Normal
 Fernan Amuy,05/07/2026,0.00,1,31230.71,0.00%,Normal
@@ -4953,6 +4811,7 @@ Nicole Castro,05/07/2026,0.00,2,13400.47,0.00%,Normal
 Paolo Ocampo,05/07/2026,0.00,2,40936.84,0.00%,Normal
 Rhea Ramos,05/07/2026,0.00,1,11716.88,0.00%,Normal
 Samantha Torres,05/07/2026,0.00,1,7210.29,0.00%,Normal
+Ramon Castillo,06/07/2026,30217.57,2,17296.02,174.71%,Suspicious
 Angelo Ramos,06/07/2026,20768.01,0,0.00,0.00%,Normal
 Bea Andrada,06/07/2026,10158.59,0,0.00,0.00%,Normal
 Camille Del Rosario,06/07/2026,24646.18,0,0.00,0.00%,Normal
@@ -4990,6 +4849,8 @@ Nicole Salazar,07/07/2026,24305.78,0,0.00,0.00%,Normal
 Paul Castro,07/07/2026,0.00,1,30141.04,0.00%,Normal
 Paul Navarro,07/07/2026,10772.98,0,0.00,0.00%,Normal
 Ramon Del Rosario,07/07/2026,15758.46,0,0.00,0.00%,Normal
+Ramon Tomas,08/07/2026,28424.40,1,12713.52,223.58%,Suspicious
+Rhea Ramos,08/07/2026,4984.93,1,3483.34,143.11%,Suspicious
 Angel Mendoza,08/07/2026,4062.10,0,0.00,0.00%,Normal
 Angel Salazar,08/07/2026,34745.75,0,0.00,0.00%,Normal
 Angelo Valenzuela,08/07/2026,37990.23,0,0.00,0.00%,Normal
@@ -5078,6 +4939,8 @@ Ramon Reyes,10/07/2026,0.00,1,10811.51,0.00%,Normal
 Ramon Tomas,10/07/2026,11566.30,0,0.00,0.00%,Normal
 Samantha Navarro,10/07/2026,13698.28,0,0.00,0.00%,Normal
 Samantha Tomas,10/07/2026,30768.20,0,0.00,0.00%,Normal
+Dodong Alcala,11/07/2026,296057.44,1,313553.74,94.42%,Suspicious
+Patricia Mercado,11/07/2026,27355.34,1,3087.04,886.13%,Suspicious
 Amoy Liu,11/07/2026,0.00,1,25804.71,0.00%,Normal
 Angel Salazar,11/07/2026,0.00,1,4670.70,0.00%,Normal
 Angelo Ramos,11/07/2026,12994.37,0,0.00,0.00%,Normal
@@ -5175,6 +5038,7 @@ Ralph Josh Bacon,14/07/2026,22460.17,0,0.00,0.00%,Normal
 Ramon Tomas,14/07/2026,0.00,2,22196.91,0.00%,Normal
 Samantha Castillo,14/07/2026,17037.84,0,0.00,0.00%,Normal
 Samantha Torres,14/07/2026,0.00,1,18060.51,0.00%,Normal
+Jose Salazar,15/07/2026,22104.54,1,21600.89,102.33%,Suspicious
 Ana Cruz,15/07/2026,8206.14,0,0.00,0.00%,Normal
 Angelo Valenzuela,15/07/2026,14611.39,0,0.00,0.00%,Normal
 Bea Andrada,15/07/2026,23056.23,0,0.00,0.00%,Normal
@@ -5238,6 +5102,8 @@ Ralph Josh Bacon,17/07/2026,15203.47,1,27552.64,55.18%,Normal
 Ramon Reyes,17/07/2026,0.00,1,3782.41,0.00%,Normal
 Samantha Navarro,17/07/2026,0.00,1,19938.00,0.00%,Normal
 Samantha Torres,17/07/2026,0.00,1,24281.37,0.00%,Normal
+Jose Mendoza,18/07/2026,17576.25,1,2387.06,736.31%,Suspicious
+Xiaomi Ocho,18/07/2026,541123.99,1,754350.40,71.73%,Suspicious
 Ana Cruz,18/07/2026,0.00,1,26577.06,0.00%,Normal
 Ana Ocampo,18/07/2026,0.00,1,2506.58,0.00%,Normal
 Angel Mendoza,18/07/2026,0.00,1,25011.71,0.00%,Normal
@@ -5261,6 +5127,7 @@ Ramon Del Rosario,18/07/2026,4180.13,0,0.00,0.00%,Normal
 Ramon Garcia,18/07/2026,0.00,1,21373.20,0.00%,Normal
 Ramon Tomas,18/07/2026,0.00,1,24022.94,0.00%,Normal
 Samantha Navarro,18/07/2026,25848.54,1,31879.70,81.08%,Normal
+Jose Reyes,19/07/2026,24205.40,1,26146.23,92.58%,Suspicious
 Angel Salazar,19/07/2026,0.00,2,50444.12,0.00%,Normal
 Bea Torres,19/07/2026,15231.96,0,0.00,0.00%,Normal
 Camille Del Rosario,19/07/2026,36389.36,0,0.00,0.00%,Normal
@@ -5311,6 +5178,10 @@ Ramon Del Rosario,20/07/2026,0.00,1,32920.36,0.00%,Normal
 Ramon Garcia,20/07/2026,0.00,1,18540.28,0.00%,Normal
 Rhea Ramos,20/07/2026,0.00,1,20823.96,0.00%,Normal
 Samantha Navarro,20/07/2026,0.00,1,13951.88,0.00%,Normal
+Bea Bautista,21/07/2026,25471.69,1,17556.89,145.08%,Suspicious
+Grace Castro,21/07/2026,32348.52,1,20949.82,154.41%,Suspicious
+Jerome Tomas,21/07/2026,14762.06,1,14127.83,104.49%,Suspicious
+Miggy Mango,21/07/2026,33752.69,1,18781.15,179.72%,Suspicious
 Angel Salazar,21/07/2026,35169.40,0,0.00,0.00%,Normal
 Angelo Ramos,21/07/2026,0.00,1,31245.52,0.00%,Normal
 Camille Del Rosario,21/07/2026,0.00,1,7047.54,0.00%,Normal
@@ -5331,6 +5202,7 @@ Paolo Ocampo,21/07/2026,0.00,1,6336.15,0.00%,Normal
 Ramon Andrada,21/07/2026,23264.22,0,0.00,0.00%,Normal
 Rhea Ramos,21/07/2026,0.00,1,5372.22,0.00%,Normal
 Samantha Torres,21/07/2026,47456.84,0,0.00,0.00%,Normal
+Dodong Bina,22/07/2026,255634.12,1,278044.51,91.94%,Suspicious
 Amoy Liu,22/07/2026,12657.40,0,0.00,0.00%,Normal
 Ana Ocampo,22/07/2026,0.00,1,26216.56,0.00%,Normal
 Angelo Ramos,22/07/2026,0.00,1,17157.42,0.00%,Normal
@@ -5352,6 +5224,8 @@ Paul Navarro,22/07/2026,0.00,1,24138.85,0.00%,Normal
 Ramon Andrada,22/07/2026,2484.65,0,0.00,0.00%,Normal
 Ramon Garcia,22/07/2026,0.00,2,13926.76,0.00%,Normal
 Samantha Tomas,22/07/2026,0.00,1,21397.13,0.00%,Normal
+Dodong Bina,23/07/2026,23556.28,1,12097.09,194.73%,Suspicious
+Paolo Ocampo,23/07/2026,35126.55,1,27657.82,127.00%,Suspicious
 Ana Villanueva,23/07/2026,18630.41,0,0.00,0.00%,Normal
 Angel Flores,23/07/2026,0.00,1,19104.13,0.00%,Normal
 Angelo Ramos,23/07/2026,0.00,1,28791.12,0.00%,Normal
@@ -5392,6 +5266,7 @@ Ramon Garcia,24/07/2026,0.00,1,11544.30,0.00%,Normal
 Ramon Reyes,24/07/2026,9117.37,0,0.00,0.00%,Normal
 Ramon Tomas,24/07/2026,29223.57,0,0.00,0.00%,Normal
 Samantha Castillo,24/07/2026,0.00,1,2027.04,0.00%,Normal
+Fernan Amuy,25/07/2026,19897.25,1,18111.16,109.86%,Suspicious
 Amoy Liu,25/07/2026,30022.63,0,0.00,0.00%,Normal
 Angel Salazar,25/07/2026,19401.61,2,39966.54,48.54%,Normal
 Angelo Valenzuela,25/07/2026,0.00,1,11532.09,0.00%,Normal
@@ -5410,6 +5285,7 @@ Ramon Andrada,25/07/2026,6737.56,0,0.00,0.00%,Normal
 Ramon Castillo,25/07/2026,0.00,1,18309.43,0.00%,Normal
 Ramon Reyes,25/07/2026,24039.32,0,0.00,0.00%,Normal
 Samantha Tomas,25/07/2026,39875.59,0,0.00,0.00%,Normal
+Jose Torres,26/07/2026,55558.97,1,32149.44,172.81%,Suspicious
 Ana Cruz,26/07/2026,0.00,1,32775.56,0.00%,Normal
 Angel Flores,26/07/2026,9163.69,0,0.00,0.00%,Normal
 Bea Bautista,26/07/2026,0.00,1,28452.00,0.00%,Normal
@@ -5432,6 +5308,7 @@ Patricia Reyes,26/07/2026,0.00,1,3171.73,0.00%,Normal
 Paul Navarro,26/07/2026,0.00,1,2613.16,0.00%,Normal
 Ramon Andrada,26/07/2026,0.00,1,30449.87,0.00%,Normal
 Ramon Tomas,26/07/2026,35828.41,0,0.00,0.00%,Normal
+Christian Tomas,27/07/2026,35488.72,1,34630.17,102.48%,Suspicious
 Angel Salazar,27/07/2026,0.00,1,26119.06,0.00%,Normal
 Angelo Ramos,27/07/2026,34400.27,0,0.00,0.00%,Normal
 Angelo Valenzuela,27/07/2026,0.00,1,2343.47,0.00%,Normal
@@ -5469,6 +5346,7 @@ Paolo Ocampo,28/07/2026,0.00,1,20998.66,0.00%,Normal
 Patricia Salazar,28/07/2026,2965.22,0,0.00,0.00%,Normal
 Ramon Reyes,28/07/2026,0.00,1,23386.01,0.00%,Normal
 Xiaomi Ocho,28/07/2026,6962.73,0,0.00,0.00%,Normal
+Gabriel Mercado,29/07/2026,34069.79,1,30935.77,110.13%,Suspicious
 Bea Bautista,29/07/2026,0.00,1,22754.07,0.00%,Normal
 Christian Bautista,29/07/2026,20274.63,0,0.00,0.00%,Normal
 Dodong Darong,29/07/2026,0.00,1,10457.34,0.00%,Normal
@@ -5488,6 +5366,8 @@ Ramon Reyes,29/07/2026,0.00,1,25382.46,0.00%,Normal
 Rhea Ramos,29/07/2026,0.00,1,34535.32,0.00%,Normal
 Samantha Navarro,29/07/2026,0.00,1,18127.39,0.00%,Normal
 Xiaomi Ocho,29/07/2026,3087.45,0,0.00,0.00%,Normal
+Dodong Bunal,30/07/2026,25193.54,1,13457.94,187.20%,Suspicious
+Jasmine Castillo,30/07/2026,25219.48,1,26724.37,94.37%,Suspicious
 Dodong Darong,30/07/2026,16429.44,0,0.00,0.00%,Normal
 Francis Garcia,30/07/2026,6044.64,0,0.00,0.00%,Normal
 Gabriel Andrada,30/07/2026,26139.34,0,0.00,0.00%,Normal
@@ -5509,6 +5389,8 @@ Paul Castro,30/07/2026,18672.79,0,0.00,0.00%,Normal
 Paul Ocampo,30/07/2026,33254.20,0,0.00,0.00%,Normal
 Ramon Del Rosario,30/07/2026,1993.48,0,0.00,0.00%,Normal
 Ramon Reyes,30/07/2026,6155.86,0,0.00,0.00%,Normal
+Jose Salazar,31/07/2026,28852.47,1,26995.62,106.88%,Suspicious
+Joug de Asim,31/07/2026,586386.28,1,799725.69,73.32%,Suspicious
 Ana Villanueva,31/07/2026,0.00,1,29154.11,0.00%,Normal
 Angel Salazar,31/07/2026,0.00,1,30702.65,0.00%,Normal
 Bea Bautista,31/07/2026,0.00,1,6934.66,0.00%,Normal
@@ -5560,6 +5442,7 @@ Patricia Reyes,01/08/2026,0.00,1,22566.38,0.00%,Normal
 Ramon Andrada,01/08/2026,11337.87,0,0.00,0.00%,Normal
 Ramon Del Rosario,01/08/2026,0.00,1,23256.43,0.00%,Normal
 Samantha Torres,01/08/2026,0.00,1,18559.85,0.00%,Normal
+Bea Ramos,02/08/2026,12034.04,1,10299.92,116.84%,Suspicious
 Ana Villanueva,02/08/2026,2716.54,0,0.00,0.00%,Normal
 Angelo Ramos,02/08/2026,0.00,1,11216.34,0.00%,Normal
 Bea Andrada,02/08/2026,4928.37,0,0.00,0.00%,Normal
@@ -5599,6 +5482,7 @@ Jose Villanueva,03/08/2026,0.00,1,8376.62,0.00%,Normal
 Juan Navarro,03/08/2026,0.00,1,11702.41,0.00%,Normal
 Nicole Castro,03/08/2026,16293.57,0,0.00,0.00%,Normal
 Paul Navarro,03/08/2026,15875.63,0,0.00,0.00%,Normal
+Bea Andrada,04/08/2026,13640.53,1,3376.00,404.04%,Suspicious
 Angel Flores,04/08/2026,0.00,1,34792.78,0.00%,Normal
 Angel Salazar,04/08/2026,38751.75,0,0.00,0.00%,Normal
 Angelo Valenzuela,04/08/2026,0.00,1,21174.59,0.00%,Normal
@@ -5617,6 +5501,7 @@ Mary Grace Piattos,04/08/2026,0.00,1,30061.08,0.00%,Normal
 Paolo Aquino,04/08/2026,0.00,1,17329.92,0.00%,Normal
 Ramon Andrada,04/08/2026,1461.82,0,0.00,0.00%,Normal
 Rhea Ramos,04/08/2026,0.00,1,15430.28,0.00%,Normal
+Gabriel Mercado,05/08/2026,27847.50,1,29113.56,95.65%,Suspicious
 Angel Flores,05/08/2026,0.00,1,5542.15,0.00%,Normal
 Angelo Ramos,05/08/2026,0.00,1,16018.36,0.00%,Normal
 Bea Andrada,05/08/2026,11501.49,0,0.00,0.00%,Normal
@@ -5642,6 +5527,7 @@ Nicole Torres,05/08/2026,4611.16,0,0.00,0.00%,Normal
 Paul Navarro,05/08/2026,23999.85,0,0.00,0.00%,Normal
 Ralph Josh Bacon,05/08/2026,0.00,1,2002.40,0.00%,Normal
 Ramon Reyes,05/08/2026,0.00,1,12040.62,0.00%,Normal
+Bea Tomas,06/08/2026,32078.17,1,27330.61,117.37%,Suspicious
 Angel Salazar,06/08/2026,0.00,1,18252.03,0.00%,Normal
 Dodong Bunal,06/08/2026,0.00,1,19306.17,0.00%,Normal
 Gabriel Bautista,06/08/2026,0.00,1,34717.64,0.00%,Normal
@@ -5689,6 +5575,9 @@ Mico Harina,08/08/2026,6064.30,0,0.00,0.00%,Normal
 Ramon Andrada,08/08/2026,0.00,1,27943.36,0.00%,Normal
 Ramon Castillo,08/08/2026,4544.91,0,0.00,0.00%,Normal
 Xiaomi Ocho,08/08/2026,0.00,1,29356.79,0.00%,Normal
+Bea Bautista,09/08/2026,39477.89,1,34544.52,114.28%,Suspicious
+Nicole Salazar,09/08/2026,35453.40,1,30879.48,114.81%,Suspicious
+Nicole Torres,09/08/2026,35741.99,1,33252.17,107.49%,Suspicious
 Camille Del Rosario,09/08/2026,0.00,1,29442.14,0.00%,Normal
 Christian Mendoza,09/08/2026,0.00,1,9771.40,0.00%,Normal
 Dodong Alcala,09/08/2026,0.00,1,26190.29,0.00%,Normal
@@ -5745,6 +5634,8 @@ Ramon Castillo,10/08/2026,31834.51,0,0.00,0.00%,Normal
 Samantha Castillo,10/08/2026,0.00,1,20229.75,0.00%,Normal
 Samantha Torres,10/08/2026,0.00,1,32767.22,0.00%,Normal
 Xiaomi Ocho,10/08/2026,25631.17,1,34535.18,74.22%,Normal
+Camille Tomas,11/08/2026,36687.53,1,10134.87,361.99%,Suspicious
+Gabriel Flores,11/08/2026,30994.31,1,31345.91,98.88%,Suspicious
 Angelo Valenzuela,11/08/2026,0.00,1,21833.06,0.00%,Normal
 Bea Andrada,11/08/2026,3469.65,0,0.00,0.00%,Normal
 Camille Del Rosario,11/08/2026,0.00,1,11033.53,0.00%,Normal
@@ -5760,6 +5651,8 @@ Liza Flores,11/08/2026,0.00,1,21879.74,0.00%,Normal
 Mark Domingo,11/08/2026,22491.72,0,0.00,0.00%,Normal
 Paolo Aquino,11/08/2026,0.00,1,8668.30,0.00%,Normal
 Samantha Torres,11/08/2026,0.00,1,25708.13,0.00%,Normal
+Grace Reyes,12/08/2026,33330.12,1,7904.69,421.65%,Suspicious
+Patricia Reyes,12/08/2026,19353.82,1,7700.89,251.32%,Suspicious
 Bea Andrada,12/08/2026,0.00,1,20705.67,0.00%,Normal
 Bea Ramos,12/08/2026,1241.14,1,7293.79,17.02%,Normal
 Bea Torres,12/08/2026,0.00,1,1825.38,0.00%,Normal
@@ -5778,6 +5671,8 @@ Liza Navarro,12/08/2026,0.00,1,20047.36,0.00%,Normal
 Patricia Salazar,12/08/2026,0.00,1,8181.35,0.00%,Normal
 Paul Ocampo,12/08/2026,0.00,1,8137.15,0.00%,Normal
 Samantha Navarro,12/08/2026,0.00,1,11651.17,0.00%,Normal
+Francis Rivera,13/08/2026,21525.09,1,8025.07,268.22%,Suspicious
+Jerome Domingo,13/08/2026,51713.13,1,34026.32,151.98%,Suspicious
 Amoy Liu,13/08/2026,0.00,1,34295.46,0.00%,Normal
 Bea Bautista,13/08/2026,26543.42,0,0.00,0.00%,Normal
 Dodong Bina,13/08/2026,0.00,1,13942.05,0.00%,Normal
@@ -5791,6 +5686,8 @@ Jose Villanueva,13/08/2026,12362.65,0,0.00,0.00%,Normal
 Liza Flores,13/08/2026,0.00,1,14739.95,0.00%,Normal
 Mico Harina,13/08/2026,2479.86,0,0.00,0.00%,Normal
 Nicole Salazar,13/08/2026,0.00,1,10153.97,0.00%,Normal
+Amoy Liu,14/08/2026,21160.19,1,17656.11,119.85%,Suspicious
+Dodong S. Barok,14/08/2026,15450.32,1,16241.22,95.13%,Suspicious
 Angel Mendoza,14/08/2026,0.00,1,13940.64,0.00%,Normal
 Angelo Ramos,14/08/2026,34753.96,0,0.00,0.00%,Normal
 Carlos Mendoza,14/08/2026,39217.05,0,0.00,0.00%,Normal
@@ -5853,6 +5750,8 @@ Patricia Mercado,16/08/2026,15055.84,1,21576.67,69.78%,Normal
 Patricia Reyes,16/08/2026,0.00,1,14712.74,0.00%,Normal
 Ralph Josh Bacon,16/08/2026,1868.65,0,0.00,0.00%,Normal
 Ramon Andrada,16/08/2026,11435.02,0,0.00,0.00%,Normal
+Dodong Darong,17/08/2026,226549.54,1,235620.95,96.15%,Suspicious
+Samantha Tomas,17/08/2026,39326.78,1,33696.16,116.71%,Suspicious
 Amoy Liu,17/08/2026,0.00,1,33288.61,0.00%,Normal
 Angel Flores,17/08/2026,0.00,1,29857.55,0.00%,Normal
 Bea Andrada,17/08/2026,0.00,2,19460.60,0.00%,Normal
@@ -5872,6 +5771,7 @@ Paolo Aquino,17/08/2026,0.00,1,17666.53,0.00%,Normal
 Paolo Ocampo,17/08/2026,12435.08,0,0.00,0.00%,Normal
 Paul Ocampo,17/08/2026,0.00,1,32879.12,0.00%,Normal
 Samantha Torres,17/08/2026,0.00,1,20151.74,0.00%,Normal
+Carlos Mendoza,18/08/2026,31097.53,1,21726.21,143.13%,Suspicious
 Angel Salazar,18/08/2026,23176.95,0,0.00,0.00%,Normal
 Bea Andrada,18/08/2026,16139.42,0,0.00,0.00%,Normal
 Camille Del Rosario,18/08/2026,10737.93,0,0.00,0.00%,Normal
@@ -5930,6 +5830,7 @@ Jay Kamote,20/08/2026,0.00,1,28719.80,0.00%,Normal
 Mico Harina,20/08/2026,0.00,1,34780.60,0.00%,Normal
 Patricia Mercado,20/08/2026,4892.35,0,0.00,0.00%,Normal
 Ramon Andrada,20/08/2026,0.00,1,26472.95,0.00%,Normal
+Ramon Del Rosario,21/08/2026,24067.14,1,8979.69,268.02%,Suspicious
 Angel Flores,21/08/2026,2706.69,1,30012.62,9.02%,Normal
 Camille Tomas,21/08/2026,28311.15,0,0.00,0.00%,Normal
 Carlos Bautista,21/08/2026,0.00,1,3327.03,0.00%,Normal
@@ -5973,6 +5874,8 @@ Paul Ocampo,22/08/2026,0.00,1,9138.22,0.00%,Normal
 Ramon Andrada,22/08/2026,17388.57,0,0.00,0.00%,Normal
 Samantha Castillo,22/08/2026,23768.16,0,0.00,0.00%,Normal
 Samantha Torres,22/08/2026,2684.64,0,0.00,0.00%,Normal
+Nicole Castro,23/08/2026,17553.62,1,2794.99,628.04%,Suspicious
+Patricia Mercado,23/08/2026,11807.59,1,10654.60,110.82%,Suspicious
 Amoy Liu,23/08/2026,47838.43,0,0.00,0.00%,Normal
 Angelo Valenzuela,23/08/2026,10769.30,0,0.00,0.00%,Normal
 Bea Torres,23/08/2026,0.00,2,28884.91,0.00%,Normal
@@ -6050,6 +5953,7 @@ Paolo Aquino,26/08/2026,0.00,1,12339.88,0.00%,Normal
 Patricia Salazar,26/08/2026,0.00,1,15848.99,0.00%,Normal
 Ramon Andrada,26/08/2026,0.00,1,29602.93,0.00%,Normal
 Samantha Torres,26/08/2026,0.00,1,20039.06,0.00%,Normal
+Ana Villanueva,27/08/2026,9575.78,1,2583.11,370.71%,Suspicious
 Angel Flores,27/08/2026,0.00,2,24879.24,0.00%,Normal
 Angelo Valenzuela,27/08/2026,0.00,2,47851.45,0.00%,Normal
 Bea Torres,27/08/2026,0.00,1,30024.00,0.00%,Normal
@@ -6112,6 +6016,8 @@ Patricia Reyes,29/08/2026,0.00,1,17559.98,0.00%,Normal
 Patricia Salazar,29/08/2026,0.00,1,19769.70,0.00%,Normal
 Paul Ocampo,29/08/2026,0.00,1,2976.58,0.00%,Normal
 Ramon Del Rosario,29/08/2026,0.00,1,18375.21,0.00%,Normal
+Fernan Amuy,30/08/2026,283999.89,1,304688.22,93.21%,Suspicious
+Jasmine Santos,30/08/2026,38977.21,1,12328.17,316.16%,Suspicious
 Ana Cruz,30/08/2026,14807.92,0,0.00,0.00%,Normal
 Angel Mendoza,30/08/2026,0.00,1,31550.43,0.00%,Normal
 Angelo Ramos,30/08/2026,0.00,1,2039.15,0.00%,Normal
@@ -6159,6 +6065,7 @@ Ramon Del Rosario,31/08/2026,24378.31,0,0.00,0.00%,Normal
 Ramon Garcia,31/08/2026,0.00,1,31266.97,0.00%,Normal
 Ramon Reyes,31/08/2026,0.00,2,12984.29,0.00%,Normal
 Samantha Torres,31/08/2026,0.00,2,67649.41,0.00%,Normal
+Mico Harina,01/09/2026,37800.64,1,26554.62,142.35%,Suspicious
 Ana Cruz,01/09/2026,34408.01,0,0.00,0.00%,Normal
 Ana Villanueva,01/09/2026,0.00,1,19463.04,0.00%,Normal
 Angel Flores,01/09/2026,16951.55,0,0.00,0.00%,Normal
@@ -6201,6 +6108,8 @@ Paul Castro,02/09/2026,32261.46,0,0.00,0.00%,Normal
 Ramon Andrada,02/09/2026,39152.47,0,0.00,0.00%,Normal
 Ramon Tomas,02/09/2026,31725.83,0,0.00,0.00%,Normal
 Samantha Castillo,02/09/2026,0.00,1,15085.70,0.00%,Normal
+Gabriel Garcia,03/09/2026,20935.27,1,2011.94,1040.55%,Suspicious
+Paul Ocampo,03/09/2026,13992.87,1,12577.41,111.25%,Suspicious
 Ana Ocampo,03/09/2026,0.00,1,28433.37,0.00%,Normal
 Ana Villanueva,03/09/2026,12922.15,0,0.00,0.00%,Normal
 Bea Andrada,03/09/2026,0.00,1,26873.89,0.00%,Normal
@@ -6225,6 +6134,7 @@ Ramon Del Rosario,03/09/2026,0.00,1,33044.30,0.00%,Normal
 Ramon Reyes,03/09/2026,0.00,1,5798.97,0.00%,Normal
 Rhea Ramos,03/09/2026,0.00,1,22799.29,0.00%,Normal
 Samantha Castillo,03/09/2026,0.00,2,27429.12,0.00%,Normal
+Paolo Aquino,04/09/2026,32509.42,1,19698.31,165.04%,Suspicious
 Ana Villanueva,04/09/2026,28652.10,0,0.00,0.00%,Normal
 Angelo Ramos,04/09/2026,0.00,1,33657.69,0.00%,Normal
 Bea Andrada,04/09/2026,29552.31,0,0.00,0.00%,Normal
@@ -6240,6 +6150,7 @@ Nicole Salazar,04/09/2026,11504.80,0,0.00,0.00%,Normal
 Paul Navarro,04/09/2026,0.00,1,33495.57,0.00%,Normal
 Ramon Andrada,04/09/2026,1745.52,0,0.00,0.00%,Normal
 Ramon Garcia,04/09/2026,0.00,1,25931.69,0.00%,Normal
+Bea Ramos,05/09/2026,37304.69,1,29974.05,124.46%,Suspicious
 Bea Andrada,05/09/2026,9711.48,0,0.00,0.00%,Normal
 Bea Tomas,05/09/2026,13705.33,0,0.00,0.00%,Normal
 Camille Tomas,05/09/2026,0.00,1,5788.11,0.00%,Normal
@@ -6290,6 +6201,7 @@ Joug de Asim,06/09/2026,0.00,1,28316.86,0.00%,Normal
 Miggy Mango,06/09/2026,0.00,1,24671.62,0.00%,Normal
 Paul Ocampo,06/09/2026,0.00,1,17735.80,0.00%,Normal
 Rhea Ramos,06/09/2026,0.00,1,29951.49,0.00%,Normal
+Dodong S. Barok,07/09/2026,270299.37,1,285728.72,94.60%,Suspicious
 Ana Villanueva,07/09/2026,0.00,1,20174.58,0.00%,Normal
 Angelo Valenzuela,07/09/2026,0.00,1,34476.35,0.00%,Normal
 Camille Tomas,07/09/2026,16507.63,0,0.00,0.00%,Normal
@@ -6312,6 +6224,7 @@ Paul Navarro,07/09/2026,0.00,1,1305.62,0.00%,Normal
 Ralph Josh Bacon,07/09/2026,0.00,1,14022.52,0.00%,Normal
 Ramon Andrada,07/09/2026,10116.44,0,0.00,0.00%,Normal
 Samantha Torres,07/09/2026,0.00,1,12651.53,0.00%,Normal
+John Tomas,08/09/2026,21800.03,1,4276.28,509.79%,Suspicious
 Bea Tomas,08/09/2026,0.00,1,26479.05,0.00%,Normal
 Carlos Mendoza,08/09/2026,0.00,2,18142.42,0.00%,Normal
 Christian Mendoza,08/09/2026,20708.03,0,0.00,0.00%,Normal
@@ -6330,6 +6243,8 @@ Ramon Andrada,08/09/2026,25956.81,0,0.00,0.00%,Normal
 Ramon Castillo,08/09/2026,0.00,1,22719.53,0.00%,Normal
 Ramon Reyes,08/09/2026,57928.44,0,0.00,0.00%,Normal
 Ramon Tomas,08/09/2026,35709.74,0,0.00,0.00%,Normal
+Amoy Liu,09/09/2026,586563.93,1,790946.23,74.16%,Suspicious
+Grace Torres,09/09/2026,28195.23,1,30065.65,93.78%,Suspicious
 Bea Torres,09/09/2026,0.00,1,8771.73,0.00%,Normal
 Christian Bautista,09/09/2026,0.00,1,22180.68,0.00%,Normal
 Dodong Alcala,09/09/2026,0.00,2,56582.33,0.00%,Normal
@@ -6351,6 +6266,8 @@ Juan Valenzuela,09/09/2026,0.00,1,1776.34,0.00%,Normal
 Mark Torres,09/09/2026,0.00,1,9138.53,0.00%,Normal
 Mico Harina,09/09/2026,6799.58,0,0.00,0.00%,Normal
 Ramon Andrada,09/09/2026,0.00,1,3302.56,0.00%,Normal
+Dodong Bunal,10/09/2026,583908.50,1,639449.61,91.31%,Suspicious
+Mary Grace Piattos,10/09/2026,39003.55,1,17681.94,220.58%,Suspicious
 Ana Ocampo,10/09/2026,0.00,1,25804.13,0.00%,Normal
 Ana Villanueva,10/09/2026,0.00,1,31481.88,0.00%,Normal
 Bea Bautista,10/09/2026,0.00,1,15778.84,0.00%,Normal
@@ -6398,6 +6315,7 @@ Ramon Andrada,11/09/2026,1129.69,0,0.00,0.00%,Normal
 Rhea Ramos,11/09/2026,38715.74,0,0.00,0.00%,Normal
 Samantha Castillo,11/09/2026,24944.68,0,0.00,0.00%,Normal
 Samantha Torres,11/09/2026,4885.72,0,0.00,0.00%,Normal
+Dodong Alcala,12/09/2026,34955.48,1,29430.91,118.77%,Suspicious
 Amoy Liu,12/09/2026,0.00,1,5753.72,0.00%,Normal
 Angel Flores,12/09/2026,0.00,1,18933.30,0.00%,Normal
 Angel Salazar,12/09/2026,16330.98,0,0.00,0.00%,Normal
@@ -6438,6 +6356,7 @@ Patricia Salazar,13/09/2026,9851.62,0,0.00,0.00%,Normal
 Ramon Del Rosario,13/09/2026,10423.10,0,0.00,0.00%,Normal
 Rhea Ramos,13/09/2026,0.00,1,12809.47,0.00%,Normal
 Samantha Torres,13/09/2026,0.00,1,34224.08,0.00%,Normal
+Mary Grace Piattos,14/09/2026,39579.67,1,32560.24,121.56%,Suspicious
 Ana Cruz,14/09/2026,0.00,1,2784.05,0.00%,Normal
 Angelo Ramos,14/09/2026,0.00,1,6559.46,0.00%,Normal
 Bea Bautista,14/09/2026,18399.33,0,0.00,0.00%,Normal
@@ -6462,6 +6381,9 @@ Mark Torres,14/09/2026,3419.10,0,0.00,0.00%,Normal
 Rhea Ramos,14/09/2026,20691.46,0,0.00,0.00%,Normal
 Samantha Tomas,14/09/2026,0.00,1,11706.76,0.00%,Normal
 Xiaomi Ocho,14/09/2026,28517.50,0,0.00,0.00%,Normal
+John Cruz,15/09/2026,38617.47,1,11821.43,326.67%,Suspicious
+Mark Domingo,15/09/2026,8095.36,1,5449.10,148.56%,Suspicious
+Samantha Torres,15/09/2026,17811.32,1,6114.27,291.31%,Suspicious
 Angel Salazar,15/09/2026,4124.43,1,12590.46,32.76%,Normal
 Angelo Ramos,15/09/2026,11760.24,0,0.00,0.00%,Normal
 Bea Andrada,15/09/2026,0.00,1,29487.05,0.00%,Normal
@@ -6511,6 +6433,7 @@ Ramon Tomas,16/09/2026,16552.10,0,0.00,0.00%,Normal
 Samantha Castillo,16/09/2026,18342.07,0,0.00,0.00%,Normal
 Samantha Navarro,16/09/2026,0.00,1,8815.26,0.00%,Normal
 Samantha Torres,16/09/2026,10798.41,0,0.00,0.00%,Normal
+Gabriel Garcia,17/09/2026,28668.65,1,12701.35,225.71%,Suspicious
 Ana Villanueva,17/09/2026,0.00,1,34126.99,0.00%,Normal
 Angel Mendoza,17/09/2026,982.21,1,1195.52,82.16%,Normal
 Bea Tomas,17/09/2026,30446.56,0,0.00,0.00%,Normal
@@ -6576,6 +6499,8 @@ Paul Navarro,19/09/2026,7019.77,0,0.00,0.00%,Normal
 Ramon Castillo,19/09/2026,0.00,1,11137.55,0.00%,Normal
 Rhea Ramos,19/09/2026,25328.96,0,0.00,0.00%,Normal
 Samantha Castillo,19/09/2026,0.00,1,2849.57,0.00%,Normal
+Grace Castro,20/09/2026,30174.61,1,20782.37,145.19%,Suspicious
+Ramon Castillo,20/09/2026,20488.26,1,5580.23,367.16%,Suspicious
 Ana Villanueva,20/09/2026,0.00,1,3584.62,0.00%,Normal
 Angel Flores,20/09/2026,20380.17,0,0.00,0.00%,Normal
 Bea Ramos,20/09/2026,15941.43,0,0.00,0.00%,Normal
@@ -6601,6 +6526,8 @@ Ramon Garcia,20/09/2026,24953.45,0,0.00,0.00%,Normal
 Rhea Ramos,20/09/2026,0.00,1,12426.15,0.00%,Normal
 Samantha Castillo,20/09/2026,1210.96,0,0.00,0.00%,Normal
 Samantha Tomas,20/09/2026,0.00,1,2283.03,0.00%,Normal
+Dodong Bina,21/09/2026,31799.20,1,18079.15,175.89%,Suspicious
+Ramon Andrada,21/09/2026,11120.14,1,1700.40,653.97%,Suspicious
 Ana Cruz,21/09/2026,0.00,1,5039.29,0.00%,Normal
 Angel Salazar,21/09/2026,0.00,1,10287.67,0.00%,Normal
 Angelo Ramos,21/09/2026,27268.96,0,0.00,0.00%,Normal
@@ -6624,6 +6551,7 @@ Patricia Reyes,21/09/2026,15722.51,0,0.00,0.00%,Normal
 Samantha Navarro,21/09/2026,0.00,1,16882.52,0.00%,Normal
 Samantha Tomas,21/09/2026,4130.25,1,31247.26,13.22%,Normal
 Xiaomi Ocho,21/09/2026,2747.17,1,7878.43,34.87%,Normal
+Bea Torres,22/09/2026,23118.06,1,18697.27,123.64%,Suspicious
 Ana Cruz,22/09/2026,38204.94,0,0.00,0.00%,Normal
 Ana Villanueva,22/09/2026,16169.77,0,0.00,0.00%,Normal
 Angelo Valenzuela,22/09/2026,5481.33,1,20981.23,26.12%,Normal
@@ -6640,6 +6568,9 @@ Liza Flores,22/09/2026,0.00,1,5358.88,0.00%,Normal
 Mark Domingo,22/09/2026,0.00,1,15236.96,0.00%,Normal
 Paul Navarro,22/09/2026,38508.49,0,0.00,0.00%,Normal
 Ramon Reyes,22/09/2026,0.00,1,31644.27,0.00%,Normal
+Angel Flores,23/09/2026,36806.43,1,33240.23,110.73%,Suspicious
+Jay Kamote,23/09/2026,608547.54,1,721542.40,84.34%,Suspicious
+John Tomas,23/09/2026,26569.40,1,16337.46,162.63%,Suspicious
 Ana Cruz,23/09/2026,39650.98,0,0.00,0.00%,Normal
 Angel Mendoza,23/09/2026,32894.79,0,0.00,0.00%,Normal
 Bea Bautista,23/09/2026,17053.12,0,0.00,0.00%,Normal
@@ -6709,6 +6640,8 @@ Patricia Salazar,25/09/2026,3584.24,0,0.00,0.00%,Normal
 Paul Castro,25/09/2026,0.00,1,6553.62,0.00%,Normal
 Paul Navarro,25/09/2026,0.00,1,32467.11,0.00%,Normal
 Ramon Reyes,25/09/2026,7697.68,2,16239.62,47.40%,Normal
+Jasmine Santos,26/09/2026,39165.32,1,1314.78,2978.85%,Suspicious
+John Flores,26/09/2026,20118.73,1,6554.98,306.92%,Suspicious
 Ana Ocampo,26/09/2026,0.00,1,27063.83,0.00%,Normal
 Angel Mendoza,26/09/2026,0.00,1,20655.15,0.00%,Normal
 Angelo Valenzuela,26/09/2026,27665.17,0,0.00,0.00%,Normal
@@ -6731,6 +6664,7 @@ Nicole Torres,26/09/2026,24369.77,0,0.00,0.00%,Normal
 Patricia Reyes,26/09/2026,8477.60,0,0.00,0.00%,Normal
 Paul Ocampo,26/09/2026,0.00,1,21389.87,0.00%,Normal
 Samantha Tomas,26/09/2026,0.00,1,29073.98,0.00%,Normal
+Angelo Valenzuela,27/09/2026,23713.00,1,14935.94,158.76%,Suspicious
 Amoy Liu,27/09/2026,26503.04,0,0.00,0.00%,Normal
 Bea Bautista,27/09/2026,0.00,1,17013.67,0.00%,Normal
 Christian Tomas,27/09/2026,6139.79,0,0.00,0.00%,Normal
@@ -6770,6 +6704,7 @@ Liza Flores,28/09/2026,0.00,1,25548.24,0.00%,Normal
 Paul Castro,28/09/2026,0.00,1,22415.32,0.00%,Normal
 Ramon Reyes,28/09/2026,19456.80,3,58284.54,33.38%,Normal
 Samantha Tomas,28/09/2026,23263.21,0,0.00,0.00%,Normal
+Carlos Bautista,29/09/2026,27228.01,1,10075.19,270.25%,Suspicious
 Amoy Liu,29/09/2026,0.00,1,13202.06,0.00%,Normal
 Angel Mendoza,29/09/2026,24638.05,0,0.00,0.00%,Normal
 Bea Tomas,29/09/2026,38250.94,0,0.00,0.00%,Normal
@@ -6802,66 +6737,697 @@ Nicole Bautista,30/09/2026,13391.14,0,0.00,0.00%,Normal
 Nicole Castro,30/09/2026,14862.88,0,0.00,0.00%,Normal
 Paolo Aquino,30/09/2026,38134.56,0,0.00,0.00%,Normal
 Ramon Reyes,30/09/2026,0.00,1,29278.90,0.00%,Normal
-Amoy Liu,01/10/2026,82056.51,9,184241.60,44.54%,Normal
-Ana Villanueva,01/10/2026,78422.84,6,96161.56,81.55%,Normal
-Angel Flores,01/10/2026,47298.72,5,55750.25,84.84%,Normal
-Angel Salazar,01/10/2026,19373.10,4,69733.24,27.78%,Normal
-Angelo Valenzuela,01/10/2026,37068.09,4,47068.16,78.75%,Normal
-Bea Andrada,01/10/2026,91590.68,8,152834.86,59.93%,Normal
-Bea Bautista,01/10/2026,34207.42,4,65704.64,52.06%,Normal
-Bea Ramos,01/10/2026,63107.09,6,116027.32,54.39%,Normal
-Bea Tomas,01/10/2026,23105.69,6,73576.35,31.40%,Normal
-Bea Torres,01/10/2026,67668.16,6,116449.09,58.11%,Normal
-Camille Tomas,01/10/2026,74373.85,6,106985.49,69.52%,Normal
-Dodong Alcala,01/10/2026,62614.00,6,118606.80,52.79%,Normal
-Dodong Bina,01/10/2026,57192.57,4,84407.35,67.76%,Normal
-Dodong Darong,01/10/2026,72819.22,5,128884.15,56.50%,Normal
-Dodong S. Barok,01/10/2026,101841.45,5,122247.50,83.31%,Normal
-Francis Bautista,01/10/2026,44627.74,2,54418.13,82.01%,Normal
-Francis Rivera,01/10/2026,23542.07,2,40114.92,58.69%,Normal
-Gabriel Andrada,01/10/2026,39188.72,7,166552.76,23.53%,Normal
-Gabriel Bautista,01/10/2026,24836.91,4,73117.76,33.97%,Normal
-Gabriel Garcia,01/10/2026,59467.05,5,78836.55,75.43%,Normal
-Gabriel Mercado,01/10/2026,42266.90,5,125295.34,33.73%,Normal
-Grace Castro,01/10/2026,30975.73,4,74933.53,41.34%,Normal
-Grace Torres,01/10/2026,57113.15,5,96611.36,59.12%,Normal
-Jasmine Castillo,01/10/2026,30065.85,4,100681.38,29.86%,Normal
-Jasmine Santos,01/10/2026,27899.73,2,43293.28,64.44%,Normal
-Jerome Tomas,01/10/2026,54050.98,6,112950.79,47.85%,Normal
-John Bautista,01/10/2026,22007.77,4,95421.90,23.06%,Normal
-John Cruz,01/10/2026,24056.88,5,65941.90,36.48%,Normal
-John Del Rosario,01/10/2026,24645.98,3,42805.57,57.58%,Normal
-John Flores,01/10/2026,69657.92,8,132811.41,52.45%,Normal
-Jose Mendoza,01/10/2026,0.00,5,83346.72,0.00%,Normal
-Jose Reyes,01/10/2026,10491.84,5,97492.34,10.76%,Normal
-Jose Salazar,01/10/2026,27835.19,7,112568.49,24.73%,Normal
-Jose Villanueva,01/10/2026,102692.49,5,120569.34,85.17%,Normal
-Joug de Asim,01/10/2026,67474.67,6,104708.10,64.44%,Normal
-Juan Navarro,01/10/2026,13472.65,4,80048.08,16.83%,Normal
-Juan Tomas,01/10/2026,31592.35,4,67164.21,47.04%,Normal
-Liza Flores,01/10/2026,88613.56,5,108256.40,81.86%,Normal
-Mark Domingo,01/10/2026,80575.46,7,157122.71,51.28%,Normal
-Mark Torres,01/10/2026,20751.53,4,58178.40,35.67%,Normal
-Mary Grace Piattos,01/10/2026,39402.95,0,0.00,0.00%,Normal
-Miggy Mango,01/10/2026,89335.51,7,104766.59,85.27%,Normal
-Nicole Bautista,01/10/2026,90871.06,7,165967.80,54.75%,Normal
-Nicole Castro,01/10/2026,33608.85,4,58460.33,57.49%,Normal
-Nicole Salazar,01/10/2026,78435.48,5,90375.75,86.79%,Normal
-Patricia Mercado,01/10/2026,20514.00,4,66435.82,30.88%,Normal
-Patricia Reyes,01/10/2026,67593.63,8,147507.84,45.82%,Normal
-Patricia Salazar,01/10/2026,47331.77,5,92216.68,51.33%,Normal
-Paul Navarro,01/10/2026,78491.31,6,95921.79,81.83%,Normal
-Paul Ocampo,01/10/2026,0.00,1,27507.63,0.00%,Normal
-Ralph Josh Bacon,01/10/2026,51026.46,3,59010.57,86.47%,Normal
-Ramon Andrada,01/10/2026,20900.29,3,47482.61,44.02%,Normal
-Ramon Castillo,01/10/2026,82182.50,0,0.00,0.00%,Normal
-Ramon Del Rosario,01/10/2026,4784.50,0,0.00,0.00%,Normal
-Ramon Garcia,01/10/2026,5655.16,5,81356.31,6.95%,Normal
-Ramon Tomas,01/10/2026,51646.91,5,91989.62,56.14%,Normal
-Rhea Ramos,01/10/2026,35723.34,5,71712.89,49.81%,Normal
-Samantha Castillo,01/10/2026,21090.39,3,58368.01,36.13%,Normal
-Samantha Torres,01/10/2026,29692.80,3,65913.80,45.05%,Normal
-Xiaomi Ocho,01/10/2026,53548.09,4,61777.14,86.68%,Normal
+Camille Tomas,01/10/2026,0.00,1,3957.17,0.00%,Normal
+Dodong Alcala,01/10/2026,35933.19,0,0.00,0.00%,Normal
+Dodong S. Barok,01/10/2026,24771.97,0,0.00,0.00%,Normal
+Grace Castro,01/10/2026,3543.13,0,0.00,0.00%,Normal
+Grace Navarro,01/10/2026,0.00,1,17985.30,0.00%,Normal
+Grace Reyes,01/10/2026,0.00,1,5994.06,0.00%,Normal
+John Bautista,01/10/2026,0.00,1,29865.04,0.00%,Normal
+John Tomas,01/10/2026,0.00,1,16551.21,0.00%,Normal
+Jose Mendoza,01/10/2026,0.00,1,15524.04,0.00%,Normal
+Juan Tomas,01/10/2026,0.00,1,17775.98,0.00%,Normal
+Nicole Bautista,01/10/2026,0.00,1,23586.24,0.00%,Normal
+Nicole Castro,01/10/2026,6753.79,0,0.00,0.00%,Normal
+Nicole Torres,01/10/2026,33902.81,0,0.00,0.00%,Normal
+Patricia Mercado,01/10/2026,0.00,1,32106.65,0.00%,Normal
+Ramon Reyes,01/10/2026,19563.92,0,0.00,0.00%,Normal
+Samantha Castillo,01/10/2026,0.00,1,6630.55,0.00%,Normal
+Samantha Tomas,01/10/2026,13708.39,0,0.00,0.00%,Normal
+Angel Flores,02/10/2026,9146.80,1,33336.48,27.44%,Normal
+Bea Tomas,02/10/2026,0.00,1,23490.34,0.00%,Normal
+Fernan Amuy,02/10/2026,3433.69,0,0.00,0.00%,Normal
+Francis Garcia,02/10/2026,26066.74,0,0.00,0.00%,Normal
+Gabriel Bautista,02/10/2026,2943.03,0,0.00,0.00%,Normal
+Grace Torres,02/10/2026,0.00,1,26321.66,0.00%,Normal
+Jasmine Reyes,02/10/2026,0.00,1,26085.37,0.00%,Normal
+Jerome Domingo,02/10/2026,28079.55,0,0.00,0.00%,Normal
+Jose Mendoza,02/10/2026,0.00,1,3481.86,0.00%,Normal
+Jose Salazar,02/10/2026,0.00,1,1826.48,0.00%,Normal
+Juan Cruz,02/10/2026,0.00,1,31095.94,0.00%,Normal
+Mico Harina,02/10/2026,0.00,1,21738.68,0.00%,Normal
+Nicole Bautista,02/10/2026,0.00,3,91345.40,0.00%,Normal
+Paul Castro,02/10/2026,0.00,1,13250.42,0.00%,Normal
+Jose Reyes,03/10/2026,3613.97,1,1978.58,182.65%,Suspicious
+Amoy Liu,03/10/2026,0.00,2,18980.19,0.00%,Normal
+Angel Salazar,03/10/2026,0.00,1,11486.26,0.00%,Normal
+Bea Tomas,03/10/2026,23105.69,0,0.00,0.00%,Normal
+Camille Tomas,03/10/2026,14661.01,0,0.00,0.00%,Normal
+Carlos Mendoza,03/10/2026,6609.51,0,0.00,0.00%,Normal
+Dodong S. Barok,03/10/2026,26852.27,0,0.00,0.00%,Normal
+Francis Garcia,03/10/2026,0.00,1,20498.54,0.00%,Normal
+Gabriel Andrada,03/10/2026,0.00,1,26119.70,0.00%,Normal
+Gabriel Bautista,03/10/2026,16277.90,0,0.00,0.00%,Normal
+Grace Reyes,03/10/2026,0.00,1,26301.79,0.00%,Normal
+Jasmine Reyes,03/10/2026,13922.98,0,0.00,0.00%,Normal
+Jerome Tomas,03/10/2026,0.00,1,17336.52,0.00%,Normal
+John Flores,03/10/2026,0.00,1,3365.60,0.00%,Normal
+Jose Villanueva,03/10/2026,0.00,1,32673.13,0.00%,Normal
+Juan Tomas,03/10/2026,0.00,1,19186.90,0.00%,Normal
+Patricia Reyes,03/10/2026,0.00,1,30572.69,0.00%,Normal
+Ralph Josh Bacon,03/10/2026,0.00,1,7113.74,0.00%,Normal
+Ramon Andrada,03/10/2026,15125.12,0,0.00,0.00%,Normal
+Ramon Garcia,03/10/2026,0.00,1,22936.33,0.00%,Normal
+Samantha Navarro,03/10/2026,0.00,1,4824.69,0.00%,Normal
+Amoy Liu,04/10/2026,0.00,1,28513.53,0.00%,Normal
+Ana Cruz,04/10/2026,34663.38,0,0.00,0.00%,Normal
+Angel Flores,04/10/2026,24400.79,0,0.00,0.00%,Normal
+Angel Mendoza,04/10/2026,22706.00,0,0.00,0.00%,Normal
+Camille Del Rosario,04/10/2026,0.00,1,23919.79,0.00%,Normal
+Carlos Bautista,04/10/2026,0.00,1,12490.73,0.00%,Normal
+Dodong Alcala,04/10/2026,0.00,1,23754.70,0.00%,Normal
+Dodong Bunal,04/10/2026,0.00,1,23557.53,0.00%,Normal
+Francis Bautista,04/10/2026,0.00,1,34282.19,0.00%,Normal
+Francis Rivera,04/10/2026,5812.15,0,0.00,0.00%,Normal
+Gabriel Flores,04/10/2026,0.00,1,15322.98,0.00%,Normal
+Gabriel Mercado,04/10/2026,0.00,2,56026.22,0.00%,Normal
+Grace Reyes,04/10/2026,36396.55,0,0.00,0.00%,Normal
+Grace Torres,04/10/2026,0.00,1,21621.74,0.00%,Normal
+Jasmine Valenzuela,04/10/2026,0.00,1,9934.11,0.00%,Normal
+Jay Kamote,04/10/2026,5339.76,0,0.00,0.00%,Normal
+Jerome Tomas,04/10/2026,19303.61,0,0.00,0.00%,Normal
+John Bautista,04/10/2026,22007.77,0,0.00,0.00%,Normal
+Jose Villanueva,04/10/2026,0.00,1,8242.40,0.00%,Normal
+Joug de Asim,04/10/2026,12518.20,0,0.00,0.00%,Normal
+Juan Cruz,04/10/2026,28682.58,0,0.00,0.00%,Normal
+Juan Navarro,04/10/2026,0.00,1,14400.18,0.00%,Normal
+Liza Navarro,04/10/2026,23001.88,0,0.00,0.00%,Normal
+Mark Torres,04/10/2026,2610.19,0,0.00,0.00%,Normal
+Mico Harina,04/10/2026,7355.65,0,0.00,0.00%,Normal
+Paolo Ocampo,04/10/2026,28725.86,0,0.00,0.00%,Normal
+Patricia Reyes,04/10/2026,0.00,1,33967.98,0.00%,Normal
+Patricia Salazar,04/10/2026,24715.05,0,0.00,0.00%,Normal
+Ramon Andrada,04/10/2026,0.00,1,1407.56,0.00%,Normal
+Ramon Del Rosario,04/10/2026,4052.15,0,0.00,0.00%,Normal
+Samantha Tomas,04/10/2026,34856.57,0,0.00,0.00%,Normal
+Samantha Torres,04/10/2026,29692.80,0,0.00,0.00%,Normal
+Samantha Tomas,05/10/2026,37181.80,1,11362.64,327.23%,Suspicious
+Amoy Liu,05/10/2026,29372.72,0,0.00,0.00%,Normal
+Ana Cruz,05/10/2026,18082.17,0,0.00,0.00%,Normal
+Angel Flores,05/10/2026,0.00,1,11648.45,0.00%,Normal
+Angelo Ramos,05/10/2026,26071.18,1,30397.42,85.77%,Normal
+Bea Andrada,05/10/2026,0.00,1,12794.17,0.00%,Normal
+Bea Ramos,05/10/2026,0.00,1,6897.78,0.00%,Normal
+Bea Torres,05/10/2026,22360.83,0,0.00,0.00%,Normal
+Camille Del Rosario,05/10/2026,987.15,0,0.00,0.00%,Normal
+Dodong Darong,05/10/2026,0.00,1,28718.30,0.00%,Normal
+Dodong S. Barok,05/10/2026,0.00,1,25194.72,0.00%,Normal
+Francis Bautista,05/10/2026,0.00,1,20135.94,0.00%,Normal
+Francis Garcia,05/10/2026,0.00,1,31287.12,0.00%,Normal
+Gabriel Cruz,05/10/2026,15868.52,0,0.00,0.00%,Normal
+Gabriel Flores,05/10/2026,0.00,1,32896.87,0.00%,Normal
+Gabriel Garcia,05/10/2026,35563.16,0,0.00,0.00%,Normal
+Grace Torres,05/10/2026,14861.46,0,0.00,0.00%,Normal
+Jasmine Valenzuela,05/10/2026,20287.68,0,0.00,0.00%,Normal
+Jerome Tomas,05/10/2026,0.00,1,25920.55,0.00%,Normal
+John Cruz,05/10/2026,0.00,1,3351.55,0.00%,Normal
+Jose Reyes,05/10/2026,0.00,1,17276.35,0.00%,Normal
+Miggy Mango,05/10/2026,55676.53,0,0.00,0.00%,Normal
+Patricia Salazar,05/10/2026,0.00,1,16437.18,0.00%,Normal
+Paul Navarro,05/10/2026,0.00,1,13645.47,0.00%,Normal
+Francis Mercado,06/10/2026,36897.36,1,20515.81,179.85%,Suspicious
+Ana Cruz,06/10/2026,0.00,2,38586.35,0.00%,Normal
+Camille Tomas,06/10/2026,30495.62,0,0.00,0.00%,Normal
+Carlos Mendoza,06/10/2026,28401.52,0,0.00,0.00%,Normal
+Christian Bautista,06/10/2026,11738.28,0,0.00,0.00%,Normal
+Christian Tomas,06/10/2026,0.00,2,30314.42,0.00%,Normal
+Dodong Alcala,06/10/2026,0.00,2,19511.41,0.00%,Normal
+Dodong Bina,06/10/2026,0.00,1,26995.40,0.00%,Normal
+Francis Bautista,06/10/2026,10774.33,0,0.00,0.00%,Normal
+Grace Navarro,06/10/2026,29045.97,0,0.00,0.00%,Normal
+Grace Torres,06/10/2026,27476.98,0,0.00,0.00%,Normal
+Jerome Domingo,06/10/2026,0.00,1,30020.87,0.00%,Normal
+John Mercado,06/10/2026,36560.73,0,0.00,0.00%,Normal
+John Tomas,06/10/2026,7503.76,0,0.00,0.00%,Normal
+Juan Tomas,06/10/2026,6564.40,2,30201.33,21.74%,Normal
+Miggy Mango,06/10/2026,0.00,1,3087.76,0.00%,Normal
+Paolo Aquino,06/10/2026,5120.44,0,0.00,0.00%,Normal
+Patricia Mercado,06/10/2026,20514.00,0,0.00,0.00%,Normal
+Samantha Navarro,06/10/2026,0.00,1,4181.65,0.00%,Normal
+Ana Cruz,07/10/2026,4234.85,0,0.00,0.00%,Normal
+Ana Villanueva,07/10/2026,0.00,1,34747.92,0.00%,Normal
+Angel Mendoza,07/10/2026,0.00,1,2218.56,0.00%,Normal
+Angelo Ramos,07/10/2026,0.00,1,21683.69,0.00%,Normal
+Bea Ramos,07/10/2026,0.00,1,15470.76,0.00%,Normal
+Camille Del Rosario,07/10/2026,3159.81,0,0.00,0.00%,Normal
+Camille Tomas,07/10/2026,12768.52,0,0.00,0.00%,Normal
+Dodong Bunal,07/10/2026,0.00,1,22248.77,0.00%,Normal
+Dodong S. Barok,07/10/2026,24862.66,0,0.00,0.00%,Normal
+Francis Mercado,07/10/2026,0.00,1,9717.93,0.00%,Normal
+Gabriel Andrada,07/10/2026,3081.74,0,0.00,0.00%,Normal
+Grace Castro,07/10/2026,0.00,1,6632.05,0.00%,Normal
+Grace Reyes,07/10/2026,0.00,1,2052.94,0.00%,Normal
+Jasmine Reyes,07/10/2026,30632.24,0,0.00,0.00%,Normal
+Jerome Domingo,07/10/2026,0.00,1,4728.94,0.00%,Normal
+Jerome Tomas,07/10/2026,0.00,1,2989.35,0.00%,Normal
+John Cruz,07/10/2026,0.00,1,27185.37,0.00%,Normal
+John Flores,07/10/2026,0.00,1,22821.84,0.00%,Normal
+Jose Villanueva,07/10/2026,23546.22,0,0.00,0.00%,Normal
+Juan Valenzuela,07/10/2026,0.00,1,7563.07,0.00%,Normal
+Liza Flores,07/10/2026,28137.41,0,0.00,0.00%,Normal
+Nicole Bautista,07/10/2026,36426.97,0,0.00,0.00%,Normal
+Nicole Castro,07/10/2026,0.00,1,30237.23,0.00%,Normal
+Nicole Torres,07/10/2026,37196.30,0,0.00,0.00%,Normal
+Paolo Ocampo,07/10/2026,16195.27,0,0.00,0.00%,Normal
+Paul Castro,07/10/2026,0.00,1,1674.40,0.00%,Normal
+Ramon Tomas,07/10/2026,18220.94,0,0.00,0.00%,Normal
+Xiaomi Ocho,07/10/2026,0.00,2,31667.45,0.00%,Normal
+Dodong Darong,08/10/2026,35366.49,1,21705.79,162.94%,Suspicious
+Rhea Ramos,08/10/2026,35723.34,1,27804.33,128.48%,Suspicious
+Angelo Valenzuela,08/10/2026,0.00,1,2150.43,0.00%,Normal
+Bea Andrada,08/10/2026,23849.47,0,0.00,0.00%,Normal
+Dodong Alcala,08/10/2026,951.71,0,0.00,0.00%,Normal
+Dodong S. Barok,08/10/2026,3334.70,0,0.00,0.00%,Normal
+Fernan Amuy,08/10/2026,0.00,1,17046.30,0.00%,Normal
+Gabriel Garcia,08/10/2026,0.00,1,11252.07,0.00%,Normal
+Jasmine Santos,08/10/2026,11864.02,0,0.00,0.00%,Normal
+John Del Rosario,08/10/2026,0.00,1,18294.40,0.00%,Normal
+John Flores,08/10/2026,0.00,1,4042.11,0.00%,Normal
+Joug de Asim,08/10/2026,0.00,1,7439.54,0.00%,Normal
+Juan Cruz,08/10/2026,21112.69,0,0.00,0.00%,Normal
+Patricia Mercado,08/10/2026,0.00,1,4602.87,0.00%,Normal
+Patricia Reyes,08/10/2026,0.00,1,13122.26,0.00%,Normal
+Ana Ocampo,09/10/2026,0.00,1,21688.43,0.00%,Normal
+Angel Salazar,09/10/2026,0.00,1,7950.39,0.00%,Normal
+Bea Bautista,09/10/2026,0.00,1,10169.61,0.00%,Normal
+Bea Ramos,09/10/2026,8620.65,0,0.00,0.00%,Normal
+Bea Tomas,09/10/2026,0.00,1,7171.25,0.00%,Normal
+Camille Del Rosario,09/10/2026,22301.05,0,0.00,0.00%,Normal
+Carlos Mendoza,09/10/2026,18081.70,0,0.00,0.00%,Normal
+Christian Mendoza,09/10/2026,0.00,1,29457.89,0.00%,Normal
+Gabriel Flores,09/10/2026,26890.75,0,0.00,0.00%,Normal
+Jasmine Reyes,09/10/2026,0.00,1,1790.15,0.00%,Normal
+Jasmine Santos,09/10/2026,0.00,1,20120.82,0.00%,Normal
+John Mercado,09/10/2026,20185.83,0,0.00,0.00%,Normal
+Jose Salazar,09/10/2026,0.00,1,17989.19,0.00%,Normal
+Jose Villanueva,09/10/2026,11944.77,1,30939.09,38.61%,Normal
+Liza Flores,09/10/2026,34648.84,0,0.00,0.00%,Normal
+Miggy Mango,09/10/2026,0.00,1,7930.56,0.00%,Normal
+Nicole Torres,09/10/2026,0.00,1,27626.96,0.00%,Normal
+Ramon Garcia,09/10/2026,0.00,1,6392.16,0.00%,Normal
+Samantha Torres,09/10/2026,0.00,1,31075.90,0.00%,Normal
+Jasmine Castillo,10/10/2026,20182.77,1,21665.43,93.16%,Suspicious
+Ana Villanueva,10/10/2026,15329.37,0,0.00,0.00%,Normal
+Carlos Bautista,10/10/2026,0.00,1,15415.71,0.00%,Normal
+Carlos Mendoza,10/10/2026,0.00,2,44481.72,0.00%,Normal
+Christian Tomas,10/10/2026,23169.91,0,0.00,0.00%,Normal
+Dodong Darong,10/10/2026,0.00,1,33762.18,0.00%,Normal
+Dodong S. Barok,10/10/2026,0.00,1,33901.24,0.00%,Normal
+Fernan Amuy,10/10/2026,41466.27,0,0.00,0.00%,Normal
+Gabriel Rivera,10/10/2026,0.00,1,2733.35,0.00%,Normal
+Grace Castro,10/10/2026,22545.41,1,26319.03,85.66%,Normal
+Grace Ocampo,10/10/2026,24189.86,0,0.00,0.00%,Normal
+Jerome Domingo,10/10/2026,0.00,1,17532.41,0.00%,Normal
+John Bautista,10/10/2026,0.00,1,27642.43,0.00%,Normal
+Jose Salazar,10/10/2026,0.00,1,12822.48,0.00%,Normal
+Joug de Asim,10/10/2026,0.00,1,22582.72,0.00%,Normal
+Juan Navarro,10/10/2026,13472.65,1,28378.87,47.47%,Normal
+Mark Torres,10/10/2026,2758.53,0,0.00,0.00%,Normal
+Nicole Salazar,10/10/2026,0.00,1,10917.49,0.00%,Normal
+Patricia Mercado,10/10/2026,0.00,1,16348.20,0.00%,Normal
+Dodong Bina,11/10/2026,24185.92,1,8564.46,282.40%,Suspicious
+Angel Mendoza,11/10/2026,32900.46,0,0.00,0.00%,Normal
+Bea Bautista,11/10/2026,2856.24,0,0.00,0.00%,Normal
+Camille Del Rosario,11/10/2026,0.00,1,13689.15,0.00%,Normal
+Camille Tomas,11/10/2026,16448.70,0,0.00,0.00%,Normal
+Carlos Mendoza,11/10/2026,7111.72,0,0.00,0.00%,Normal
+Francis Mercado,11/10/2026,18191.08,0,0.00,0.00%,Normal
+Gabriel Garcia,11/10/2026,0.00,1,25441.94,0.00%,Normal
+Jasmine Reyes,11/10/2026,0.00,1,33389.68,0.00%,Normal
+Jasmine Santos,11/10/2026,0.00,1,23172.46,0.00%,Normal
+Jerome Domingo,11/10/2026,26327.93,0,0.00,0.00%,Normal
+John Mercado,11/10/2026,15571.90,0,0.00,0.00%,Normal
+Jose Salazar,11/10/2026,27835.19,0,0.00,0.00%,Normal
+Mark Domingo,11/10/2026,0.00,1,30089.57,0.00%,Normal
+Nicole Castro,11/10/2026,0.00,1,11345.50,0.00%,Normal
+Nicole Torres,11/10/2026,30052.65,0,0.00,0.00%,Normal
+Patricia Reyes,11/10/2026,0.00,1,12123.07,0.00%,Normal
+Ramon Reyes,11/10/2026,0.00,1,30358.22,0.00%,Normal
+Samantha Tomas,11/10/2026,13409.85,0,0.00,0.00%,Normal
+Xiaomi Ocho,11/10/2026,15590.59,0,0.00,0.00%,Normal
+Ana Cruz,12/10/2026,0.00,1,22916.29,0.00%,Normal
+Bea Andrada,12/10/2026,0.00,1,20624.41,0.00%,Normal
+Bea Bautista,12/10/2026,0.00,2,21550.41,0.00%,Normal
+Bea Ramos,12/10/2026,0.00,1,22859.08,0.00%,Normal
+Bea Tomas,12/10/2026,0.00,2,18231.70,0.00%,Normal
+Carlos Bautista,12/10/2026,4162.28,0,0.00,0.00%,Normal
+Christian Mendoza,12/10/2026,26197.43,0,0.00,0.00%,Normal
+Dodong Alcala,12/10/2026,0.00,1,23704.73,0.00%,Normal
+Dodong Bina,12/10/2026,23434.67,0,0.00,0.00%,Normal
+Dodong Bunal,12/10/2026,0.00,1,30950.48,0.00%,Normal
+Gabriel Andrada,12/10/2026,0.00,1,32741.16,0.00%,Normal
+Gabriel Bautista,12/10/2026,0.00,1,5624.10,0.00%,Normal
+Gabriel Domingo,12/10/2026,0.00,1,3472.53,0.00%,Normal
+Gabriel Mercado,12/10/2026,39470.83,2,45999.84,85.81%,Normal
+Grace Castro,12/10/2026,0.00,1,26855.39,0.00%,Normal
+Grace Torres,12/10/2026,14774.71,0,0.00,0.00%,Normal
+Jasmine Valenzuela,12/10/2026,38278.46,0,0.00,0.00%,Normal
+Jerome Domingo,12/10/2026,0.00,1,7211.05,0.00%,Normal
+John Del Rosario,12/10/2026,0.00,1,10683.27,0.00%,Normal
+John Mercado,12/10/2026,0.00,1,5917.83,0.00%,Normal
+Jose Mendoza,12/10/2026,0.00,1,7078.19,0.00%,Normal
+Jose Villanueva,12/10/2026,0.00,1,22021.82,0.00%,Normal
+Joug de Asim,12/10/2026,37303.41,0,0.00,0.00%,Normal
+Liza Castro,12/10/2026,7980.14,0,0.00,0.00%,Normal
+Mark Domingo,12/10/2026,0.00,1,33751.48,0.00%,Normal
+Miggy Mango,12/10/2026,0.00,2,37426.68,0.00%,Normal
+Nicole Salazar,12/10/2026,0.00,1,4781.82,0.00%,Normal
+Paolo Ocampo,12/10/2026,0.00,1,4704.25,0.00%,Normal
+Patricia Reyes,12/10/2026,0.00,1,13401.37,0.00%,Normal
+Ramon Castillo,12/10/2026,24256.09,0,0.00,0.00%,Normal
+Jasmine Valenzuela,13/10/2026,12616.89,1,1094.49,1152.76%,Suspicious
+Ana Cruz,13/10/2026,0.00,1,12057.79,0.00%,Normal
+Ana Villanueva,13/10/2026,3884.92,0,0.00,0.00%,Normal
+Angelo Ramos,13/10/2026,17240.37,0,0.00,0.00%,Normal
+Carlos Mendoza,13/10/2026,39895.01,0,0.00,0.00%,Normal
+Christian Bautista,13/10/2026,23518.61,0,0.00,0.00%,Normal
+Francis Bautista,13/10/2026,24703.55,0,0.00,0.00%,Normal
+Grace Reyes,13/10/2026,0.00,1,8563.15,0.00%,Normal
+Jay Kamote,13/10/2026,0.00,1,7332.93,0.00%,Normal
+Jerome Tomas,13/10/2026,14616.73,1,32011.56,45.66%,Normal
+John Bautista,13/10/2026,0.00,1,22432.00,0.00%,Normal
+John Flores,13/10/2026,0.00,1,31988.43,0.00%,Normal
+Liza Castro,13/10/2026,0.00,2,37887.71,0.00%,Normal
+Nicole Bautista,13/10/2026,0.00,1,16241.77,0.00%,Normal
+Nicole Torres,13/10/2026,6248.59,0,0.00,0.00%,Normal
+Paolo Aquino,13/10/2026,0.00,1,17075.03,0.00%,Normal
+Patricia Salazar,13/10/2026,0.00,1,12999.09,0.00%,Normal
+Paul Castro,13/10/2026,24420.25,0,0.00,0.00%,Normal
+Paul Navarro,13/10/2026,24906.52,0,0.00,0.00%,Normal
+Ramon Andrada,13/10/2026,0.00,1,12431.76,0.00%,Normal
+Angelo Ramos,14/10/2026,0.00,1,8419.11,0.00%,Normal
+Bea Bautista,14/10/2026,0.00,1,33984.62,0.00%,Normal
+Dodong S. Barok,14/10/2026,22019.85,0,0.00,0.00%,Normal
+Fernan Amuy,14/10/2026,9909.78,0,0.00,0.00%,Normal
+Francis Garcia,14/10/2026,0.00,1,7121.28,0.00%,Normal
+Gabriel Cruz,14/10/2026,9255.26,0,0.00,0.00%,Normal
+Gabriel Domingo,14/10/2026,14629.61,0,0.00,0.00%,Normal
+Grace Torres,14/10/2026,0.00,1,23108.44,0.00%,Normal
+Jasmine Castillo,14/10/2026,0.00,1,30206.71,0.00%,Normal
+Jasmine Reyes,14/10/2026,36593.21,0,0.00,0.00%,Normal
+Jasmine Valenzuela,14/10/2026,33937.20,0,0.00,0.00%,Normal
+Jose Salazar,14/10/2026,0.00,1,17370.38,0.00%,Normal
+Jose Villanueva,14/10/2026,28144.57,0,0.00,0.00%,Normal
+Juan Navarro,14/10/2026,0.00,1,19308.90,0.00%,Normal
+Nicole Bautista,14/10/2026,19673.83,0,0.00,0.00%,Normal
+Nicole Torres,14/10/2026,22652.45,0,0.00,0.00%,Normal
+Paolo Ocampo,14/10/2026,39044.79,0,0.00,0.00%,Normal
+Paul Navarro,14/10/2026,0.00,1,9883.13,0.00%,Normal
+Ralph Josh Bacon,14/10/2026,0.00,1,28563.44,0.00%,Normal
+Ramon Garcia,14/10/2026,5655.16,0,0.00,0.00%,Normal
+Ramon Tomas,14/10/2026,4582.55,0,0.00,0.00%,Normal
+Gabriel Rivera,15/10/2026,26599.86,1,6831.96,389.34%,Suspicious
+Amoy Liu,15/10/2026,0.00,2,16053.68,0.00%,Normal
+Ana Villanueva,15/10/2026,0.00,1,3499.23,0.00%,Normal
+Angel Mendoza,15/10/2026,0.00,2,35927.56,0.00%,Normal
+Angelo Valenzuela,15/10/2026,0.00,1,2663.01,0.00%,Normal
+Bea Andrada,15/10/2026,0.00,2,32324.16,0.00%,Normal
+Bea Bautista,15/10/2026,19823.93,0,0.00,0.00%,Normal
+Camille Del Rosario,15/10/2026,28303.65,0,0.00,0.00%,Normal
+Carlos Bautista,15/10/2026,0.00,1,27364.83,0.00%,Normal
+Dodong Bina,15/10/2026,9571.98,0,0.00,0.00%,Normal
+Dodong Bunal,15/10/2026,23285.31,0,0.00,0.00%,Normal
+Dodong Darong,15/10/2026,0.00,1,15033.35,0.00%,Normal
+Dodong S. Barok,15/10/2026,0.00,1,20468.80,0.00%,Normal
+Fernan Amuy,15/10/2026,0.00,1,29507.47,0.00%,Normal
+Francis Mercado,15/10/2026,0.00,1,29354.38,0.00%,Normal
+Gabriel Domingo,15/10/2026,0.00,1,20251.70,0.00%,Normal
+Gabriel Flores,15/10/2026,38391.39,0,0.00,0.00%,Normal
+Grace Castro,15/10/2026,0.00,1,15127.06,0.00%,Normal
+John Flores,15/10/2026,0.00,1,24239.75,0.00%,Normal
+Jose Reyes,15/10/2026,0.00,2,52461.28,0.00%,Normal
+Joug de Asim,15/10/2026,17653.06,0,0.00,0.00%,Normal
+Juan Navarro,15/10/2026,0.00,1,17960.13,0.00%,Normal
+Juan Valenzuela,15/10/2026,9952.96,0,0.00,0.00%,Normal
+Liza Navarro,15/10/2026,11489.67,0,0.00,0.00%,Normal
+Mary Grace Piattos,15/10/2026,33114.15,0,0.00,0.00%,Normal
+Mico Harina,15/10/2026,0.00,1,33013.11,0.00%,Normal
+Miggy Mango,15/10/2026,0.00,1,22904.50,0.00%,Normal
+Nicole Bautista,15/10/2026,34770.26,0,0.00,0.00%,Normal
+Nicole Castro,15/10/2026,12268.99,0,0.00,0.00%,Normal
+Patricia Salazar,15/10/2026,0.00,1,32377.39,0.00%,Normal
+Ramon Garcia,15/10/2026,0.00,1,8271.73,0.00%,Normal
+Ramon Reyes,15/10/2026,0.00,1,10946.27,0.00%,Normal
+Samantha Castillo,15/10/2026,14509.36,0,0.00,0.00%,Normal
+Xiaomi Ocho,15/10/2026,0.00,1,20952.10,0.00%,Normal
+Jose Torres,16/10/2026,38330.87,1,29301.70,130.81%,Suspicious
+Mico Harina,16/10/2026,22467.08,1,1987.48,1130.43%,Suspicious
+Ana Ocampo,16/10/2026,0.00,1,12829.78,0.00%,Normal
+Ana Villanueva,16/10/2026,25539.08,0,0.00,0.00%,Normal
+Bea Andrada,16/10/2026,7887.14,0,0.00,0.00%,Normal
+Bea Ramos,16/10/2026,38617.41,0,0.00,0.00%,Normal
+Bea Tomas,16/10/2026,0.00,1,18303.19,0.00%,Normal
+Camille Tomas,16/10/2026,0.00,1,18356.89,0.00%,Normal
+Christian Bautista,16/10/2026,31874.81,0,0.00,0.00%,Normal
+Francis Rivera,16/10/2026,0.00,1,16521.62,0.00%,Normal
+Gabriel Bautista,16/10/2026,5615.98,0,0.00,0.00%,Normal
+Gabriel Flores,16/10/2026,0.00,1,17351.69,0.00%,Normal
+Gabriel Rivera,16/10/2026,25296.92,0,0.00,0.00%,Normal
+Grace Navarro,16/10/2026,32156.62,0,0.00,0.00%,Normal
+Grace Ocampo,16/10/2026,0.00,1,17540.77,0.00%,Normal
+Grace Reyes,16/10/2026,50894.11,0,0.00,0.00%,Normal
+Jasmine Reyes,16/10/2026,8566.08,0,0.00,0.00%,Normal
+Jasmine Valenzuela,16/10/2026,0.00,1,22518.03,0.00%,Normal
+John Cruz,16/10/2026,24056.88,0,0.00,0.00%,Normal
+John Mercado,16/10/2026,0.00,1,30897.09,0.00%,Normal
+Juan Valenzuela,16/10/2026,13247.61,0,0.00,0.00%,Normal
+Liza Flores,16/10/2026,0.00,1,33958.73,0.00%,Normal
+Paolo Aquino,16/10/2026,35744.30,0,0.00,0.00%,Normal
+Paolo Ocampo,16/10/2026,0.00,2,54991.78,0.00%,Normal
+Paul Navarro,16/10/2026,11793.74,0,0.00,0.00%,Normal
+Samantha Navarro,16/10/2026,0.00,1,18297.08,0.00%,Normal
+Xiaomi Ocho,16/10/2026,23593.78,0,0.00,0.00%,Normal
+Angelo Ramos,17/10/2026,16187.53,0,0.00,0.00%,Normal
+Camille Tomas,17/10/2026,0.00,1,25006.26,0.00%,Normal
+Christian Mendoza,17/10/2026,14138.74,1,23055.81,61.32%,Normal
+Christian Tomas,17/10/2026,0.00,1,10475.45,0.00%,Normal
+Francis Garcia,17/10/2026,35201.10,0,0.00,0.00%,Normal
+Gabriel Bautista,17/10/2026,0.00,1,27293.24,0.00%,Normal
+Gabriel Cruz,17/10/2026,0.00,1,27577.21,0.00%,Normal
+Gabriel Rivera,17/10/2026,22057.03,0,0.00,0.00%,Normal
+Grace Reyes,17/10/2026,1829.86,0,0.00,0.00%,Normal
+Jerome Tomas,17/10/2026,0.00,1,22724.18,0.00%,Normal
+John Flores,17/10/2026,9408.03,0,0.00,0.00%,Normal
+John Tomas,17/10/2026,20313.27,0,0.00,0.00%,Normal
+Nicole Salazar,17/10/2026,0.00,2,41926.60,0.00%,Normal
+Paolo Aquino,17/10/2026,0.00,1,11599.78,0.00%,Normal
+Patricia Reyes,17/10/2026,30933.32,0,0.00,0.00%,Normal
+Paul Navarro,17/10/2026,7198.41,1,14336.72,50.21%,Normal
+Ramon Andrada,17/10/2026,2851.34,0,0.00,0.00%,Normal
+Ramon Del Rosario,17/10/2026,732.35,0,0.00,0.00%,Normal
+Ramon Tomas,17/10/2026,0.00,2,47124.25,0.00%,Normal
+Amoy Liu,18/10/2026,20524.95,0,0.00,0.00%,Normal
+Ana Cruz,18/10/2026,7803.15,0,0.00,0.00%,Normal
+Ana Villanueva,18/10/2026,0.00,1,4111.69,0.00%,Normal
+Angel Flores,18/10/2026,0.00,1,2858.84,0.00%,Normal
+Angel Mendoza,18/10/2026,0.00,1,2978.28,0.00%,Normal
+Angelo Ramos,18/10/2026,38676.18,0,0.00,0.00%,Normal
+Gabriel Andrada,18/10/2026,11335.95,0,0.00,0.00%,Normal
+Grace Navarro,18/10/2026,0.00,1,6074.23,0.00%,Normal
+Grace Ocampo,18/10/2026,4139.94,0,0.00,0.00%,Normal
+Jasmine Reyes,18/10/2026,0.00,1,17142.44,0.00%,Normal
+John Cruz,18/10/2026,0.00,1,10273.02,0.00%,Normal
+John Mercado,18/10/2026,16890.23,0,0.00,0.00%,Normal
+Juan Cruz,18/10/2026,33978.82,0,0.00,0.00%,Normal
+Liza Castro,18/10/2026,989.51,0,0.00,0.00%,Normal
+Liza Navarro,18/10/2026,34911.17,0,0.00,0.00%,Normal
+Mark Torres,18/10/2026,0.00,1,13699.56,0.00%,Normal
+Mico Harina,18/10/2026,5706.49,0,0.00,0.00%,Normal
+Miggy Mango,18/10/2026,33658.98,0,0.00,0.00%,Normal
+Paul Castro,18/10/2026,7394.28,0,0.00,0.00%,Normal
+Paul Ocampo,18/10/2026,0.00,1,27507.63,0.00%,Normal
+Samantha Castillo,18/10/2026,0.00,1,33181.90,0.00%,Normal
+Samantha Navarro,18/10/2026,8889.65,0,0.00,0.00%,Normal
+Samantha Torres,18/10/2026,0.00,1,13314.93,0.00%,Normal
+Ana Ocampo,19/10/2026,30440.15,0,0.00,0.00%,Normal
+Angelo Ramos,19/10/2026,10457.35,0,0.00,0.00%,Normal
+Bea Andrada,19/10/2026,3348.94,0,0.00,0.00%,Normal
+Bea Ramos,19/10/2026,15869.03,0,0.00,0.00%,Normal
+Camille Del Rosario,19/10/2026,0.00,1,7061.57,0.00%,Normal
+Carlos Mendoza,19/10/2026,33354.92,0,0.00,0.00%,Normal
+Dodong Alcala,19/10/2026,0.00,1,18085.70,0.00%,Normal
+Dodong Darong,19/10/2026,0.00,1,29664.53,0.00%,Normal
+Gabriel Andrada,19/10/2026,24771.03,0,0.00,0.00%,Normal
+Gabriel Domingo,19/10/2026,0.00,1,1574.84,0.00%,Normal
+Jasmine Valenzuela,19/10/2026,0.00,1,13902.42,0.00%,Normal
+John Del Rosario,19/10/2026,0.00,1,13827.90,0.00%,Normal
+Nicole Castro,19/10/2026,0.00,1,9966.10,0.00%,Normal
+Ralph Josh Bacon,19/10/2026,21412.58,0,0.00,0.00%,Normal
+Ramon Andrada,19/10/2026,2923.83,0,0.00,0.00%,Normal
+Ramon Castillo,19/10/2026,9724.10,0,0.00,0.00%,Normal
+Xiaomi Ocho,19/10/2026,0.00,1,9157.59,0.00%,Normal
+Mark Domingo,20/10/2026,24724.29,1,23325.90,106.00%,Suspicious
+Mico Harina,20/10/2026,36732.22,1,33182.63,110.70%,Suspicious
+Paul Castro,20/10/2026,19756.00,1,21864.57,90.36%,Suspicious
+Ana Villanueva,20/10/2026,4538.14,0,0.00,0.00%,Normal
+Angel Mendoza,20/10/2026,0.00,1,3980.77,0.00%,Normal
+Angel Salazar,20/10/2026,11933.16,0,0.00,0.00%,Normal
+Bea Andrada,20/10/2026,0.00,1,33892.10,0.00%,Normal
+Camille Tomas,20/10/2026,0.00,1,14093.28,0.00%,Normal
+Christian Bautista,20/10/2026,0.00,1,28105.38,0.00%,Normal
+Christian Tomas,20/10/2026,0.00,1,18603.34,0.00%,Normal
+Gabriel Andrada,20/10/2026,0.00,2,65806.09,0.00%,Normal
+Jasmine Reyes,20/10/2026,12533.50,0,0.00,0.00%,Normal
+Jay Kamote,20/10/2026,0.00,1,26655.00,0.00%,Normal
+Jerome Tomas,20/10/2026,7738.28,1,11968.63,64.65%,Normal
+Jose Mendoza,20/10/2026,0.00,1,23929.87,0.00%,Normal
+Jose Villanueva,20/10/2026,39056.93,0,0.00,0.00%,Normal
+Joug de Asim,20/10/2026,0.00,2,35532.48,0.00%,Normal
+Juan Cruz,20/10/2026,0.00,1,30088.32,0.00%,Normal
+Liza Flores,20/10/2026,842.18,0,0.00,0.00%,Normal
+Liza Navarro,20/10/2026,33330.75,0,0.00,0.00%,Normal
+Nicole Salazar,20/10/2026,34090.59,0,0.00,0.00%,Normal
+Paul Navarro,20/10/2026,3175.32,1,24957.44,12.72%,Normal
+Ramon Reyes,20/10/2026,17986.38,0,0.00,0.00%,Normal
+Ramon Tomas,20/10/2026,23804.11,0,0.00,0.00%,Normal
+Samantha Navarro,20/10/2026,16948.55,0,0.00,0.00%,Normal
+Patricia Reyes,21/10/2026,28165.76,1,14606.11,192.84%,Suspicious
+Amoy Liu,21/10/2026,0.00,1,20634.59,0.00%,Normal
+Ana Villanueva,21/10/2026,0.00,1,19861.16,0.00%,Normal
+Angel Mendoza,21/10/2026,39458.00,0,0.00,0.00%,Normal
+Camille Del Rosario,21/10/2026,25903.44,0,0.00,0.00%,Normal
+Camille Tomas,21/10/2026,0.00,1,23881.13,0.00%,Normal
+Dodong Bunal,21/10/2026,18958.16,0,0.00,0.00%,Normal
+Francis Garcia,21/10/2026,0.00,1,3915.45,0.00%,Normal
+Gabriel Andrada,21/10/2026,0.00,1,24125.90,0.00%,Normal
+Gabriel Garcia,21/10/2026,0.00,1,4155.87,0.00%,Normal
+Jasmine Valenzuela,21/10/2026,0.00,1,10719.55,0.00%,Normal
+Joug de Asim,21/10/2026,0.00,1,5405.36,0.00%,Normal
+Juan Valenzuela,21/10/2026,0.00,1,20638.48,0.00%,Normal
+Liza Navarro,21/10/2026,5863.50,0,0.00,0.00%,Normal
+Mark Domingo,21/10/2026,0.00,1,10551.64,0.00%,Normal
+Mark Torres,21/10/2026,0.00,1,12656.83,0.00%,Normal
+Paolo Aquino,21/10/2026,10321.46,0,0.00,0.00%,Normal
+Paolo Ocampo,21/10/2026,30542.97,0,0.00,0.00%,Normal
+Patricia Salazar,21/10/2026,10787.50,0,0.00,0.00%,Normal
+Paul Castro,21/10/2026,25802.94,0,0.00,0.00%,Normal
+Amoy Liu,22/10/2026,0.00,1,32360.02,0.00%,Normal
+Ana Ocampo,22/10/2026,18670.47,0,0.00,0.00%,Normal
+Angel Flores,22/10/2026,0.00,1,4685.63,0.00%,Normal
+Angelo Valenzuela,22/10/2026,18808.41,0,0.00,0.00%,Normal
+Bea Torres,22/10/2026,0.00,1,32693.10,0.00%,Normal
+Carlos Mendoza,22/10/2026,13864.59,0,0.00,0.00%,Normal
+Francis Garcia,22/10/2026,7237.39,0,0.00,0.00%,Normal
+Gabriel Andrada,22/10/2026,0.00,1,2477.80,0.00%,Normal
+Gabriel Bautista,22/10/2026,0.00,1,27741.79,0.00%,Normal
+Gabriel Domingo,22/10/2026,23900.79,0,0.00,0.00%,Normal
+Gabriel Garcia,22/10/2026,0.00,1,22613.31,0.00%,Normal
+Gabriel Rivera,22/10/2026,30161.56,0,0.00,0.00%,Normal
+Jasmine Castillo,22/10/2026,9883.08,0,0.00,0.00%,Normal
+Jay Kamote,22/10/2026,28100.72,0,0.00,0.00%,Normal
+John Bautista,22/10/2026,0.00,1,15482.43,0.00%,Normal
+John Mercado,22/10/2026,0.00,1,25685.73,0.00%,Normal
+Jose Torres,22/10/2026,0.00,1,13120.50,0.00%,Normal
+Liza Flores,22/10/2026,0.00,1,31623.87,0.00%,Normal
+Nicole Bautista,22/10/2026,0.00,1,4569.25,0.00%,Normal
+Paolo Ocampo,22/10/2026,0.00,1,11589.47,0.00%,Normal
+Patricia Mercado,22/10/2026,0.00,1,13378.10,0.00%,Normal
+Paul Castro,22/10/2026,16488.52,2,34576.30,47.69%,Normal
+Paul Navarro,22/10/2026,24185.08,0,0.00,0.00%,Normal
+Rhea Ramos,22/10/2026,0.00,1,10536.96,0.00%,Normal
+Xiaomi Ocho,22/10/2026,5570.92,0,0.00,0.00%,Normal
+John Flores,23/10/2026,38023.66,2,37550.48,101.26%,Suspicious
+Ana Villanueva,23/10/2026,0.00,1,19843.47,0.00%,Normal
+Angelo Valenzuela,23/10/2026,18259.68,0,0.00,0.00%,Normal
+Bea Andrada,23/10/2026,29404.34,0,0.00,0.00%,Normal
+Bea Ramos,23/10/2026,0.00,1,32123.37,0.00%,Normal
+Camille Tomas,23/10/2026,0.00,1,21690.76,0.00%,Normal
+Christian Mendoza,23/10/2026,3977.51,0,0.00,0.00%,Normal
+Dodong Bina,23/10/2026,0.00,1,26424.99,0.00%,Normal
+Francis Mercado,23/10/2026,19722.17,0,0.00,0.00%,Normal
+Gabriel Cruz,23/10/2026,37613.39,0,0.00,0.00%,Normal
+Gabriel Domingo,23/10/2026,0.00,1,17886.14,0.00%,Normal
+Grace Castro,23/10/2026,4887.19,0,0.00,0.00%,Normal
+Grace Navarro,23/10/2026,0.00,2,62568.75,0.00%,Normal
+John Cruz,23/10/2026,0.00,1,13327.67,0.00%,Normal
+John Tomas,23/10/2026,8551.94,0,0.00,0.00%,Normal
+Juan Cruz,23/10/2026,0.00,1,1868.14,0.00%,Normal
+Liza Castro,23/10/2026,19562.63,0,0.00,0.00%,Normal
+Mark Torres,23/10/2026,10822.98,0,0.00,0.00%,Normal
+Patricia Salazar,23/10/2026,0.00,1,2755.08,0.00%,Normal
+Paul Castro,23/10/2026,37581.41,0,0.00,0.00%,Normal
+Ralph Josh Bacon,23/10/2026,0.00,1,23333.39,0.00%,Normal
+Ramon Garcia,23/10/2026,0.00,2,43756.09,0.00%,Normal
+Mark Domingo,24/10/2026,34145.58,1,14200.33,240.46%,Suspicious
+Ramon Reyes,24/10/2026,16200.87,1,14465.83,111.99%,Suspicious
+Ana Villanueva,24/10/2026,0.00,1,14098.09,0.00%,Normal
+Angelo Valenzuela,24/10/2026,0.00,1,11702.80,0.00%,Normal
+Christian Bautista,24/10/2026,14787.05,0,0.00,0.00%,Normal
+Fernan Amuy,24/10/2026,39095.61,0,0.00,0.00%,Normal
+Gabriel Cruz,24/10/2026,0.00,1,13437.34,0.00%,Normal
+Gabriel Domingo,24/10/2026,32006.03,0,0.00,0.00%,Normal
+Grace Navarro,24/10/2026,0.00,1,9872.63,0.00%,Normal
+Grace Reyes,24/10/2026,0.00,1,32639.04,0.00%,Normal
+Jay Kamote,24/10/2026,0.00,1,18092.09,0.00%,Normal
+John Cruz,24/10/2026,0.00,1,11804.29,0.00%,Normal
+Jose Reyes,24/10/2026,0.00,1,25776.13,0.00%,Normal
+Juan Cruz,24/10/2026,0.00,1,7448.23,0.00%,Normal
+Juan Tomas,24/10/2026,25027.95,0,0.00,0.00%,Normal
+Liza Flores,24/10/2026,0.00,1,3670.18,0.00%,Normal
+Paul Castro,24/10/2026,16852.57,0,0.00,0.00%,Normal
+Rhea Ramos,24/10/2026,0.00,1,9605.81,0.00%,Normal
+Samantha Tomas,24/10/2026,0.00,1,25873.67,0.00%,Normal
+Grace Navarro,25/10/2026,35813.46,1,30945.03,115.73%,Suspicious
+Angel Flores,25/10/2026,13751.13,0,0.00,0.00%,Normal
+Bea Andrada,25/10/2026,0.00,1,24350.72,0.00%,Normal
+Bea Torres,25/10/2026,0.00,2,24994.34,0.00%,Normal
+Camille Del Rosario,25/10/2026,0.00,1,20818.49,0.00%,Normal
+Carlos Bautista,25/10/2026,19127.28,0,0.00,0.00%,Normal
+Dodong Alcala,25/10/2026,25729.10,1,33550.26,76.69%,Normal
+Dodong Bunal,25/10/2026,30880.21,0,0.00,0.00%,Normal
+Fernan Amuy,25/10/2026,21130.83,0,0.00,0.00%,Normal
+Francis Bautista,25/10/2026,9149.86,0,0.00,0.00%,Normal
+Francis Mercado,25/10/2026,17446.80,1,26548.91,65.72%,Normal
+Francis Rivera,25/10/2026,14475.39,0,0.00,0.00%,Normal
+Gabriel Cruz,25/10/2026,0.00,1,14133.49,0.00%,Normal
+Gabriel Domingo,25/10/2026,0.00,1,6382.05,0.00%,Normal
+Gabriel Mercado,25/10/2026,0.00,1,23269.28,0.00%,Normal
+Liza Castro,25/10/2026,9487.22,0,0.00,0.00%,Normal
+Liza Flores,25/10/2026,0.00,1,19290.79,0.00%,Normal
+Mark Domingo,25/10/2026,21705.59,0,0.00,0.00%,Normal
+Nicole Bautista,25/10/2026,0.00,1,30225.14,0.00%,Normal
+Patricia Reyes,25/10/2026,0.00,1,12228.53,0.00%,Normal
+Patricia Salazar,25/10/2026,11829.22,0,0.00,0.00%,Normal
+Paul Navarro,25/10/2026,0.00,1,15851.77,0.00%,Normal
+Rhea Ramos,25/10/2026,0.00,1,20968.22,0.00%,Normal
+Samantha Castillo,25/10/2026,0.00,1,18555.56,0.00%,Normal
+Samantha Navarro,25/10/2026,0.00,1,4206.38,0.00%,Normal
+Bea Andrada,26/10/2026,27100.79,1,23446.22,115.59%,Suspicious
+Ana Cruz,26/10/2026,21688.46,0,0.00,0.00%,Normal
+Angel Mendoza,26/10/2026,10756.57,0,0.00,0.00%,Normal
+Bea Ramos,26/10/2026,0.00,1,23388.74,0.00%,Normal
+Carlos Bautista,26/10/2026,26239.51,0,0.00,0.00%,Normal
+Carlos Mendoza,26/10/2026,19885.34,0,0.00,0.00%,Normal
+Christian Bautista,26/10/2026,0.00,1,11777.47,0.00%,Normal
+Christian Tomas,26/10/2026,28309.49,0,0.00,0.00%,Normal
+Dodong Bina,26/10/2026,0.00,1,22422.50,0.00%,Normal
+Dodong Bunal,26/10/2026,2865.33,0,0.00,0.00%,Normal
+Gabriel Cruz,26/10/2026,30361.52,0,0.00,0.00%,Normal
+Gabriel Garcia,26/10/2026,23903.89,0,0.00,0.00%,Normal
+Gabriel Mercado,26/10/2026,2796.07,0,0.00,0.00%,Normal
+Grace Torres,26/10/2026,0.00,1,4616.43,0.00%,Normal
+Jasmine Valenzuela,26/10/2026,0.00,1,3079.04,0.00%,Normal
+Jerome Domingo,26/10/2026,19987.37,0,0.00,0.00%,Normal
+Jose Salazar,26/10/2026,0.00,1,32358.01,0.00%,Normal
+Jose Torres,26/10/2026,17835.68,0,0.00,0.00%,Normal
+Jose Villanueva,26/10/2026,0.00,1,26692.90,0.00%,Normal
+Joug de Asim,26/10/2026,0.00,1,33748.00,0.00%,Normal
+Juan Cruz,26/10/2026,19422.79,0,0.00,0.00%,Normal
+Nicole Castro,26/10/2026,0.00,1,6911.50,0.00%,Normal
+Nicole Torres,26/10/2026,0.00,1,4567.06,0.00%,Normal
+Paul Castro,26/10/2026,0.00,1,8977.32,0.00%,Normal
+Ramon Tomas,26/10/2026,0.00,1,19033.64,0.00%,Normal
+Samantha Tomas,26/10/2026,20436.81,0,0.00,0.00%,Normal
+Christian Mendoza,27/10/2026,16163.24,1,1487.43,1086.66%,Suspicious
+John Flores,27/10/2026,22226.23,1,8803.20,252.48%,Suspicious
+Amoy Liu,27/10/2026,0.00,1,34062.54,0.00%,Normal
+Angelo Valenzuela,27/10/2026,0.00,1,30551.92,0.00%,Normal
+Bea Tomas,27/10/2026,0.00,1,6379.87,0.00%,Normal
+Bea Torres,27/10/2026,0.00,1,16948.27,0.00%,Normal
+Camille Del Rosario,27/10/2026,0.00,1,4745.39,0.00%,Normal
+Carlos Mendoza,27/10/2026,0.00,1,34399.75,0.00%,Normal
+Christian Bautista,27/10/2026,0.00,1,32452.48,0.00%,Normal
+Christian Tomas,27/10/2026,39945.84,0,0.00,0.00%,Normal
+Dodong S. Barok,27/10/2026,0.00,1,8123.87,0.00%,Normal
+Fernan Amuy,27/10/2026,0.00,1,1039.94,0.00%,Normal
+Francis Rivera,27/10/2026,3254.53,1,23593.30,13.79%,Normal
+Gabriel Bautista,27/10/2026,0.00,1,12458.63,0.00%,Normal
+Gabriel Flores,27/10/2026,39144.69,0,0.00,0.00%,Normal
+Grace Reyes,27/10/2026,0.00,1,22172.10,0.00%,Normal
+Jasmine Reyes,27/10/2026,1766.34,0,0.00,0.00%,Normal
+John Del Rosario,27/10/2026,24645.98,0,0.00,0.00%,Normal
+Jose Salazar,27/10/2026,0.00,1,25250.14,0.00%,Normal
+Mark Domingo,27/10/2026,0.00,1,14466.75,0.00%,Normal
+Nicole Salazar,27/10/2026,6514.59,0,0.00,0.00%,Normal
+Paolo Aquino,27/10/2026,0.00,1,28345.24,0.00%,Normal
+Ramon Castillo,27/10/2026,8730.90,0,0.00,0.00%,Normal
+Ramon Tomas,27/10/2026,0.00,1,8044.17,0.00%,Normal
+Samantha Torres,27/10/2026,0.00,1,21522.97,0.00%,Normal
+Xiaomi Ocho,27/10/2026,8792.80,0,0.00,0.00%,Normal
+Amoy Liu,28/10/2026,0.00,1,33637.05,0.00%,Normal
+Ana Villanueva,28/10/2026,29131.33,0,0.00,0.00%,Normal
+Angel Flores,28/10/2026,0.00,1,3220.85,0.00%,Normal
+Bea Andrada,28/10/2026,0.00,1,5403.08,0.00%,Normal
+Bea Bautista,28/10/2026,11527.25,0,0.00,0.00%,Normal
+Carlos Bautista,28/10/2026,32215.40,0,0.00,0.00%,Normal
+Christian Bautista,28/10/2026,0.00,1,5634.05,0.00%,Normal
+Christian Tomas,28/10/2026,18355.69,0,0.00,0.00%,Normal
+Dodong Darong,28/10/2026,37452.73,0,0.00,0.00%,Normal
+Dodong S. Barok,28/10/2026,0.00,1,34558.87,0.00%,Normal
+Francis Mercado,28/10/2026,0.00,1,4116.03,0.00%,Normal
+Gabriel Garcia,28/10/2026,0.00,1,15373.36,0.00%,Normal
+Grace Navarro,28/10/2026,33292.69,0,0.00,0.00%,Normal
+Grace Reyes,28/10/2026,20923.28,0,0.00,0.00%,Normal
+Grace Torres,28/10/2026,0.00,1,20943.09,0.00%,Normal
+Jay Kamote,28/10/2026,25733.80,0,0.00,0.00%,Normal
+Mark Domingo,28/10/2026,0.00,1,30737.04,0.00%,Normal
+Mark Torres,28/10/2026,4559.83,0,0.00,0.00%,Normal
+Mico Harina,28/10/2026,38325.67,0,0.00,0.00%,Normal
+Miggy Mango,28/10/2026,0.00,1,15896.40,0.00%,Normal
+Paolo Aquino,28/10/2026,16049.42,0,0.00,0.00%,Normal
+Paul Castro,28/10/2026,8817.57,0,0.00,0.00%,Normal
+Paul Navarro,28/10/2026,7232.24,0,0.00,0.00%,Normal
+Ramon Andrada,28/10/2026,0.00,1,33643.29,0.00%,Normal
+Ramon Castillo,28/10/2026,39471.41,0,0.00,0.00%,Normal
+Carlos Bautista,29/10/2026,25423.75,1,13500.12,188.32%,Suspicious
+Angel Mendoza,29/10/2026,24764.45,0,0.00,0.00%,Normal
+Angel Salazar,29/10/2026,7439.94,1,19996.60,37.21%,Normal
+Bea Ramos,29/10/2026,0.00,1,15287.59,0.00%,Normal
+Bea Torres,29/10/2026,15004.04,0,0.00,0.00%,Normal
+Christian Bautista,29/10/2026,0.00,1,11284.55,0.00%,Normal
+Christian Mendoza,29/10/2026,0.00,1,11844.30,0.00%,Normal
+Gabriel Cruz,29/10/2026,0.00,2,25222.99,0.00%,Normal
+Gabriel Flores,29/10/2026,15944.49,0,0.00,0.00%,Normal
+Jay Kamote,29/10/2026,0.00,1,11671.10,0.00%,Normal
+John Tomas,29/10/2026,20473.50,0,0.00,0.00%,Normal
+Jose Mendoza,29/10/2026,0.00,1,33332.76,0.00%,Normal
+Juan Cruz,29/10/2026,34494.13,0,0.00,0.00%,Normal
+Juan Valenzuela,29/10/2026,39593.68,0,0.00,0.00%,Normal
+Liza Flores,29/10/2026,0.00,1,19712.83,0.00%,Normal
+Liza Navarro,29/10/2026,0.00,1,7682.56,0.00%,Normal
+Mark Torres,29/10/2026,0.00,2,31822.01,0.00%,Normal
+Patricia Reyes,29/10/2026,8494.55,1,17485.83,48.58%,Normal
+Paul Navarro,29/10/2026,0.00,1,17247.26,0.00%,Normal
+Ralph Josh Bacon,29/10/2026,29613.88,0,0.00,0.00%,Normal
+Ramon Tomas,29/10/2026,0.00,1,17787.56,0.00%,Normal
+Ana Cruz,30/10/2026,30263.57,1,20880.53,144.94%,Suspicious
+Bea Torres,30/10/2026,30303.29,1,25147.11,120.50%,Suspicious
+Nicole Salazar,30/10/2026,37830.30,1,32749.84,115.51%,Suspicious
+Angel Mendoza,30/10/2026,19953.93,0,0.00,0.00%,Normal
+Angel Salazar,30/10/2026,0.00,1,30299.99,0.00%,Normal
+Francis Mercado,30/10/2026,15561.77,0,0.00,0.00%,Normal
+Gabriel Andrada,30/10/2026,0.00,1,15282.11,0.00%,Normal
+Gabriel Flores,30/10/2026,0.00,1,8694.37,0.00%,Normal
+Gabriel Rivera,30/10/2026,0.00,2,39570.27,0.00%,Normal
+Grace Reyes,30/10/2026,0.00,1,2449.58,0.00%,Normal
+Jasmine Santos,30/10/2026,14037.00,0,0.00,0.00%,Normal
+Jerome Tomas,30/10/2026,12392.36,0,0.00,0.00%,Normal
+Jose Reyes,30/10/2026,6877.87,0,0.00,0.00%,Normal
+Liza Flores,30/10/2026,24985.13,0,0.00,0.00%,Normal
+Mary Grace Piattos,30/10/2026,584.09,0,0.00,0.00%,Normal
+Nicole Castro,30/10/2026,14586.07,0,0.00,0.00%,Normal
+Patricia Salazar,30/10/2026,0.00,1,27647.94,0.00%,Normal
+Paul Castro,30/10/2026,0.00,1,30875.49,0.00%,Normal
+Ramon Tomas,30/10/2026,5039.31,0,0.00,0.00%,Normal
+Rhea Ramos,30/10/2026,0.00,1,2797.57,0.00%,Normal
+Samantha Navarro,30/10/2026,27385.26,0,0.00,0.00%,Normal
+Samantha Tomas,30/10/2026,6346.49,0,0.00,0.00%,Normal
+Amoy Liu,31/10/2026,32158.84,0,0.00,0.00%,Normal
+Bea Torres,31/10/2026,0.00,1,16666.27,0.00%,Normal
+Christian Mendoza,31/10/2026,10556.33,0,0.00,0.00%,Normal
+Dodong Bunal,31/10/2026,0.00,1,6116.07,0.00%,Normal
+Grace Navarro,31/10/2026,38398.54,0,0.00,0.00%,Normal
+Grace Ocampo,31/10/2026,9439.31,0,0.00,0.00%,Normal
+Jasmine Castillo,31/10/2026,0.00,2,48809.24,0.00%,Normal
+Jasmine Santos,31/10/2026,1998.71,0,0.00,0.00%,Normal
+John Mercado,31/10/2026,0.00,1,6052.24,0.00%,Normal
+Jose Salazar,31/10/2026,0.00,1,4951.81,0.00%,Normal
+Jose Torres,31/10/2026,0.00,1,3656.89,0.00%,Normal
+Juan Cruz,31/10/2026,0.00,1,20062.81,0.00%,Normal
+Mary Grace Piattos,31/10/2026,5704.71,0,0.00,0.00%,Normal
+Miggy Mango,31/10/2026,0.00,1,17520.69,0.00%,Normal
+Paul Castro,31/10/2026,21197.32,0,0.00,0.00%,Normal
+Samantha Castillo,31/10/2026,6581.03,0,0.00,0.00%,Normal
 Ana Cruz,01/11/2026,0.00,1,30308.12,0.00%,Normal
 Angelo Ramos,01/11/2026,0.00,1,34604.27,0.00%,Normal
 Camille Del Rosario,01/11/2026,0.00,1,18449.80,0.00%,Normal
@@ -6909,6 +7475,7 @@ Ralph Josh Bacon,02/11/2026,15842.69,0,0.00,0.00%,Normal
 Ramon Garcia,02/11/2026,17248.99,0,0.00,0.00%,Normal
 Ramon Tomas,02/11/2026,0.00,1,32311.39,0.00%,Normal
 Rhea Ramos,02/11/2026,35014.69,0,0.00,0.00%,Normal
+Jose Mendoza,03/11/2026,34383.39,1,23721.97,144.94%,Suspicious
 Bea Andrada,03/11/2026,1760.74,0,0.00,0.00%,Normal
 Bea Ramos,03/11/2026,31706.54,0,0.00,0.00%,Normal
 Camille Del Rosario,03/11/2026,0.00,2,27352.27,0.00%,Normal
@@ -6927,6 +7494,7 @@ Paolo Aquino,03/11/2026,0.00,1,14577.57,0.00%,Normal
 Paul Ocampo,03/11/2026,0.00,1,32145.67,0.00%,Normal
 Samantha Navarro,03/11/2026,4689.76,0,0.00,0.00%,Normal
 Samantha Tomas,03/11/2026,0.00,1,20016.07,0.00%,Normal
+Paul Ocampo,04/11/2026,18035.55,1,13812.71,130.57%,Suspicious
 Angel Flores,04/11/2026,7915.88,0,0.00,0.00%,Normal
 Bea Tomas,04/11/2026,19024.41,0,0.00,0.00%,Normal
 Dodong Bunal,04/11/2026,11043.92,0,0.00,0.00%,Normal
@@ -6948,6 +7516,8 @@ Nicole Torres,04/11/2026,18962.76,0,0.00,0.00%,Normal
 Paolo Aquino,04/11/2026,26572.82,0,0.00,0.00%,Normal
 Patricia Reyes,04/11/2026,0.00,1,6358.07,0.00%,Normal
 Paul Castro,04/11/2026,0.00,1,10661.96,0.00%,Normal
+Juan Tomas,05/11/2026,33957.42,1,25560.47,132.85%,Suspicious
+Patricia Reyes,05/11/2026,17484.90,1,11766.30,148.60%,Suspicious
 Ana Ocampo,05/11/2026,0.00,1,19461.87,0.00%,Normal
 Carlos Bautista,05/11/2026,0.00,1,1998.81,0.00%,Normal
 Carlos Mendoza,05/11/2026,0.00,1,23559.43,0.00%,Normal
@@ -6970,6 +7540,8 @@ Paul Navarro,05/11/2026,0.00,1,16947.58,0.00%,Normal
 Paul Ocampo,05/11/2026,0.00,1,26735.86,0.00%,Normal
 Ramon Del Rosario,05/11/2026,1205.16,0,0.00,0.00%,Normal
 Rhea Ramos,05/11/2026,0.00,1,5280.80,0.00%,Normal
+Dodong Darong,06/11/2026,39262.75,1,22653.83,173.32%,Suspicious
+Paul Castro,06/11/2026,13345.45,1,10262.09,130.05%,Suspicious
 Angelo Valenzuela,06/11/2026,0.00,1,30767.71,0.00%,Normal
 Bea Ramos,06/11/2026,2277.61,0,0.00,0.00%,Normal
 Carlos Bautista,06/11/2026,0.00,1,24220.92,0.00%,Normal
@@ -6987,6 +7559,7 @@ Juan Cruz,06/11/2026,26283.26,0,0.00,0.00%,Normal
 Mark Torres,06/11/2026,7762.62,1,8855.73,87.66%,Normal
 Nicole Bautista,06/11/2026,0.00,1,13319.44,0.00%,Normal
 Ramon Castillo,06/11/2026,0.00,1,13781.12,0.00%,Normal
+Nicole Torres,07/11/2026,35913.53,1,17879.01,200.87%,Suspicious
 Amoy Liu,07/11/2026,0.00,1,23392.69,0.00%,Normal
 Ana Ocampo,07/11/2026,12847.74,0,0.00,0.00%,Normal
 Bea Tomas,07/11/2026,14795.52,0,0.00,0.00%,Normal
@@ -7012,6 +7585,8 @@ Mico Harina,07/11/2026,16836.69,0,0.00,0.00%,Normal
 Paolo Ocampo,07/11/2026,0.00,1,24425.92,0.00%,Normal
 Samantha Navarro,07/11/2026,0.00,1,29243.77,0.00%,Normal
 Samantha Torres,07/11/2026,17379.57,0,0.00,0.00%,Normal
+Ramon Castillo,08/11/2026,31985.33,1,22312.18,143.35%,Suspicious
+Rhea Ramos,08/11/2026,31513.72,1,13410.22,235.00%,Suspicious
 Amoy Liu,08/11/2026,0.00,1,3732.76,0.00%,Normal
 Angel Mendoza,08/11/2026,0.00,1,10876.59,0.00%,Normal
 Angelo Valenzuela,08/11/2026,9980.92,0,0.00,0.00%,Normal
@@ -7036,6 +7611,8 @@ Patricia Mercado,08/11/2026,16501.20,0,0.00,0.00%,Normal
 Ramon Garcia,08/11/2026,0.00,1,33613.43,0.00%,Normal
 Ramon Tomas,08/11/2026,21311.89,0,0.00,0.00%,Normal
 Samantha Castillo,08/11/2026,0.00,1,3558.91,0.00%,Normal
+Camille Tomas,09/11/2026,39830.28,1,32152.43,123.88%,Suspicious
+Joug de Asim,09/11/2026,18415.05,1,16239.41,113.40%,Suspicious
 Amoy Liu,09/11/2026,0.00,1,25620.57,0.00%,Normal
 Angelo Valenzuela,09/11/2026,28970.98,0,0.00,0.00%,Normal
 Christian Tomas,09/11/2026,38718.67,0,0.00,0.00%,Normal
@@ -7060,6 +7637,7 @@ Mark Domingo,09/11/2026,0.00,1,6579.74,0.00%,Normal
 Miggy Mango,09/11/2026,6215.34,0,0.00,0.00%,Normal
 Patricia Reyes,09/11/2026,2918.59,2,52583.72,5.55%,Normal
 Rhea Ramos,09/11/2026,11965.01,0,0.00,0.00%,Normal
+Gabriel Rivera,10/11/2026,28034.95,1,1392.16,2013.77%,Suspicious
 Ana Cruz,10/11/2026,26279.30,0,0.00,0.00%,Normal
 Dodong Bina,10/11/2026,14348.42,0,0.00,0.00%,Normal
 Gabriel Domingo,10/11/2026,6503.56,1,17451.67,37.27%,Normal
@@ -7073,6 +7651,7 @@ Paul Ocampo,10/11/2026,4624.20,0,0.00,0.00%,Normal
 Ralph Josh Bacon,10/11/2026,60631.69,0,0.00,0.00%,Normal
 Ramon Garcia,10/11/2026,0.00,1,13827.22,0.00%,Normal
 Samantha Tomas,10/11/2026,22666.12,0,0.00,0.00%,Normal
+Francis Bautista,11/11/2026,6822.58,1,6372.13,107.07%,Suspicious
 Angel Salazar,11/11/2026,28525.21,0,0.00,0.00%,Normal
 Carlos Bautista,11/11/2026,24195.23,0,0.00,0.00%,Normal
 Christian Tomas,11/11/2026,17152.21,0,0.00,0.00%,Normal
@@ -7096,6 +7675,7 @@ Ramon Castillo,11/11/2026,0.00,1,10915.66,0.00%,Normal
 Ramon Garcia,11/11/2026,20762.72,0,0.00,0.00%,Normal
 Ramon Reyes,11/11/2026,0.00,1,13786.40,0.00%,Normal
 Ramon Tomas,11/11/2026,2293.66,0,0.00,0.00%,Normal
+Jasmine Valenzuela,12/11/2026,16853.18,1,9305.70,181.11%,Suspicious
 Ana Villanueva,12/11/2026,7198.53,0,0.00,0.00%,Normal
 Angelo Ramos,12/11/2026,0.00,1,23308.07,0.00%,Normal
 Bea Bautista,12/11/2026,23874.98,0,0.00,0.00%,Normal
@@ -7164,6 +7744,7 @@ Nicole Torres,14/11/2026,0.00,1,10407.56,0.00%,Normal
 Patricia Reyes,14/11/2026,0.00,1,20186.30,0.00%,Normal
 Paul Ocampo,14/11/2026,0.00,1,12716.43,0.00%,Normal
 Ramon Castillo,14/11/2026,33532.55,0,0.00,0.00%,Normal
+Dodong Bunal,15/11/2026,17727.25,1,10272.21,172.57%,Suspicious
 Ana Cruz,15/11/2026,1797.83,0,0.00,0.00%,Normal
 Angel Mendoza,15/11/2026,0.00,1,21920.47,0.00%,Normal
 Angel Salazar,15/11/2026,0.00,1,33850.79,0.00%,Normal
@@ -7247,6 +7828,7 @@ Ramon Andrada,18/11/2026,0.00,1,19826.68,0.00%,Normal
 Ramon Del Rosario,18/11/2026,0.00,1,27734.34,0.00%,Normal
 Rhea Ramos,18/11/2026,0.00,1,5123.64,0.00%,Normal
 Samantha Navarro,18/11/2026,26418.82,0,0.00,0.00%,Normal
+Nicole Castro,19/11/2026,22727.46,1,24404.17,93.13%,Suspicious
 Angel Salazar,19/11/2026,0.00,1,30597.83,0.00%,Normal
 Angelo Ramos,19/11/2026,24201.32,0,0.00,0.00%,Normal
 Camille Tomas,19/11/2026,6090.67,0,0.00,0.00%,Normal
@@ -7265,6 +7847,7 @@ Paul Ocampo,19/11/2026,17014.57,0,0.00,0.00%,Normal
 Ralph Josh Bacon,19/11/2026,32354.59,0,0.00,0.00%,Normal
 Ramon Del Rosario,19/11/2026,3653.45,0,0.00,0.00%,Normal
 Rhea Ramos,19/11/2026,0.00,1,13255.69,0.00%,Normal
+Dodong Alcala,20/11/2026,27373.51,1,16189.43,169.08%,Suspicious
 Amoy Liu,20/11/2026,0.00,1,19694.19,0.00%,Normal
 Ana Villanueva,20/11/2026,8224.15,0,0.00,0.00%,Normal
 Angelo Valenzuela,20/11/2026,0.00,1,1093.07,0.00%,Normal
@@ -7290,6 +7873,7 @@ Patricia Salazar,20/11/2026,0.00,1,28466.58,0.00%,Normal
 Paul Castro,20/11/2026,0.00,1,21088.25,0.00%,Normal
 Paul Ocampo,20/11/2026,22374.09,0,0.00,0.00%,Normal
 Samantha Navarro,20/11/2026,36321.70,0,0.00,0.00%,Normal
+Gabriel Bautista,21/11/2026,21727.54,1,7496.97,289.82%,Suspicious
 Amoy Liu,21/11/2026,26903.26,0,0.00,0.00%,Normal
 Ana Villanueva,21/11/2026,0.00,1,14453.53,0.00%,Normal
 Dodong Bina,21/11/2026,0.00,1,8679.22,0.00%,Normal
@@ -7348,6 +7932,7 @@ Mary Grace Piattos,23/11/2026,0.00,1,14976.95,0.00%,Normal
 Nicole Bautista,23/11/2026,0.00,1,31778.97,0.00%,Normal
 Nicole Torres,23/11/2026,0.00,1,32847.21,0.00%,Normal
 Samantha Castillo,23/11/2026,0.00,1,5502.68,0.00%,Normal
+Angel Flores,24/11/2026,31713.92,1,11492.57,275.95%,Suspicious
 Bea Tomas,24/11/2026,0.00,1,33812.15,0.00%,Normal
 Carlos Bautista,24/11/2026,3445.53,0,0.00,0.00%,Normal
 Fernan Amuy,24/11/2026,0.00,1,10697.89,0.00%,Normal
@@ -7418,6 +8003,8 @@ Patricia Salazar,26/11/2026,0.00,1,7147.51,0.00%,Normal
 Paul Navarro,26/11/2026,4583.39,0,0.00,0.00%,Normal
 Ramon Castillo,26/11/2026,0.00,1,1446.35,0.00%,Normal
 Rhea Ramos,26/11/2026,24772.60,0,0.00,0.00%,Normal
+Grace Navarro,27/11/2026,26898.92,1,6715.01,400.58%,Suspicious
+Samantha Navarro,27/11/2026,6936.16,1,7052.37,98.35%,Suspicious
 Amoy Liu,27/11/2026,4285.08,0,0.00,0.00%,Normal
 Angel Mendoza,27/11/2026,0.00,1,18227.45,0.00%,Normal
 Bea Bautista,27/11/2026,0.00,1,28132.60,0.00%,Normal
@@ -7435,6 +8022,8 @@ Miggy Mango,27/11/2026,0.00,1,9306.00,0.00%,Normal
 Paolo Ocampo,27/11/2026,0.00,1,17421.88,0.00%,Normal
 Paul Castro,27/11/2026,17953.48,0,0.00,0.00%,Normal
 Ramon Garcia,27/11/2026,13596.27,0,0.00,0.00%,Normal
+Bea Andrada,28/11/2026,24048.65,1,23451.47,102.55%,Suspicious
+Gabriel Mercado,28/11/2026,14435.88,1,5470.20,263.90%,Suspicious
 Angelo Ramos,28/11/2026,16481.66,0,0.00,0.00%,Normal
 Bea Tomas,28/11/2026,21673.61,0,0.00,0.00%,Normal
 Carlos Mendoza,28/11/2026,0.00,1,17459.55,0.00%,Normal
@@ -7454,6 +8043,8 @@ Juan Tomas,28/11/2026,34114.37,0,0.00,0.00%,Normal
 Mico Harina,28/11/2026,31210.07,0,0.00,0.00%,Normal
 Paul Navarro,28/11/2026,9580.48,0,0.00,0.00%,Normal
 Paul Ocampo,28/11/2026,15936.27,0,0.00,0.00%,Normal
+Angelo Valenzuela,29/11/2026,29593.55,1,18977.00,155.94%,Suspicious
+Gabriel Bautista,29/11/2026,35688.65,1,8450.10,422.35%,Suspicious
 Ana Cruz,29/11/2026,21145.32,0,0.00,0.00%,Normal
 Angelo Ramos,29/11/2026,50705.25,0,0.00,0.00%,Normal
 Bea Torres,29/11/2026,33756.87,0,0.00,0.00%,Normal

@@ -5,18 +5,18 @@
  "total_balance": 27109151.00,
  "total_interest_expense": 111629.04,
  "privelege_tiers": {
-   "silver": 98,
-   "gold": 2,
+   "silver": 75,
+   "gold": 10,
    "platinum": 0
  },
  "risk_flags": {
-   "normal": 7132,
-   "suspicious": 339
+   "normal": 7737,
+   "suspicious": 325
  },
- "safe_to_lend": 15586605.48,
+ "safe_to_lend": 15269236.33,
  "stability_rating": {
    "stable": 0,
-   "moderate": 26,
-   "volatile": 74
+   "moderate": 27,
+   "volatile": 73
  }
 }

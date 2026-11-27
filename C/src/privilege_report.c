@@ -60,7 +60,7 @@ void generatePrivelegeReport(UT_array *reportOneRecords){
         double prevMonthBal = 0.0; // Tracks the balance from last month
         double currentBal = 0.0; // Tracks the current balance
         double eod[31] = {0}; //balance seen at the end of day of each day of the month
-        bool hasTransaction[31] = {0}; //whether a day has had a transaction
+        int hasTransaction[31] = {0}; //whether a day has had a transaction
         bool firstTransaction = true;
         int openDay, openMon, openYear;
 
@@ -78,8 +78,18 @@ void generatePrivelegeReport(UT_array *reportOneRecords){
             if(t->year < fyear || (t->year == fyear && t->month < fmon)){
                 prevMonthBal = t->balance;
             } else if (t->year == fyear && t->month == fmon){
+                // if (!strcmp(acc->accName,"Ralph Josh Bacon")){
+                //     printf("Found!");
+                // }
                 eod[t->day - 1] = t->balance; //Latest transaction that updated it is retained
-                hasTransaction[t->day = 1] = 1;
+                hasTransaction[t->day - 1] = 1;
+                
+                // if (!strcmp(acc->accName,"Ralph Josh Bacon")){
+                //     for (int i = 0; i < 31; i++){
+                //         printf("%f %d - ", eod[i], hasTransaction[i]);
+                //     }
+                //     printf("\n");
+                // }
             }
         }
 
@@ -90,7 +100,13 @@ void generatePrivelegeReport(UT_array *reportOneRecords){
                 bal = eod[d];
             }
             sum += bal;
+            // if (!strcmp(acc->accName,"Ralph Josh Bacon")){
+            //     printf("%f, %f\n", sum, bal);
+            // }
         }
+        // if (!strcmp(acc->accName,"Ralph Josh Bacon")){
+        //     printf("%f / %d\n", sum, days);
+        // }
         double adb = sum / (double) days;
 
         //Saving Report 1 Data

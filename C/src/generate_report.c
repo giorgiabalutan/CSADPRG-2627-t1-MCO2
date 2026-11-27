@@ -16,6 +16,8 @@
 #define REPORT2 "report2_interest_expense_projection.csv"
 #define REPORT3 "report3_suspicious_client_behavior.csv"
 #define REPORT4 "report4_lending_safety.csv"
+#define PRIVILEGE_MIN_BAL 100000.00
+#define INTEREST_MIN_BAL 10000.00
 
 void generateReport(){
     int select = 0;
@@ -77,6 +79,10 @@ void generateReport(){
         for (PrivelegeReportRecord *r1 = NULL; (r1 = utarray_next(reportOneRecords,r1));){
             nAccounts++;
             totalBalance += r1->CurrentBalance;
+            // Filters out under minimum balance.
+            if (r1->AverageDailyBalance < PRIVILEGE_MIN_BAL){
+                continue;
+            }
             if (r1->tier == PLATINUM){
                 nPlatinum++;
             }else if (r1->tier == GOLD){
@@ -108,6 +114,10 @@ void generateReport(){
         }
         fprintf(f2, "AccountName,CurrentBalance,ExpectedInterest\n");
         for (InterestReportRecord *r2 = NULL; (r2 = utarray_next(reportTwoRecords,r2));){
+            // Filters under minimum balance
+            if (r2->CurrentBalance < INTEREST_MIN_BAL){
+                continue;
+            }
             totalInterestExpense += r2->ExpectedInterest;
             fprintf(f2, "%s,%.2f,%.2f\n",
             r2->AccountName, r2->CurrentBalance, r2->ExpectedInterest
@@ -185,6 +195,10 @@ void generateReport(){
         int displayCount = 0;
         printf("AccountName,AccountAge,CurrentBalance,AverageDailyBalance,PrivelegeTier\n");
         for (PrivelegeReportRecord *r1 = NULL; (r1 = utarray_next(reportOneRecords,r1));){
+            // Filters out under minimum balance.
+            if (r1->AverageDailyBalance < PRIVILEGE_MIN_BAL){
+                continue;
+            }
             printf("%s,%d,%.2f,%.2f,%s\n",
             r1->AccountName, r1->AccountAge, r1->CurrentBalance, r1->AverageDailyBalance,
             r1->tier == PLATINUM? "Platinum" :
@@ -204,6 +218,10 @@ void generateReport(){
         displayCount = 0;
         printf("AccountName,CurrentBalance,ExpectedInterest\n");
         for (InterestReportRecord *r2 = NULL; (r2 = utarray_next(reportTwoRecords,r2));){
+            // Filters under minimum balance
+            if (r2->CurrentBalance < INTEREST_MIN_BAL){
+                continue;
+            }
             printf("%s,%.2f,%.2f\n",
             r2->AccountName, r2->CurrentBalance, r2->ExpectedInterest
             );
