@@ -111,7 +111,7 @@ updateBalance <- function(currentDf, target_account, command, value, newBal) {
     slice(1) %>%
     pull(account_number)
   
-  newRow <- data.frame(
+  newRow <- tibble(
     account_name = target_account,
     account_number = accountNumber,
     date = as_date(now()),
@@ -252,7 +252,8 @@ generateReport1 <- function(currentDf) {
         AverageDailyBalance < 500000 ~ "Silver",
         AverageDailyBalance < 1000000 ~ "Gold",
         AverageDailyBalance >= 500000 ~ "Platinum"
-      )
+      ),
+      AverageDailyBalance = sprintf("%.2f", AverageDailyBalance)
     )
   
   account_ages <- currentDf %>%
@@ -268,7 +269,9 @@ generateReport1 <- function(currentDf) {
     left_join(privilege_tiers, by = "account_number") %>%
     filter(AverageDailyBalance > 100000) %>%
     arrange(desc(AverageDailyBalance), account_name) %>%
-    select(AccountName = account_name, AccountAge, CurrentBalance, AverageDailyBalance, PrivilegeTier)
+    mutate(CurrentBalance = sprintf("%.2f", CurrentBalance)) %>%
+    select(AccountName = account_name, AccountAge, CurrentBalance, 
+           AverageDailyBalance, PrivilegeTier)
   
   
   print(kable(head(report1Df, 2), digits = 2))
@@ -286,7 +289,9 @@ generateReport2 <- function(currentDf) {
     filter(current_balance >= 10000) %>%
     ungroup() %>%
     mutate(ExpectedInterest = round_half_up(current_balance * ((1 + 0.05 / 365)^30 - 1), 2),
-           CurrentBalance = round_half_up(current_balance, 2)) %>%
+           CurrentBalance = round_half_up(current_balance, 2),
+           CurrentBalance = sprintf("%.2f", CurrentBalance),
+           ExpectedInterest = sprintf("%.2f", ExpectedInterest)) %>%
     arrange(desc(ExpectedInterest), account_name) %>%
     select(AccountName = account_name, CurrentBalance, ExpectedInterest)
   
@@ -325,7 +330,10 @@ generateReport3 <- function(currentDf) {
                                TotalDepositAmounts == 0 | TotalWithdrawalAmounts == 0 ~ "Normal",
                                TurnoverVelocity >= 90 ~ "Suspicious",
                                TRUE ~ "Normal"
-           )) %>%
+           ),
+           TotalWithdrawalAmounts = sprintf("%.2f", TotalWithdrawalAmounts),
+           TotalDepositAmounts = sprintf("%.2f", TotalDepositAmounts),
+           TurnoverVelocity = sprintf("%.2f", TurnoverVelocity)) %>%
     select(AccountName = account_name, Date = date, 
            TotalWithdrawalAmounts, NumberOfDeposits, TotalDepositAmounts,
            TurnoverVelocity, RiskFlagLevel) %>%
@@ -352,18 +360,21 @@ generateReport4 <- function(currentDf) {
   
   report4Df <- quarterly_balance %>%
     mutate(
-      Q1_to_Q2PctChange = round_half_up((Q2 - Q1) / Q1 * 100, 2),
-      Q2_to_Q3PctChange = round_half_up((Q3 - Q2) / Q2 * 100, 2),
-      Q3_to_Q4PctChange = round_half_up((Q4 - Q3) / Q3 * 100, 2),
-      YearTotalBalanceGrowth = round_half_up((Q4 - Q1) / Q1 * 100, 2),
+      Q1_to_Q2PctChange = sprintf("%.2f", round_half_up((Q2 - Q1) / Q1 * 100, 2)),
+      Q2_to_Q3PctChange = sprintf("%.2f", round_half_up((Q3 - Q2) / Q2 * 100, 2)),
+      Q3_to_Q4PctChange = sprintf("%.2f", round_half_up((Q4 - Q3) / Q3 * 100, 2)),
+      YearTotalBalanceGrowth = sprintf("%.2f", round_half_up((Q4 - Q1) / Q1 * 100, 2)),
       Description = case_when(
         YearTotalBalanceGrowth > 0 ~ "More Deposits",
         YearTotalBalanceGrowth < 0 ~ "More Withdrawals",
         .default = "No Growth"
       )
     ) %>%
-    select(AccountName = account_name, Q1_to_Q2PctChange, Q2_to_Q3PctChange,
-           Q3_to_Q4PctChange, YearTotalBalanceGrowth, Description) %>%
+    select(AccountName = account_name, Q1_to_Q2PctChange, 
+           Q2_to_Q3PctChange,
+           Q3_to_Q4PctChange,
+           YearTotalBalanceGrowth,
+           Description) %>%
     arrange(AccountName)
   
   print(kable(head(report4Df, 2), digits = 2))
@@ -382,16 +393,16 @@ generateJSON <- function(currentDf, report1Df, report2Df, report3Df, report4Df) 
   
   JSONDf <- tibble(
     TotalAccounts = n_distinct(currentDf$account_number, na.rm = TRUE),
-    TotalDepositAmount = round_half_up(sum(currentDf$amount[currentDf$type == "deposit"], na.rm = TRUE), 2),
-    TotalWithdrawAmount = round_half_up(sum(currentDf$amount[currentDf$type == "withdrawal"], na.rm = TRUE), 2),
-    TotalInterestExpense = round_half_up(sum(report2Df$ExpectedInterest, na.rm = TRUE), 2),
-    TotalBalance = round_half_up(sum(currentBalances$current_balance, na.rm = TRUE), 2),
+    TotalDepositAmount = round_half_up(sum(as.numeric(currentDf$amount[currentDf$type == "deposit"]), na.rm = TRUE), 2),
+    TotalWithdrawAmount = round_half_up(sum(as.numeric(currentDf$amount[currentDf$type == "withdrawal"]), na.rm = TRUE), 2),
+    TotalInterestExpense = round_half_up(sum(as.numeric(report2Df$ExpectedInterest), na.rm = TRUE), 2),
+    TotalBalance = round_half_up(sum(as.numeric(currentBalances$current_balance), na.rm = TRUE), 2),
     TotalSilverMembers = sum(report1Df$PrivilegeTier == "Silver", na.rm = TRUE),
     TotalGoldMembers = sum(report1Df$PrivilegeTier == "Gold", na.rm = TRUE),
     TotalPlatinumMembers = sum(report1Df$PrivilegeTier == "Platinum", na.rm = TRUE),
     TotalNormalActivity = sum(report3Df$RiskFlagLevel == "Normal", na.rm = TRUE),
     TotalSuspiciousActivity = sum(report3Df$RiskFlagLevel == "Suspicious", na.rm = TRUE),
-    AvgYearBalanceGrowth = round_half_up(mean(report4Df$YearTotalBalanceGrowth, na.rm = TRUE), 2)
+    AvgYearBalanceGrowth = round_half_up(mean(as.numeric(report4Df$YearTotalBalanceGrowth), na.rm = TRUE), 2)
   )
   
   write_json(JSONDf, "summary.json", pretty = TRUE, auto_unbox = TRUE, na = NULL)
